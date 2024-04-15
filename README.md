@@ -1,4 +1,4 @@
-#Disney Big Data Science Management Internship Portfolio
+# Disney Big Data Science Management Internship Portfolio
 
 Welcome to our Disney Big Data Science Management Internship Portfolio! This repository showcases the case studies and analyses completed by our team during our internship program. Each case study provides valuable insights into different aspects of Disney World's operations, from ride wait times to restaurant recommendations.
 
@@ -33,7 +33,7 @@ Each case study is organized into separate folders, containing relevant data, an
 The README.md file in each folder provides an overview of the case study objectives, methodologies, and key findings.
 Presentation slides and other supplementary materials are included for reference.
 Team Members:
-Jefford Secondes c0865112 
-Sarathchandran Santhosh c0864346 
-Jay Savjibhai Davra c0864662 
-Rutvick Rajnibhai c0865187
+* Jefford Secondes c0865112 
+* Sarathchandran Santhosh c0864346 
+* Jay Savjibhai Davra c0864662 
+* Rutvick Rajnibhai c0865187
