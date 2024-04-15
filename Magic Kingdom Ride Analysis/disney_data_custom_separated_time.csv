@@ -1,0 +1,3193 @@
+Date,Daytime,Ride_Name,Fast_Pass_Plus_Tickets,Total_Ticket_Sale_In_Last_Hour,Highest_Age_Group
+2024-01-27,09:00:00,Enchanted Tiki Room,4,64,Adult
+2024-01-27,10:00:00,Enchanted Tiki Room,16,81,Teen
+2024-01-27,11:00:00,Enchanted Tiki Room,25,63,Child
+2024-01-27,12:00:00,Enchanted Tiki Room,8,104,Child
+2024-01-27,13:00:00,Enchanted Tiki Room,45,123,Teen
+2024-01-27,14:00:00,Enchanted Tiki Room,113,229,Child
+2024-01-27,15:00:00,Enchanted Tiki Room,88,243,Senior
+2024-01-27,16:00:00,Enchanted Tiki Room,69,156,Adult
+2024-01-27,17:00:00,Enchanted Tiki Room,55,101,Teen
+2024-01-27,18:00:00,Enchanted Tiki Room,120,278,Adult
+2024-01-27,19:00:00,Enchanted Tiki Room,59,171,Teen
+2024-01-27,20:00:00,Enchanted Tiki Room,41,98,Child
+2024-01-27,21:00:00,Enchanted Tiki Room,25,55,Child
+2024-01-27,22:00:00,Enchanted Tiki Room,31,72,Adult
+2024-01-27,09:00:00,Jungle Cruise,19,55,Child
+2024-01-27,10:00:00,Jungle Cruise,10,98,Adult
+2024-01-27,11:00:00,Jungle Cruise,40,96,Teen
+2024-01-27,12:00:00,Jungle Cruise,5,58,Teen
+2024-01-27,13:00:00,Jungle Cruise,116,297,Child
+2024-01-27,14:00:00,Jungle Cruise,91,159,Child
+2024-01-27,15:00:00,Jungle Cruise,75,197,Senior
+2024-01-27,16:00:00,Jungle Cruise,147,262,Adult
+2024-01-27,17:00:00,Jungle Cruise,58,141,Adult
+2024-01-27,18:00:00,Jungle Cruise,79,153,Adult
+2024-01-27,19:00:00,Jungle Cruise,165,279,Child
+2024-01-27,20:00:00,Jungle Cruise,27,88,Teen
+2024-01-27,21:00:00,Jungle Cruise,30,60,Senior
+2024-01-27,22:00:00,Jungle Cruise,37,67,Teen
+2024-01-27,09:00:00,The Magic Carpets of Aladdin,8,91,Teen
+2024-01-27,10:00:00,The Magic Carpets of Aladdin,14,54,Senior
+2024-01-27,11:00:00,The Magic Carpets of Aladdin,8,84,Teen
+2024-01-27,12:00:00,The Magic Carpets of Aladdin,17,90,Senior
+2024-01-27,13:00:00,The Magic Carpets of Aladdin,117,201,Senior
+2024-01-27,14:00:00,The Magic Carpets of Aladdin,52,136,Teen
+2024-01-27,15:00:00,The Magic Carpets of Aladdin,87,163,Adult
+2024-01-27,16:00:00,The Magic Carpets of Aladdin,140,291,Senior
+2024-01-27,17:00:00,The Magic Carpets of Aladdin,105,249,Adult
+2024-01-27,18:00:00,The Magic Carpets of Aladdin,54,156,Senior
+2024-01-27,19:00:00,The Magic Carpets of Aladdin,67,123,Child
+2024-01-27,20:00:00,The Magic Carpets of Aladdin,17,57,Teen
+2024-01-27,21:00:00,The Magic Carpets of Aladdin,47,100,Child
+2024-01-27,22:00:00,The Magic Carpets of Aladdin,33,74,Senior
+2024-01-27,09:00:00,Pirates of the Caribbean,25,117,Child
+2024-01-27,10:00:00,Pirates of the Caribbean,25,64,Adult
+2024-01-27,11:00:00,Pirates of the Caribbean,12,93,Adult
+2024-01-27,12:00:00,Pirates of the Caribbean,16,105,Senior
+2024-01-27,13:00:00,Pirates of the Caribbean,60,100,Adult
+2024-01-27,14:00:00,Pirates of the Caribbean,124,228,Teen
+2024-01-27,15:00:00,Pirates of the Caribbean,136,229,Child
+2024-01-27,16:00:00,Pirates of the Caribbean,102,260,Teen
+2024-01-27,17:00:00,Pirates of the Caribbean,57,139,Teen
+2024-01-27,18:00:00,Pirates of the Caribbean,143,238,Child
+2024-01-27,19:00:00,Pirates of the Caribbean,102,253,Senior
+2024-01-27,20:00:00,Pirates of the Caribbean,14,51,Adult
+2024-01-27,21:00:00,Pirates of the Caribbean,25,69,Child
+2024-01-27,22:00:00,Pirates of the Caribbean,17,65,Child
+2024-01-27,09:00:00,Swiss Family Treehouse,11,112,Teen
+2024-01-27,10:00:00,Swiss Family Treehouse,24,66,Teen
+2024-01-27,11:00:00,Swiss Family Treehouse,32,83,Senior
+2024-01-27,12:00:00,Swiss Family Treehouse,31,77,Teen
+2024-01-27,13:00:00,Swiss Family Treehouse,110,282,Senior
+2024-01-27,14:00:00,Swiss Family Treehouse,136,271,Adult
+2024-01-27,15:00:00,Swiss Family Treehouse,123,212,Senior
+2024-01-27,16:00:00,Swiss Family Treehouse,49,130,Teen
+2024-01-27,17:00:00,Swiss Family Treehouse,47,116,Child
+2024-01-27,18:00:00,Swiss Family Treehouse,118,250,Teen
+2024-01-27,19:00:00,Swiss Family Treehouse,93,250,Child
+2024-01-27,20:00:00,Swiss Family Treehouse,13,54,Teen
+2024-01-27,21:00:00,Swiss Family Treehouse,12,54,Adult
+2024-01-27,22:00:00,Swiss Family Treehouse,29,54,Teen
+2024-01-27,09:00:00,Fantasyland,31,85,Teen
+2024-01-27,10:00:00,Fantasyland,16,119,Senior
+2024-01-27,11:00:00,Fantasyland,29,81,Senior
+2024-01-27,12:00:00,Fantasyland,9,74,Child
+2024-01-27,13:00:00,Fantasyland,116,268,Adult
+2024-01-27,14:00:00,Fantasyland,90,208,Senior
+2024-01-27,15:00:00,Fantasyland,89,286,Child
+2024-01-27,16:00:00,Fantasyland,49,115,Adult
+2024-01-27,17:00:00,Fantasyland,47,127,Teen
+2024-01-27,18:00:00,Fantasyland,70,148,Senior
+2024-01-27,19:00:00,Fantasyland,59,135,Teen
+2024-01-27,20:00:00,Fantasyland,33,67,Teen
+2024-01-27,21:00:00,Fantasyland,26,54,Child
+2024-01-27,22:00:00,Fantasyland,29,53,Child
+2024-01-27,09:00:00,The Barnstormer,13,61,Teen
+2024-01-27,10:00:00,The Barnstormer,37,102,Senior
+2024-01-27,11:00:00,The Barnstormer,24,77,Child
+2024-01-27,12:00:00,The Barnstormer,21,71,Child
+2024-01-27,13:00:00,The Barnstormer,76,199,Senior
+2024-01-27,14:00:00,The Barnstormer,75,173,Senior
+2024-01-27,15:00:00,The Barnstormer,51,139,Adult
+2024-01-27,16:00:00,The Barnstormer,93,155,Child
+2024-01-27,17:00:00,The Barnstormer,132,248,Child
+2024-01-27,18:00:00,The Barnstormer,117,291,Child
+2024-01-27,19:00:00,The Barnstormer,54,112,Senior
+2024-01-27,20:00:00,The Barnstormer,44,82,Teen
+2024-01-27,21:00:00,The Barnstormer,28,53,Child
+2024-01-27,22:00:00,The Barnstormer,15,61,Child
+2024-01-27,09:00:00,Dumbo the Flying Elephant,24,80,Child
+2024-01-27,10:00:00,Dumbo the Flying Elephant,35,81,Child
+2024-01-27,11:00:00,Dumbo the Flying Elephant,19,60,Adult
+2024-01-27,12:00:00,Dumbo the Flying Elephant,15,83,Adult
+2024-01-27,13:00:00,Dumbo the Flying Elephant,62,161,Senior
+2024-01-27,14:00:00,Dumbo the Flying Elephant,68,133,Adult
+2024-01-27,15:00:00,Dumbo the Flying Elephant,87,217,Child
+2024-01-27,16:00:00,Dumbo the Flying Elephant,45,102,Child
+2024-01-27,17:00:00,Dumbo the Flying Elephant,56,118,Teen
+2024-01-27,18:00:00,Dumbo the Flying Elephant,88,229,Teen
+2024-01-27,19:00:00,Dumbo the Flying Elephant,110,189,Child
+2024-01-27,20:00:00,Dumbo the Flying Elephant,28,65,Adult
+2024-01-27,21:00:00,Dumbo the Flying Elephant,29,60,Adult
+2024-01-27,22:00:00,Dumbo the Flying Elephant,48,89,Child
+2024-01-27,09:00:00,Enchanted Tales with Belle,29,120,Child
+2024-01-27,10:00:00,Enchanted Tales with Belle,15,67,Child
+2024-01-27,11:00:00,Enchanted Tales with Belle,26,63,Teen
+2024-01-27,12:00:00,Enchanted Tales with Belle,20,84,Teen
+2024-01-27,13:00:00,Enchanted Tales with Belle,114,283,Teen
+2024-01-27,14:00:00,Enchanted Tales with Belle,138,275,Adult
+2024-01-27,15:00:00,Enchanted Tales with Belle,104,229,Adult
+2024-01-27,16:00:00,Enchanted Tales with Belle,37,113,Senior
+2024-01-27,17:00:00,Enchanted Tales with Belle,53,170,Child
+2024-01-27,18:00:00,Enchanted Tales with Belle,100,185,Teen
+2024-01-27,19:00:00,Enchanted Tales with Belle,100,263,Teen
+2024-01-27,20:00:00,Enchanted Tales with Belle,47,97,Senior
+2024-01-27,21:00:00,Enchanted Tales with Belle,17,85,Child
+2024-01-27,22:00:00,Enchanted Tales with Belle,16,54,Child
+2024-01-27,09:00:00,it's a small world,41,97,Teen
+2024-01-27,10:00:00,it's a small world,14,105,Child
+2024-01-27,11:00:00,it's a small world,25,89,Child
+2024-01-27,12:00:00,it's a small world,18,95,Teen
+2024-01-27,13:00:00,it's a small world,90,270,Adult
+2024-01-27,14:00:00,it's a small world,141,299,Senior
+2024-01-27,15:00:00,it's a small world,137,258,Teen
+2024-01-27,16:00:00,it's a small world,92,160,Teen
+2024-01-27,17:00:00,it's a small world,85,145,Senior
+2024-01-27,18:00:00,it's a small world,38,106,Adult
+2024-01-27,19:00:00,it's a small world,177,300,Senior
+2024-01-27,20:00:00,it's a small world,33,92,Adult
+2024-01-27,21:00:00,it's a small world,16,60,Senior
+2024-01-27,22:00:00,it's a small world,26,52,Teen
+2024-01-27,09:00:00,Mad Tea Party,26,75,Adult
+2024-01-27,10:00:00,Mad Tea Party,17,89,Teen
+2024-01-27,11:00:00,Mad Tea Party,10,53,Senior
+2024-01-27,12:00:00,Mad Tea Party,21,92,Child
+2024-01-27,13:00:00,Mad Tea Party,113,297,Adult
+2024-01-27,14:00:00,Mad Tea Party,122,264,Senior
+2024-01-27,15:00:00,Mad Tea Party,153,273,Adult
+2024-01-27,16:00:00,Mad Tea Party,36,107,Adult
+2024-01-27,17:00:00,Mad Tea Party,70,145,Adult
+2024-01-27,18:00:00,Mad Tea Party,36,109,Senior
+2024-01-27,19:00:00,Mad Tea Party,100,188,Adult
+2024-01-27,20:00:00,Mad Tea Party,41,77,Child
+2024-01-27,21:00:00,Mad Tea Party,24,74,Adult
+2024-01-27,22:00:00,Mad Tea Party,25,52,Child
+2024-01-27,09:00:00,Mickey's PhilharMagic,46,116,Teen
+2024-01-27,10:00:00,Mickey's PhilharMagic,31,96,Child
+2024-01-27,11:00:00,Mickey's PhilharMagic,41,92,Adult
+2024-01-27,12:00:00,Mickey's PhilharMagic,16,65,Adult
+2024-01-27,13:00:00,Mickey's PhilharMagic,117,270,Adult
+2024-01-27,14:00:00,Mickey's PhilharMagic,106,203,Adult
+2024-01-27,15:00:00,Mickey's PhilharMagic,82,241,Teen
+2024-01-27,16:00:00,Mickey's PhilharMagic,106,207,Senior
+2024-01-27,17:00:00,Mickey's PhilharMagic,145,273,Teen
+2024-01-27,18:00:00,Mickey's PhilharMagic,124,257,Adult
+2024-01-27,19:00:00,Mickey's PhilharMagic,96,203,Child
+2024-01-27,20:00:00,Mickey's PhilharMagic,27,69,Teen
+2024-01-27,21:00:00,Mickey's PhilharMagic,31,77,Senior
+2024-01-27,22:00:00,Mickey's PhilharMagic,38,78,Teen
+2024-01-27,09:00:00,The Many Adventures of Winnie the Pooh,41,115,Teen
+2024-01-27,10:00:00,The Many Adventures of Winnie the Pooh,14,60,Adult
+2024-01-27,11:00:00,The Many Adventures of Winnie the Pooh,13,61,Adult
+2024-01-27,12:00:00,The Many Adventures of Winnie the Pooh,14,78,Teen
+2024-01-27,13:00:00,The Many Adventures of Winnie the Pooh,33,106,Teen
+2024-01-27,14:00:00,The Many Adventures of Winnie the Pooh,109,221,Child
+2024-01-27,15:00:00,The Many Adventures of Winnie the Pooh,93,216,Teen
+2024-01-27,16:00:00,The Many Adventures of Winnie the Pooh,148,283,Senior
+2024-01-27,17:00:00,The Many Adventures of Winnie the Pooh,95,226,Teen
+2024-01-27,18:00:00,The Many Adventures of Winnie the Pooh,69,137,Child
+2024-01-27,19:00:00,The Many Adventures of Winnie the Pooh,167,292,Child
+2024-01-27,20:00:00,The Many Adventures of Winnie the Pooh,47,99,Teen
+2024-01-27,21:00:00,The Many Adventures of Winnie the Pooh,33,61,Senior
+2024-01-27,22:00:00,The Many Adventures of Winnie the Pooh,30,53,Teen
+2024-01-27,09:00:00,Peter Pan's Flight,23,65,Teen
+2024-01-27,10:00:00,Peter Pan's Flight,42,109,Adult
+2024-01-27,11:00:00,Peter Pan's Flight,47,106,Senior
+2024-01-27,12:00:00,Peter Pan's Flight,40,120,Teen
+2024-01-27,13:00:00,Peter Pan's Flight,166,290,Senior
+2024-01-27,14:00:00,Peter Pan's Flight,82,215,Teen
+2024-01-27,15:00:00,Peter Pan's Flight,100,263,Senior
+2024-01-27,16:00:00,Peter Pan's Flight,97,260,Adult
+2024-01-27,17:00:00,Peter Pan's Flight,68,212,Adult
+2024-01-27,18:00:00,Peter Pan's Flight,61,160,Adult
+2024-01-27,19:00:00,Peter Pan's Flight,105,181,Child
+2024-01-27,20:00:00,Peter Pan's Flight,17,58,Teen
+2024-01-27,21:00:00,Peter Pan's Flight,22,74,Teen
+2024-01-27,22:00:00,Peter Pan's Flight,25,54,Senior
+2024-01-27,09:00:00,Prince Charming's Regal Carrousel,36,92,Senior
+2024-01-27,10:00:00,Prince Charming's Regal Carrousel,9,103,Teen
+2024-01-27,11:00:00,Prince Charming's Regal Carrousel,30,103,Child
+2024-01-27,12:00:00,Prince Charming's Regal Carrousel,35,98,Child
+2024-01-27,13:00:00,Prince Charming's Regal Carrousel,75,190,Senior
+2024-01-27,14:00:00,Prince Charming's Regal Carrousel,98,207,Teen
+2024-01-27,15:00:00,Prince Charming's Regal Carrousel,83,224,Adult
+2024-01-27,16:00:00,Prince Charming's Regal Carrousel,95,211,Child
+2024-01-27,17:00:00,Prince Charming's Regal Carrousel,80,199,Senior
+2024-01-27,18:00:00,Prince Charming's Regal Carrousel,100,285,Senior
+2024-01-27,19:00:00,Prince Charming's Regal Carrousel,65,132,Child
+2024-01-27,20:00:00,Prince Charming's Regal Carrousel,16,75,Child
+2024-01-27,21:00:00,Prince Charming's Regal Carrousel,43,91,Teen
+2024-01-27,22:00:00,Prince Charming's Regal Carrousel,25,79,Child
+2024-01-27,09:00:00,Princess Fairytale Hall,25,83,Adult
+2024-01-27,10:00:00,Princess Fairytale Hall,27,77,Adult
+2024-01-27,11:00:00,Princess Fairytale Hall,27,93,Adult
+2024-01-27,12:00:00,Princess Fairytale Hall,22,103,Child
+2024-01-27,13:00:00,Princess Fairytale Hall,66,220,Child
+2024-01-27,14:00:00,Princess Fairytale Hall,70,189,Child
+2024-01-27,15:00:00,Princess Fairytale Hall,180,299,Child
+2024-01-27,16:00:00,Princess Fairytale Hall,88,293,Teen
+2024-01-27,17:00:00,Princess Fairytale Hall,85,151,Child
+2024-01-27,18:00:00,Princess Fairytale Hall,89,259,Teen
+2024-01-27,19:00:00,Princess Fairytale Hall,60,132,Child
+2024-01-27,20:00:00,Princess Fairytale Hall,29,86,Senior
+2024-01-27,21:00:00,Princess Fairytale Hall,34,94,Adult
+2024-01-27,22:00:00,Princess Fairytale Hall,17,60,Teen
+2024-01-27,09:00:00,Seven Dwarfs Mine Train,10,89,Child
+2024-01-27,10:00:00,Seven Dwarfs Mine Train,37,89,Senior
+2024-01-27,11:00:00,Seven Dwarfs Mine Train,17,100,Child
+2024-01-27,12:00:00,Seven Dwarfs Mine Train,9,81,Adult
+2024-01-27,13:00:00,Seven Dwarfs Mine Train,135,275,Child
+2024-01-27,14:00:00,Seven Dwarfs Mine Train,135,244,Child
+2024-01-27,15:00:00,Seven Dwarfs Mine Train,89,188,Senior
+2024-01-27,16:00:00,Seven Dwarfs Mine Train,111,269,Child
+2024-01-27,17:00:00,Seven Dwarfs Mine Train,115,229,Adult
+2024-01-27,18:00:00,Seven Dwarfs Mine Train,59,103,Senior
+2024-01-27,19:00:00,Seven Dwarfs Mine Train,75,225,Senior
+2024-01-27,20:00:00,Seven Dwarfs Mine Train,36,73,Teen
+2024-01-27,21:00:00,Seven Dwarfs Mine Train,24,77,Adult
+2024-01-27,22:00:00,Seven Dwarfs Mine Train,49,89,Senior
+2024-01-27,09:00:00,Under the Sea: Journey of the Little Mermaid,35,109,Adult
+2024-01-27,10:00:00,Under the Sea: Journey of the Little Mermaid,19,91,Child
+2024-01-27,11:00:00,Under the Sea: Journey of the Little Mermaid,29,85,Teen
+2024-01-27,12:00:00,Under the Sea: Journey of the Little Mermaid,45,109,Senior
+2024-01-27,13:00:00,Under the Sea: Journey of the Little Mermaid,56,186,Senior
+2024-01-27,14:00:00,Under the Sea: Journey of the Little Mermaid,65,183,Senior
+2024-01-27,15:00:00,Under the Sea: Journey of the Little Mermaid,64,154,Adult
+2024-01-27,16:00:00,Under the Sea: Journey of the Little Mermaid,72,187,Adult
+2024-01-27,17:00:00,Under the Sea: Journey of the Little Mermaid,73,242,Teen
+2024-01-27,18:00:00,Under the Sea: Journey of the Little Mermaid,45,121,Senior
+2024-01-27,19:00:00,Under the Sea: Journey of the Little Mermaid,106,225,Teen
+2024-01-27,20:00:00,Under the Sea: Journey of the Little Mermaid,47,94,Senior
+2024-01-27,21:00:00,Under the Sea: Journey of the Little Mermaid,17,78,Child
+2024-01-27,22:00:00,Under the Sea: Journey of the Little Mermaid,24,68,Senior
+2024-01-27,09:00:00,Frontierland,20,81,Adult
+2024-01-27,10:00:00,Frontierland,44,110,Adult
+2024-01-27,11:00:00,Frontierland,42,104,Adult
+2024-01-27,12:00:00,Frontierland,33,95,Adult
+2024-01-27,13:00:00,Frontierland,68,178,Teen
+2024-01-27,14:00:00,Frontierland,69,130,Teen
+2024-01-27,15:00:00,Frontierland,60,180,Teen
+2024-01-27,16:00:00,Frontierland,54,149,Senior
+2024-01-27,17:00:00,Frontierland,91,170,Adult
+2024-01-27,18:00:00,Frontierland,70,125,Teen
+2024-01-27,19:00:00,Frontierland,65,175,Adult
+2024-01-27,20:00:00,Frontierland,24,61,Child
+2024-01-27,21:00:00,Frontierland,52,95,Teen
+2024-01-27,22:00:00,Frontierland,15,67,Child
+2024-01-27,09:00:00,Big Thunder Mountain,28,120,Teen
+2024-01-27,10:00:00,Big Thunder Mountain,13,112,Child
+2024-01-27,11:00:00,Big Thunder Mountain,31,86,Senior
+2024-01-27,12:00:00,Big Thunder Mountain,28,106,Teen
+2024-01-27,13:00:00,Big Thunder Mountain,43,113,Senior
+2024-01-27,14:00:00,Big Thunder Mountain,73,129,Child
+2024-01-27,15:00:00,Big Thunder Mountain,91,202,Child
+2024-01-27,16:00:00,Big Thunder Mountain,124,247,Child
+2024-01-27,17:00:00,Big Thunder Mountain,47,138,Adult
+2024-01-27,18:00:00,Big Thunder Mountain,45,121,Child
+2024-01-27,19:00:00,Big Thunder Mountain,131,242,Senior
+2024-01-27,20:00:00,Big Thunder Mountain,30,88,Senior
+2024-01-27,21:00:00,Big Thunder Mountain,38,78,Adult
+2024-01-27,22:00:00,Big Thunder Mountain,41,87,Adult
+2024-01-27,09:00:00,Country Bear Jamboree,26,57,Child
+2024-01-27,10:00:00,Country Bear Jamboree,35,76,Teen
+2024-01-27,11:00:00,Country Bear Jamboree,9,83,Teen
+2024-01-27,12:00:00,Country Bear Jamboree,13,80,Child
+2024-01-27,13:00:00,Country Bear Jamboree,42,140,Senior
+2024-01-27,14:00:00,Country Bear Jamboree,112,215,Senior
+2024-01-27,15:00:00,Country Bear Jamboree,54,174,Teen
+2024-01-27,16:00:00,Country Bear Jamboree,90,173,Adult
+2024-01-27,17:00:00,Country Bear Jamboree,160,279,Senior
+2024-01-27,18:00:00,Country Bear Jamboree,61,118,Teen
+2024-01-27,19:00:00,Country Bear Jamboree,92,167,Teen
+2024-01-27,20:00:00,Country Bear Jamboree,21,77,Teen
+2024-01-27,21:00:00,Country Bear Jamboree,27,91,Adult
+2024-01-27,22:00:00,Country Bear Jamboree,15,59,Child
+2024-01-27,09:00:00,Tom Sawyer Island,18,71,Adult
+2024-01-27,10:00:00,Tom Sawyer Island,13,106,Senior
+2024-01-27,11:00:00,Tom Sawyer Island,27,88,Adult
+2024-01-27,12:00:00,Tom Sawyer Island,45,114,Senior
+2024-01-27,13:00:00,Tom Sawyer Island,68,212,Child
+2024-01-27,14:00:00,Tom Sawyer Island,112,210,Adult
+2024-01-27,15:00:00,Tom Sawyer Island,97,254,Child
+2024-01-27,16:00:00,Tom Sawyer Island,46,123,Child
+2024-01-27,17:00:00,Tom Sawyer Island,151,295,Adult
+2024-01-27,18:00:00,Tom Sawyer Island,77,247,Teen
+2024-01-27,19:00:00,Tom Sawyer Island,102,220,Senior
+2024-01-27,20:00:00,Tom Sawyer Island,21,67,Senior
+2024-01-27,21:00:00,Tom Sawyer Island,46,90,Child
+2024-01-27,22:00:00,Tom Sawyer Island,34,80,Senior
+2024-01-27,09:00:00,Splash Mountain,23,92,Child
+2024-01-27,10:00:00,Splash Mountain,19,70,Senior
+2024-01-27,11:00:00,Splash Mountain,26,113,Senior
+2024-01-27,12:00:00,Splash Mountain,9,120,Senior
+2024-01-27,13:00:00,Splash Mountain,49,122,Adult
+2024-01-27,14:00:00,Splash Mountain,61,182,Senior
+2024-01-27,15:00:00,Splash Mountain,130,231,Child
+2024-01-27,16:00:00,Splash Mountain,153,268,Senior
+2024-01-27,17:00:00,Splash Mountain,64,205,Teen
+2024-01-27,18:00:00,Splash Mountain,96,232,Senior
+2024-01-27,19:00:00,Splash Mountain,115,260,Child
+2024-01-27,20:00:00,Splash Mountain,24,63,Teen
+2024-01-27,21:00:00,Splash Mountain,33,68,Senior
+2024-01-27,22:00:00,Splash Mountain,12,57,Teen
+2024-01-27,09:00:00,Liberty Square,17,70,Child
+2024-01-27,10:00:00,Liberty Square,38,120,Child
+2024-01-27,11:00:00,Liberty Square,10,78,Senior
+2024-01-27,12:00:00,Liberty Square,10,65,Senior
+2024-01-27,13:00:00,Liberty Square,111,283,Adult
+2024-01-27,14:00:00,Liberty Square,116,206,Senior
+2024-01-27,15:00:00,Liberty Square,82,220,Senior
+2024-01-27,16:00:00,Liberty Square,82,241,Senior
+2024-01-27,17:00:00,Liberty Square,88,148,Teen
+2024-01-27,18:00:00,Liberty Square,45,117,Senior
+2024-01-27,19:00:00,Liberty Square,111,187,Adult
+2024-01-27,20:00:00,Liberty Square,19,50,Adult
+2024-01-27,21:00:00,Liberty Square,45,87,Teen
+2024-01-27,22:00:00,Liberty Square,43,78,Senior
+2024-01-27,09:00:00,The Hall of Presidents,25,94,Senior
+2024-01-27,10:00:00,The Hall of Presidents,27,108,Teen
+2024-01-27,11:00:00,The Hall of Presidents,33,80,Senior
+2024-01-27,12:00:00,The Hall of Presidents,25,79,Child
+2024-01-27,13:00:00,The Hall of Presidents,96,181,Senior
+2024-01-27,14:00:00,The Hall of Presidents,166,280,Senior
+2024-01-27,15:00:00,The Hall of Presidents,101,198,Teen
+2024-01-27,16:00:00,The Hall of Presidents,136,226,Child
+2024-01-27,17:00:00,The Hall of Presidents,61,132,Adult
+2024-01-27,18:00:00,The Hall of Presidents,72,125,Senior
+2024-01-27,19:00:00,The Hall of Presidents,58,125,Senior
+2024-01-27,20:00:00,The Hall of Presidents,15,50,Senior
+2024-01-27,21:00:00,The Hall of Presidents,27,91,Child
+2024-01-27,22:00:00,The Hall of Presidents,29,80,Adult
+2024-01-27,09:00:00,Haunted Mansion,10,100,Adult
+2024-01-27,10:00:00,Haunted Mansion,35,118,Adult
+2024-01-27,11:00:00,Haunted Mansion,44,112,Child
+2024-01-27,12:00:00,Haunted Mansion,12,58,Adult
+2024-01-27,13:00:00,Haunted Mansion,84,158,Child
+2024-01-27,14:00:00,Haunted Mansion,70,211,Child
+2024-01-27,15:00:00,Haunted Mansion,75,213,Adult
+2024-01-27,16:00:00,Haunted Mansion,34,107,Adult
+2024-01-27,17:00:00,Haunted Mansion,45,114,Adult
+2024-01-27,18:00:00,Haunted Mansion,84,195,Teen
+2024-01-27,19:00:00,Haunted Mansion,75,162,Senior
+2024-01-27,20:00:00,Haunted Mansion,27,86,Teen
+2024-01-27,21:00:00,Haunted Mansion,16,61,Senior
+2024-01-27,22:00:00,Haunted Mansion,32,89,Senior
+2024-01-27,09:00:00,Liberty Square Riverboat,13,68,Senior
+2024-01-27,10:00:00,Liberty Square Riverboat,28,82,Adult
+2024-01-27,11:00:00,Liberty Square Riverboat,18,51,Adult
+2024-01-27,12:00:00,Liberty Square Riverboat,18,119,Child
+2024-01-27,13:00:00,Liberty Square Riverboat,128,213,Adult
+2024-01-27,14:00:00,Liberty Square Riverboat,98,250,Senior
+2024-01-27,15:00:00,Liberty Square Riverboat,105,276,Senior
+2024-01-27,16:00:00,Liberty Square Riverboat,64,177,Senior
+2024-01-27,17:00:00,Liberty Square Riverboat,74,223,Teen
+2024-01-27,18:00:00,Liberty Square Riverboat,95,197,Adult
+2024-01-27,19:00:00,Liberty Square Riverboat,97,247,Adult
+2024-01-27,20:00:00,Liberty Square Riverboat,23,51,Adult
+2024-01-27,21:00:00,Liberty Square Riverboat,12,50,Senior
+2024-01-27,22:00:00,Liberty Square Riverboat,24,68,Adult
+2024-01-27,09:00:00,Main Street USA,36,78,Teen
+2024-01-27,10:00:00,Main Street USA,11,82,Child
+2024-01-27,11:00:00,Main Street USA,14,55,Senior
+2024-01-27,12:00:00,Main Street USA,23,54,Adult
+2024-01-27,13:00:00,Main Street USA,98,287,Child
+2024-01-27,14:00:00,Main Street USA,70,175,Senior
+2024-01-27,15:00:00,Main Street USA,52,144,Teen
+2024-01-27,16:00:00,Main Street USA,139,238,Adult
+2024-01-27,17:00:00,Main Street USA,109,235,Adult
+2024-01-27,18:00:00,Main Street USA,54,142,Senior
+2024-01-27,19:00:00,Main Street USA,93,175,Adult
+2024-01-27,20:00:00,Main Street USA,28,57,Child
+2024-01-27,21:00:00,Main Street USA,21,59,Senior
+2024-01-27,22:00:00,Main Street USA,37,85,Child
+2024-01-27,09:00:00,Tomorrowland,5,100,Adult
+2024-01-27,10:00:00,Tomorrowland,15,118,Senior
+2024-01-27,11:00:00,Tomorrowland,21,97,Senior
+2024-01-27,12:00:00,Tomorrowland,11,97,Teen
+2024-01-27,13:00:00,Tomorrowland,66,220,Adult
+2024-01-27,14:00:00,Tomorrowland,95,256,Child
+2024-01-27,15:00:00,Tomorrowland,147,262,Senior
+2024-01-27,16:00:00,Tomorrowland,109,279,Senior
+2024-01-27,17:00:00,Tomorrowland,44,129,Child
+2024-01-27,18:00:00,Tomorrowland,43,109,Senior
+2024-01-27,19:00:00,Tomorrowland,43,129,Teen
+2024-01-27,20:00:00,Tomorrowland,24,84,Senior
+2024-01-27,21:00:00,Tomorrowland,34,79,Senior
+2024-01-27,22:00:00,Tomorrowland,26,87,Senior
+2024-01-27,09:00:00,Astro Orbiter,23,62,Senior
+2024-01-27,10:00:00,Astro Orbiter,6,85,Adult
+2024-01-27,11:00:00,Astro Orbiter,26,77,Senior
+2024-01-27,12:00:00,Astro Orbiter,23,80,Child
+2024-01-27,13:00:00,Astro Orbiter,113,275,Adult
+2024-01-27,14:00:00,Astro Orbiter,49,115,Adult
+2024-01-27,15:00:00,Astro Orbiter,89,148,Child
+2024-01-27,16:00:00,Astro Orbiter,70,216,Teen
+2024-01-27,17:00:00,Astro Orbiter,132,264,Child
+2024-01-27,18:00:00,Astro Orbiter,62,112,Adult
+2024-01-27,19:00:00,Astro Orbiter,56,162,Teen
+2024-01-27,20:00:00,Astro Orbiter,30,54,Teen
+2024-01-27,21:00:00,Astro Orbiter,29,87,Teen
+2024-01-27,22:00:00,Astro Orbiter,21,71,Child
+2024-01-27,09:00:00,Buzz Lightyear's Space Ranger Spin,12,85,Teen
+2024-01-27,10:00:00,Buzz Lightyear's Space Ranger Spin,25,119,Teen
+2024-01-27,11:00:00,Buzz Lightyear's Space Ranger Spin,4,64,Teen
+2024-01-27,12:00:00,Buzz Lightyear's Space Ranger Spin,14,51,Teen
+2024-01-27,13:00:00,Buzz Lightyear's Space Ranger Spin,100,250,Child
+2024-01-27,14:00:00,Buzz Lightyear's Space Ranger Spin,55,144,Child
+2024-01-27,15:00:00,Buzz Lightyear's Space Ranger Spin,70,132,Senior
+2024-01-27,16:00:00,Buzz Lightyear's Space Ranger Spin,78,234,Child
+2024-01-27,17:00:00,Buzz Lightyear's Space Ranger Spin,98,221,Adult
+2024-01-27,18:00:00,Buzz Lightyear's Space Ranger Spin,111,231,Child
+2024-01-27,19:00:00,Buzz Lightyear's Space Ranger Spin,99,215,Teen
+2024-01-27,20:00:00,Buzz Lightyear's Space Ranger Spin,20,89,Adult
+2024-01-27,21:00:00,Buzz Lightyear's Space Ranger Spin,17,79,Child
+2024-01-27,22:00:00,Buzz Lightyear's Space Ranger Spin,36,80,Senior
+2024-01-27,09:00:00,Carousel of Progress,23,63,Senior
+2024-01-27,10:00:00,Carousel of Progress,6,59,Adult
+2024-01-27,11:00:00,Carousel of Progress,7,68,Teen
+2024-01-27,12:00:00,Carousel of Progress,38,85,Adult
+2024-01-27,13:00:00,Carousel of Progress,97,197,Adult
+2024-01-27,14:00:00,Carousel of Progress,100,216,Senior
+2024-01-27,15:00:00,Carousel of Progress,69,125,Child
+2024-01-27,16:00:00,Carousel of Progress,134,267,Teen
+2024-01-27,17:00:00,Carousel of Progress,93,210,Teen
+2024-01-27,18:00:00,Carousel of Progress,82,205,Senior
+2024-01-27,19:00:00,Carousel of Progress,87,202,Child
+2024-01-27,20:00:00,Carousel of Progress,33,70,Adult
+2024-01-27,21:00:00,Carousel of Progress,34,92,Adult
+2024-01-27,22:00:00,Carousel of Progress,30,59,Child
+2024-01-27,09:00:00,"Monsters, Inc. Laugh Floor",7,61,Child
+2024-01-27,10:00:00,"Monsters, Inc. Laugh Floor",12,105,Adult
+2024-01-27,11:00:00,"Monsters, Inc. Laugh Floor",27,66,Child
+2024-01-27,12:00:00,"Monsters, Inc. Laugh Floor",12,92,Senior
+2024-01-27,13:00:00,"Monsters, Inc. Laugh Floor",109,190,Senior
+2024-01-27,14:00:00,"Monsters, Inc. Laugh Floor",89,284,Adult
+2024-01-27,15:00:00,"Monsters, Inc. Laugh Floor",99,253,Adult
+2024-01-27,16:00:00,"Monsters, Inc. Laugh Floor",61,126,Teen
+2024-01-27,17:00:00,"Monsters, Inc. Laugh Floor",71,139,Senior
+2024-01-27,18:00:00,"Monsters, Inc. Laugh Floor",90,157,Child
+2024-01-27,19:00:00,"Monsters, Inc. Laugh Floor",108,189,Adult
+2024-01-27,20:00:00,"Monsters, Inc. Laugh Floor",22,57,Teen
+2024-01-27,21:00:00,"Monsters, Inc. Laugh Floor",43,77,Child
+2024-01-27,22:00:00,"Monsters, Inc. Laugh Floor",33,88,Child
+2024-01-27,09:00:00,Space Mountain,17,73,Adult
+2024-01-27,10:00:00,Space Mountain,26,93,Child
+2024-01-27,11:00:00,Space Mountain,11,73,Senior
+2024-01-27,12:00:00,Space Mountain,9,58,Child
+2024-01-27,13:00:00,Space Mountain,66,123,Teen
+2024-01-27,14:00:00,Space Mountain,85,196,Senior
+2024-01-27,15:00:00,Space Mountain,66,187,Adult
+2024-01-27,16:00:00,Space Mountain,95,179,Adult
+2024-01-27,17:00:00,Space Mountain,179,298,Child
+2024-01-27,18:00:00,Space Mountain,39,113,Teen
+2024-01-27,19:00:00,Space Mountain,144,293,Child
+2024-01-27,20:00:00,Space Mountain,24,93,Adult
+2024-01-27,21:00:00,Space Mountain,37,78,Senior
+2024-01-27,22:00:00,Space Mountain,43,88,Senior
+2024-01-27,09:00:00,Stitch's Great Escape! (Seasonal),16,84,Child
+2024-01-27,10:00:00,Stitch's Great Escape! (Seasonal),31,94,Child
+2024-01-27,11:00:00,Stitch's Great Escape! (Seasonal),37,86,Senior
+2024-01-27,12:00:00,Stitch's Great Escape! (Seasonal),29,117,Child
+2024-01-27,13:00:00,Stitch's Great Escape! (Seasonal),66,156,Child
+2024-01-27,14:00:00,Stitch's Great Escape! (Seasonal),37,101,Adult
+2024-01-27,15:00:00,Stitch's Great Escape! (Seasonal),84,154,Teen
+2024-01-27,16:00:00,Stitch's Great Escape! (Seasonal),113,295,Adult
+2024-01-27,17:00:00,Stitch's Great Escape! (Seasonal),61,183,Child
+2024-01-27,18:00:00,Stitch's Great Escape! (Seasonal),121,227,Senior
+2024-01-27,19:00:00,Stitch's Great Escape! (Seasonal),49,144,Senior
+2024-01-27,20:00:00,Stitch's Great Escape! (Seasonal),29,84,Adult
+2024-01-27,21:00:00,Stitch's Great Escape! (Seasonal),25,54,Child
+2024-01-27,22:00:00,Stitch's Great Escape! (Seasonal),17,77,Senior
+2024-01-27,09:00:00,Tomorrowland Speedway,15,59,Senior
+2024-01-27,10:00:00,Tomorrowland Speedway,46,101,Senior
+2024-01-27,11:00:00,Tomorrowland Speedway,11,87,Senior
+2024-01-27,12:00:00,Tomorrowland Speedway,13,52,Teen
+2024-01-27,13:00:00,Tomorrowland Speedway,114,258,Adult
+2024-01-27,14:00:00,Tomorrowland Speedway,53,122,Child
+2024-01-27,15:00:00,Tomorrowland Speedway,70,162,Senior
+2024-01-27,16:00:00,Tomorrowland Speedway,75,234,Senior
+2024-01-27,17:00:00,Tomorrowland Speedway,95,179,Adult
+2024-01-27,18:00:00,Tomorrowland Speedway,63,156,Teen
+2024-01-27,19:00:00,Tomorrowland Speedway,55,119,Child
+2024-01-27,20:00:00,Tomorrowland Speedway,44,83,Teen
+2024-01-27,21:00:00,Tomorrowland Speedway,42,99,Adult
+2024-01-27,22:00:00,Tomorrowland Speedway,28,96,Teen
+2024-01-27,09:00:00,Tomorrowland Transit Authority,9,63,Adult
+2024-01-27,10:00:00,Tomorrowland Transit Authority,12,75,Teen
+2024-01-27,11:00:00,Tomorrowland Transit Authority,10,59,Senior
+2024-01-27,12:00:00,Tomorrowland Transit Authority,45,109,Senior
+2024-01-27,13:00:00,Tomorrowland Transit Authority,162,274,Adult
+2024-01-27,14:00:00,Tomorrowland Transit Authority,104,260,Teen
+2024-01-27,15:00:00,Tomorrowland Transit Authority,68,212,Senior
+2024-01-27,16:00:00,Tomorrowland Transit Authority,107,213,Adult
+2024-01-27,17:00:00,Tomorrowland Transit Authority,82,170,Child
+2024-01-27,18:00:00,Tomorrowland Transit Authority,88,190,Child
+2024-01-27,19:00:00,Tomorrowland Transit Authority,79,179,Senior
+2024-01-27,20:00:00,Tomorrowland Transit Authority,12,52,Adult
+2024-01-27,21:00:00,Tomorrowland Transit Authority,17,68,Child
+2024-01-27,22:00:00,Tomorrowland Transit Authority,47,89,Senior
+2024-01-27,09:00:00,TRON Lightcycle Power Run Rollercoaster,46,109,Child
+2024-01-27,10:00:00,TRON Lightcycle Power Run Rollercoaster,44,107,Teen
+2024-01-27,11:00:00,TRON Lightcycle Power Run Rollercoaster,40,91,Senior
+2024-01-27,12:00:00,TRON Lightcycle Power Run Rollercoaster,16,114,Child
+2024-01-27,13:00:00,TRON Lightcycle Power Run Rollercoaster,71,215,Adult
+2024-01-27,14:00:00,TRON Lightcycle Power Run Rollercoaster,91,282,Teen
+2024-01-27,15:00:00,TRON Lightcycle Power Run Rollercoaster,41,110,Senior
+2024-01-27,16:00:00,TRON Lightcycle Power Run Rollercoaster,98,212,Teen
+2024-01-27,17:00:00,TRON Lightcycle Power Run Rollercoaster,80,193,Adult
+2024-01-27,18:00:00,TRON Lightcycle Power Run Rollercoaster,86,199,Adult
+2024-01-27,19:00:00,TRON Lightcycle Power Run Rollercoaster,134,273,Child
+2024-01-27,20:00:00,TRON Lightcycle Power Run Rollercoaster,41,100,Child
+2024-01-27,21:00:00,TRON Lightcycle Power Run Rollercoaster,19,71,Senior
+2024-01-27,22:00:00,TRON Lightcycle Power Run Rollercoaster,25,68,Teen
+2024-01-26,09:00:00,Enchanted Tiki Room,10,92,Teen
+2024-01-26,10:00:00,Enchanted Tiki Room,23,94,Senior
+2024-01-26,11:00:00,Enchanted Tiki Room,29,66,Child
+2024-01-26,12:00:00,Enchanted Tiki Room,36,89,Senior
+2024-01-26,13:00:00,Enchanted Tiki Room,146,264,Adult
+2024-01-26,14:00:00,Enchanted Tiki Room,68,132,Child
+2024-01-26,15:00:00,Enchanted Tiki Room,136,265,Senior
+2024-01-26,16:00:00,Enchanted Tiki Room,95,230,Child
+2024-01-26,17:00:00,Enchanted Tiki Room,75,192,Teen
+2024-01-26,18:00:00,Enchanted Tiki Room,62,154,Senior
+2024-01-26,19:00:00,Enchanted Tiki Room,56,149,Teen
+2024-01-26,20:00:00,Enchanted Tiki Room,15,59,Adult
+2024-01-26,21:00:00,Enchanted Tiki Room,26,100,Child
+2024-01-26,22:00:00,Enchanted Tiki Room,38,92,Teen
+2024-01-26,09:00:00,Jungle Cruise,14,98,Teen
+2024-01-26,10:00:00,Jungle Cruise,33,73,Teen
+2024-01-26,11:00:00,Jungle Cruise,8,106,Senior
+2024-01-26,12:00:00,Jungle Cruise,20,96,Senior
+2024-01-26,13:00:00,Jungle Cruise,100,256,Senior
+2024-01-26,14:00:00,Jungle Cruise,75,159,Teen
+2024-01-26,15:00:00,Jungle Cruise,108,179,Senior
+2024-01-26,16:00:00,Jungle Cruise,62,149,Senior
+2024-01-26,17:00:00,Jungle Cruise,118,218,Adult
+2024-01-26,18:00:00,Jungle Cruise,126,299,Senior
+2024-01-26,19:00:00,Jungle Cruise,79,141,Teen
+2024-01-26,20:00:00,Jungle Cruise,25,88,Adult
+2024-01-26,21:00:00,Jungle Cruise,27,53,Adult
+2024-01-26,22:00:00,Jungle Cruise,23,85,Child
+2024-01-26,09:00:00,The Magic Carpets of Aladdin,9,86,Teen
+2024-01-26,10:00:00,The Magic Carpets of Aladdin,28,84,Teen
+2024-01-26,11:00:00,The Magic Carpets of Aladdin,11,105,Teen
+2024-01-26,12:00:00,The Magic Carpets of Aladdin,29,107,Child
+2024-01-26,13:00:00,The Magic Carpets of Aladdin,64,206,Senior
+2024-01-26,14:00:00,The Magic Carpets of Aladdin,94,228,Teen
+2024-01-26,15:00:00,The Magic Carpets of Aladdin,64,198,Adult
+2024-01-26,16:00:00,The Magic Carpets of Aladdin,48,157,Adult
+2024-01-26,17:00:00,The Magic Carpets of Aladdin,70,125,Adult
+2024-01-26,18:00:00,The Magic Carpets of Aladdin,47,137,Child
+2024-01-26,19:00:00,The Magic Carpets of Aladdin,103,173,Senior
+2024-01-26,20:00:00,The Magic Carpets of Aladdin,27,94,Senior
+2024-01-26,21:00:00,The Magic Carpets of Aladdin,16,78,Child
+2024-01-26,22:00:00,The Magic Carpets of Aladdin,19,51,Teen
+2024-01-26,09:00:00,Pirates of the Caribbean,28,69,Senior
+2024-01-26,10:00:00,Pirates of the Caribbean,15,64,Teen
+2024-01-26,11:00:00,Pirates of the Caribbean,11,88,Child
+2024-01-26,12:00:00,Pirates of the Caribbean,25,80,Senior
+2024-01-26,13:00:00,Pirates of the Caribbean,39,116,Senior
+2024-01-26,14:00:00,Pirates of the Caribbean,119,252,Child
+2024-01-26,15:00:00,Pirates of the Caribbean,121,261,Teen
+2024-01-26,16:00:00,Pirates of the Caribbean,97,283,Adult
+2024-01-26,17:00:00,Pirates of the Caribbean,63,209,Adult
+2024-01-26,18:00:00,Pirates of the Caribbean,78,161,Senior
+2024-01-26,19:00:00,Pirates of the Caribbean,75,147,Child
+2024-01-26,20:00:00,Pirates of the Caribbean,36,83,Child
+2024-01-26,21:00:00,Pirates of the Caribbean,45,83,Child
+2024-01-26,22:00:00,Pirates of the Caribbean,37,74,Child
+2024-01-26,09:00:00,Swiss Family Treehouse,28,99,Adult
+2024-01-26,10:00:00,Swiss Family Treehouse,15,52,Child
+2024-01-26,11:00:00,Swiss Family Treehouse,19,94,Child
+2024-01-26,12:00:00,Swiss Family Treehouse,12,92,Child
+2024-01-26,13:00:00,Swiss Family Treehouse,90,190,Adult
+2024-01-26,14:00:00,Swiss Family Treehouse,93,264,Senior
+2024-01-26,15:00:00,Swiss Family Treehouse,126,278,Teen
+2024-01-26,16:00:00,Swiss Family Treehouse,43,134,Senior
+2024-01-26,17:00:00,Swiss Family Treehouse,43,109,Teen
+2024-01-26,18:00:00,Swiss Family Treehouse,62,111,Teen
+2024-01-26,19:00:00,Swiss Family Treehouse,44,110,Adult
+2024-01-26,20:00:00,Swiss Family Treehouse,37,82,Senior
+2024-01-26,21:00:00,Swiss Family Treehouse,15,66,Teen
+2024-01-26,22:00:00,Swiss Family Treehouse,29,68,Child
+2024-01-26,09:00:00,Fantasyland,21,92,Child
+2024-01-26,10:00:00,Fantasyland,32,97,Senior
+2024-01-26,11:00:00,Fantasyland,31,106,Adult
+2024-01-26,12:00:00,Fantasyland,27,73,Senior
+2024-01-26,13:00:00,Fantasyland,115,194,Adult
+2024-01-26,14:00:00,Fantasyland,65,121,Senior
+2024-01-26,15:00:00,Fantasyland,52,120,Teen
+2024-01-26,16:00:00,Fantasyland,94,239,Adult
+2024-01-26,17:00:00,Fantasyland,41,126,Adult
+2024-01-26,18:00:00,Fantasyland,105,269,Adult
+2024-01-26,19:00:00,Fantasyland,105,214,Senior
+2024-01-26,20:00:00,Fantasyland,29,60,Adult
+2024-01-26,21:00:00,Fantasyland,18,78,Adult
+2024-01-26,22:00:00,Fantasyland,42,89,Adult
+2024-01-26,09:00:00,The Barnstormer,6,57,Senior
+2024-01-26,10:00:00,The Barnstormer,36,96,Teen
+2024-01-26,11:00:00,The Barnstormer,8,53,Senior
+2024-01-26,12:00:00,The Barnstormer,8,54,Child
+2024-01-26,13:00:00,The Barnstormer,87,160,Adult
+2024-01-26,14:00:00,The Barnstormer,81,192,Child
+2024-01-26,15:00:00,The Barnstormer,87,254,Senior
+2024-01-26,16:00:00,The Barnstormer,80,194,Senior
+2024-01-26,17:00:00,The Barnstormer,95,295,Teen
+2024-01-26,18:00:00,The Barnstormer,97,235,Senior
+2024-01-26,19:00:00,The Barnstormer,90,180,Adult
+2024-01-26,20:00:00,The Barnstormer,18,65,Child
+2024-01-26,21:00:00,The Barnstormer,31,97,Senior
+2024-01-26,22:00:00,The Barnstormer,37,83,Child
+2024-01-26,09:00:00,Dumbo the Flying Elephant,18,83,Senior
+2024-01-26,10:00:00,Dumbo the Flying Elephant,34,77,Adult
+2024-01-26,11:00:00,Dumbo the Flying Elephant,20,112,Child
+2024-01-26,12:00:00,Dumbo the Flying Elephant,7,67,Senior
+2024-01-26,13:00:00,Dumbo the Flying Elephant,84,144,Senior
+2024-01-26,14:00:00,Dumbo the Flying Elephant,68,122,Adult
+2024-01-26,15:00:00,Dumbo the Flying Elephant,111,270,Child
+2024-01-26,16:00:00,Dumbo the Flying Elephant,113,240,Adult
+2024-01-26,17:00:00,Dumbo the Flying Elephant,101,176,Teen
+2024-01-26,18:00:00,Dumbo the Flying Elephant,147,282,Teen
+2024-01-26,19:00:00,Dumbo the Flying Elephant,89,192,Teen
+2024-01-26,20:00:00,Dumbo the Flying Elephant,19,57,Teen
+2024-01-26,21:00:00,Dumbo the Flying Elephant,34,65,Child
+2024-01-26,22:00:00,Dumbo the Flying Elephant,41,73,Adult
+2024-01-26,09:00:00,Enchanted Tales with Belle,44,109,Teen
+2024-01-26,10:00:00,Enchanted Tales with Belle,6,61,Adult
+2024-01-26,11:00:00,Enchanted Tales with Belle,35,100,Senior
+2024-01-26,12:00:00,Enchanted Tales with Belle,42,102,Child
+2024-01-26,13:00:00,Enchanted Tales with Belle,53,132,Child
+2024-01-26,14:00:00,Enchanted Tales with Belle,95,215,Adult
+2024-01-26,15:00:00,Enchanted Tales with Belle,77,132,Teen
+2024-01-26,16:00:00,Enchanted Tales with Belle,178,296,Teen
+2024-01-26,17:00:00,Enchanted Tales with Belle,97,210,Child
+2024-01-26,18:00:00,Enchanted Tales with Belle,61,131,Teen
+2024-01-26,19:00:00,Enchanted Tales with Belle,62,177,Teen
+2024-01-26,20:00:00,Enchanted Tales with Belle,24,70,Adult
+2024-01-26,21:00:00,Enchanted Tales with Belle,32,83,Child
+2024-01-26,22:00:00,Enchanted Tales with Belle,22,66,Adult
+2024-01-26,09:00:00,it's a small world,30,66,Adult
+2024-01-26,10:00:00,it's a small world,12,118,Teen
+2024-01-26,11:00:00,it's a small world,11,69,Adult
+2024-01-26,12:00:00,it's a small world,4,55,Child
+2024-01-26,13:00:00,it's a small world,67,111,Adult
+2024-01-26,14:00:00,it's a small world,96,266,Senior
+2024-01-26,15:00:00,it's a small world,129,258,Child
+2024-01-26,16:00:00,it's a small world,132,227,Adult
+2024-01-26,17:00:00,it's a small world,159,264,Adult
+2024-01-26,18:00:00,it's a small world,83,223,Senior
+2024-01-26,19:00:00,it's a small world,78,176,Child
+2024-01-26,20:00:00,it's a small world,22,94,Teen
+2024-01-26,21:00:00,it's a small world,36,78,Senior
+2024-01-26,22:00:00,it's a small world,27,79,Adult
+2024-01-26,09:00:00,Mad Tea Party,17,68,Adult
+2024-01-26,10:00:00,Mad Tea Party,29,94,Teen
+2024-01-26,11:00:00,Mad Tea Party,36,97,Child
+2024-01-26,12:00:00,Mad Tea Party,18,90,Senior
+2024-01-26,13:00:00,Mad Tea Party,50,131,Senior
+2024-01-26,14:00:00,Mad Tea Party,56,163,Child
+2024-01-26,15:00:00,Mad Tea Party,44,112,Senior
+2024-01-26,16:00:00,Mad Tea Party,111,257,Teen
+2024-01-26,17:00:00,Mad Tea Party,79,140,Adult
+2024-01-26,18:00:00,Mad Tea Party,131,247,Adult
+2024-01-26,19:00:00,Mad Tea Party,80,148,Teen
+2024-01-26,20:00:00,Mad Tea Party,43,81,Senior
+2024-01-26,21:00:00,Mad Tea Party,32,81,Senior
+2024-01-26,22:00:00,Mad Tea Party,13,51,Senior
+2024-01-26,09:00:00,Mickey's PhilharMagic,39,114,Teen
+2024-01-26,10:00:00,Mickey's PhilharMagic,33,77,Adult
+2024-01-26,11:00:00,Mickey's PhilharMagic,5,56,Adult
+2024-01-26,12:00:00,Mickey's PhilharMagic,49,113,Senior
+2024-01-26,13:00:00,Mickey's PhilharMagic,82,173,Child
+2024-01-26,14:00:00,Mickey's PhilharMagic,55,127,Teen
+2024-01-26,15:00:00,Mickey's PhilharMagic,89,167,Adult
+2024-01-26,16:00:00,Mickey's PhilharMagic,124,295,Adult
+2024-01-26,17:00:00,Mickey's PhilharMagic,47,111,Child
+2024-01-26,18:00:00,Mickey's PhilharMagic,116,245,Teen
+2024-01-26,19:00:00,Mickey's PhilharMagic,91,192,Adult
+2024-01-26,20:00:00,Mickey's PhilharMagic,24,54,Senior
+2024-01-26,21:00:00,Mickey's PhilharMagic,54,98,Adult
+2024-01-26,22:00:00,Mickey's PhilharMagic,25,89,Teen
+2024-01-26,09:00:00,The Many Adventures of Winnie the Pooh,19,62,Adult
+2024-01-26,10:00:00,The Many Adventures of Winnie the Pooh,38,93,Adult
+2024-01-26,11:00:00,The Many Adventures of Winnie the Pooh,12,68,Senior
+2024-01-26,12:00:00,The Many Adventures of Winnie the Pooh,8,114,Child
+2024-01-26,13:00:00,The Many Adventures of Winnie the Pooh,38,109,Adult
+2024-01-26,14:00:00,The Many Adventures of Winnie the Pooh,102,221,Senior
+2024-01-26,15:00:00,The Many Adventures of Winnie the Pooh,68,138,Teen
+2024-01-26,16:00:00,The Many Adventures of Winnie the Pooh,108,183,Adult
+2024-01-26,17:00:00,The Many Adventures of Winnie the Pooh,60,141,Adult
+2024-01-26,18:00:00,The Many Adventures of Winnie the Pooh,101,251,Senior
+2024-01-26,19:00:00,The Many Adventures of Winnie the Pooh,135,281,Adult
+2024-01-26,20:00:00,The Many Adventures of Winnie the Pooh,17,80,Adult
+2024-01-26,21:00:00,The Many Adventures of Winnie the Pooh,20,71,Senior
+2024-01-26,22:00:00,The Many Adventures of Winnie the Pooh,34,87,Child
+2024-01-26,09:00:00,Peter Pan's Flight,24,110,Teen
+2024-01-26,10:00:00,Peter Pan's Flight,24,56,Senior
+2024-01-26,11:00:00,Peter Pan's Flight,27,71,Senior
+2024-01-26,12:00:00,Peter Pan's Flight,14,68,Child
+2024-01-26,13:00:00,Peter Pan's Flight,148,246,Child
+2024-01-26,14:00:00,Peter Pan's Flight,45,148,Senior
+2024-01-26,15:00:00,Peter Pan's Flight,78,180,Teen
+2024-01-26,16:00:00,Peter Pan's Flight,107,205,Teen
+2024-01-26,17:00:00,Peter Pan's Flight,95,205,Senior
+2024-01-26,18:00:00,Peter Pan's Flight,153,288,Child
+2024-01-26,19:00:00,Peter Pan's Flight,96,280,Teen
+2024-01-26,20:00:00,Peter Pan's Flight,34,85,Senior
+2024-01-26,21:00:00,Peter Pan's Flight,37,83,Adult
+2024-01-26,22:00:00,Peter Pan's Flight,30,61,Adult
+2024-01-26,09:00:00,Prince Charming's Regal Carrousel,33,119,Adult
+2024-01-26,10:00:00,Prince Charming's Regal Carrousel,19,111,Teen
+2024-01-26,11:00:00,Prince Charming's Regal Carrousel,34,85,Adult
+2024-01-26,12:00:00,Prince Charming's Regal Carrousel,19,78,Adult
+2024-01-26,13:00:00,Prince Charming's Regal Carrousel,101,280,Senior
+2024-01-26,14:00:00,Prince Charming's Regal Carrousel,82,181,Adult
+2024-01-26,15:00:00,Prince Charming's Regal Carrousel,144,243,Adult
+2024-01-26,16:00:00,Prince Charming's Regal Carrousel,58,173,Senior
+2024-01-26,17:00:00,Prince Charming's Regal Carrousel,113,201,Adult
+2024-01-26,18:00:00,Prince Charming's Regal Carrousel,164,297,Teen
+2024-01-26,19:00:00,Prince Charming's Regal Carrousel,54,174,Adult
+2024-01-26,20:00:00,Prince Charming's Regal Carrousel,24,95,Adult
+2024-01-26,21:00:00,Prince Charming's Regal Carrousel,29,78,Senior
+2024-01-26,22:00:00,Prince Charming's Regal Carrousel,21,63,Adult
+2024-01-26,09:00:00,Princess Fairytale Hall,11,84,Child
+2024-01-26,10:00:00,Princess Fairytale Hall,16,80,Child
+2024-01-26,11:00:00,Princess Fairytale Hall,23,117,Teen
+2024-01-26,12:00:00,Princess Fairytale Hall,7,56,Senior
+2024-01-26,13:00:00,Princess Fairytale Hall,96,184,Senior
+2024-01-26,14:00:00,Princess Fairytale Hall,64,125,Teen
+2024-01-26,15:00:00,Princess Fairytale Hall,61,101,Teen
+2024-01-26,16:00:00,Princess Fairytale Hall,102,204,Senior
+2024-01-26,17:00:00,Princess Fairytale Hall,111,222,Teen
+2024-01-26,18:00:00,Princess Fairytale Hall,176,293,Adult
+2024-01-26,19:00:00,Princess Fairytale Hall,71,182,Child
+2024-01-26,20:00:00,Princess Fairytale Hall,25,99,Teen
+2024-01-26,21:00:00,Princess Fairytale Hall,19,84,Teen
+2024-01-26,22:00:00,Princess Fairytale Hall,24,76,Child
+2024-01-26,09:00:00,Seven Dwarfs Mine Train,36,100,Teen
+2024-01-26,10:00:00,Seven Dwarfs Mine Train,7,87,Child
+2024-01-26,11:00:00,Seven Dwarfs Mine Train,37,88,Child
+2024-01-26,12:00:00,Seven Dwarfs Mine Train,22,92,Senior
+2024-01-26,13:00:00,Seven Dwarfs Mine Train,125,264,Senior
+2024-01-26,14:00:00,Seven Dwarfs Mine Train,77,134,Senior
+2024-01-26,15:00:00,Seven Dwarfs Mine Train,61,169,Child
+2024-01-26,16:00:00,Seven Dwarfs Mine Train,65,184,Senior
+2024-01-26,17:00:00,Seven Dwarfs Mine Train,101,265,Teen
+2024-01-26,18:00:00,Seven Dwarfs Mine Train,55,103,Adult
+2024-01-26,19:00:00,Seven Dwarfs Mine Train,84,175,Teen
+2024-01-26,20:00:00,Seven Dwarfs Mine Train,28,61,Senior
+2024-01-26,21:00:00,Seven Dwarfs Mine Train,33,82,Child
+2024-01-26,22:00:00,Seven Dwarfs Mine Train,20,75,Teen
+2024-01-26,09:00:00,Under the Sea: Journey of the Little Mermaid,24,67,Adult
+2024-01-26,10:00:00,Under the Sea: Journey of the Little Mermaid,5,81,Adult
+2024-01-26,11:00:00,Under the Sea: Journey of the Little Mermaid,20,99,Senior
+2024-01-26,12:00:00,Under the Sea: Journey of the Little Mermaid,22,84,Adult
+2024-01-26,13:00:00,Under the Sea: Journey of the Little Mermaid,132,249,Child
+2024-01-26,14:00:00,Under the Sea: Journey of the Little Mermaid,83,166,Adult
+2024-01-26,15:00:00,Under the Sea: Journey of the Little Mermaid,103,277,Child
+2024-01-26,16:00:00,Under the Sea: Journey of the Little Mermaid,90,270,Senior
+2024-01-26,17:00:00,Under the Sea: Journey of the Little Mermaid,63,178,Senior
+2024-01-26,18:00:00,Under the Sea: Journey of the Little Mermaid,127,275,Adult
+2024-01-26,19:00:00,Under the Sea: Journey of the Little Mermaid,92,276,Adult
+2024-01-26,20:00:00,Under the Sea: Journey of the Little Mermaid,25,73,Teen
+2024-01-26,21:00:00,Under the Sea: Journey of the Little Mermaid,29,58,Teen
+2024-01-26,22:00:00,Under the Sea: Journey of the Little Mermaid,34,79,Senior
+2024-01-26,09:00:00,Frontierland,42,120,Teen
+2024-01-26,10:00:00,Frontierland,35,81,Child
+2024-01-26,11:00:00,Frontierland,39,117,Adult
+2024-01-26,12:00:00,Frontierland,25,59,Child
+2024-01-26,13:00:00,Frontierland,65,115,Teen
+2024-01-26,14:00:00,Frontierland,116,246,Teen
+2024-01-26,15:00:00,Frontierland,57,142,Senior
+2024-01-26,16:00:00,Frontierland,66,129,Teen
+2024-01-26,17:00:00,Frontierland,136,283,Senior
+2024-01-26,18:00:00,Frontierland,72,123,Senior
+2024-01-26,19:00:00,Frontierland,51,114,Teen
+2024-01-26,20:00:00,Frontierland,38,82,Senior
+2024-01-26,21:00:00,Frontierland,20,86,Senior
+2024-01-26,22:00:00,Frontierland,37,93,Child
+2024-01-26,09:00:00,Big Thunder Mountain,21,100,Child
+2024-01-26,10:00:00,Big Thunder Mountain,33,77,Child
+2024-01-26,11:00:00,Big Thunder Mountain,18,55,Adult
+2024-01-26,12:00:00,Big Thunder Mountain,23,58,Child
+2024-01-26,13:00:00,Big Thunder Mountain,70,117,Senior
+2024-01-26,14:00:00,Big Thunder Mountain,43,108,Senior
+2024-01-26,15:00:00,Big Thunder Mountain,79,146,Teen
+2024-01-26,16:00:00,Big Thunder Mountain,148,296,Senior
+2024-01-26,17:00:00,Big Thunder Mountain,114,195,Senior
+2024-01-26,18:00:00,Big Thunder Mountain,122,214,Senior
+2024-01-26,19:00:00,Big Thunder Mountain,63,196,Teen
+2024-01-26,20:00:00,Big Thunder Mountain,39,91,Child
+2024-01-26,21:00:00,Big Thunder Mountain,33,61,Senior
+2024-01-26,22:00:00,Big Thunder Mountain,24,83,Teen
+2024-01-26,09:00:00,Country Bear Jamboree,3,50,Adult
+2024-01-26,10:00:00,Country Bear Jamboree,43,109,Senior
+2024-01-26,11:00:00,Country Bear Jamboree,35,118,Teen
+2024-01-26,12:00:00,Country Bear Jamboree,28,81,Adult
+2024-01-26,13:00:00,Country Bear Jamboree,53,139,Teen
+2024-01-26,14:00:00,Country Bear Jamboree,154,285,Child
+2024-01-26,15:00:00,Country Bear Jamboree,60,108,Senior
+2024-01-26,16:00:00,Country Bear Jamboree,139,257,Child
+2024-01-26,17:00:00,Country Bear Jamboree,58,161,Child
+2024-01-26,18:00:00,Country Bear Jamboree,62,125,Child
+2024-01-26,19:00:00,Country Bear Jamboree,105,214,Child
+2024-01-26,20:00:00,Country Bear Jamboree,15,65,Senior
+2024-01-26,21:00:00,Country Bear Jamboree,27,78,Teen
+2024-01-26,22:00:00,Country Bear Jamboree,23,98,Teen
+2024-01-26,09:00:00,Tom Sawyer Island,27,114,Teen
+2024-01-26,10:00:00,Tom Sawyer Island,37,90,Adult
+2024-01-26,11:00:00,Tom Sawyer Island,20,80,Teen
+2024-01-26,12:00:00,Tom Sawyer Island,23,116,Senior
+2024-01-26,13:00:00,Tom Sawyer Island,67,176,Child
+2024-01-26,14:00:00,Tom Sawyer Island,146,242,Teen
+2024-01-26,15:00:00,Tom Sawyer Island,133,260,Senior
+2024-01-26,16:00:00,Tom Sawyer Island,109,242,Child
+2024-01-26,17:00:00,Tom Sawyer Island,113,188,Senior
+2024-01-26,18:00:00,Tom Sawyer Island,94,234,Senior
+2024-01-26,19:00:00,Tom Sawyer Island,70,204,Adult
+2024-01-26,20:00:00,Tom Sawyer Island,23,74,Senior
+2024-01-26,21:00:00,Tom Sawyer Island,23,65,Adult
+2024-01-26,22:00:00,Tom Sawyer Island,28,95,Senior
+2024-01-26,09:00:00,Splash Mountain,23,57,Senior
+2024-01-26,10:00:00,Splash Mountain,42,103,Teen
+2024-01-26,11:00:00,Splash Mountain,20,99,Adult
+2024-01-26,12:00:00,Splash Mountain,20,76,Child
+2024-01-26,13:00:00,Splash Mountain,123,215,Adult
+2024-01-26,14:00:00,Splash Mountain,58,123,Teen
+2024-01-26,15:00:00,Splash Mountain,43,113,Senior
+2024-01-26,16:00:00,Splash Mountain,134,272,Child
+2024-01-26,17:00:00,Splash Mountain,43,118,Teen
+2024-01-26,18:00:00,Splash Mountain,80,222,Adult
+2024-01-26,19:00:00,Splash Mountain,107,177,Child
+2024-01-26,20:00:00,Splash Mountain,21,63,Child
+2024-01-26,21:00:00,Splash Mountain,49,97,Teen
+2024-01-26,22:00:00,Splash Mountain,32,94,Senior
+2024-01-26,09:00:00,Liberty Square,32,80,Adult
+2024-01-26,10:00:00,Liberty Square,25,86,Senior
+2024-01-26,11:00:00,Liberty Square,32,118,Adult
+2024-01-26,12:00:00,Liberty Square,24,83,Senior
+2024-01-26,13:00:00,Liberty Square,73,219,Senior
+2024-01-26,14:00:00,Liberty Square,165,294,Adult
+2024-01-26,15:00:00,Liberty Square,63,152,Adult
+2024-01-26,16:00:00,Liberty Square,64,205,Teen
+2024-01-26,17:00:00,Liberty Square,99,289,Child
+2024-01-26,18:00:00,Liberty Square,79,166,Senior
+2024-01-26,19:00:00,Liberty Square,60,175,Teen
+2024-01-26,20:00:00,Liberty Square,25,71,Senior
+2024-01-26,21:00:00,Liberty Square,31,86,Senior
+2024-01-26,22:00:00,Liberty Square,35,85,Adult
+2024-01-26,09:00:00,The Hall of Presidents,41,112,Senior
+2024-01-26,10:00:00,The Hall of Presidents,20,71,Teen
+2024-01-26,11:00:00,The Hall of Presidents,27,67,Senior
+2024-01-26,12:00:00,The Hall of Presidents,29,73,Child
+2024-01-26,13:00:00,The Hall of Presidents,73,234,Child
+2024-01-26,14:00:00,The Hall of Presidents,85,271,Child
+2024-01-26,15:00:00,The Hall of Presidents,70,205,Teen
+2024-01-26,16:00:00,The Hall of Presidents,61,117,Teen
+2024-01-26,17:00:00,The Hall of Presidents,37,102,Senior
+2024-01-26,18:00:00,The Hall of Presidents,61,195,Senior
+2024-01-26,19:00:00,The Hall of Presidents,121,268,Child
+2024-01-26,20:00:00,The Hall of Presidents,27,50,Senior
+2024-01-26,21:00:00,The Hall of Presidents,11,50,Adult
+2024-01-26,22:00:00,The Hall of Presidents,32,84,Child
+2024-01-26,09:00:00,Haunted Mansion,37,114,Teen
+2024-01-26,10:00:00,Haunted Mansion,7,63,Teen
+2024-01-26,11:00:00,Haunted Mansion,14,80,Adult
+2024-01-26,12:00:00,Haunted Mansion,21,95,Senior
+2024-01-26,13:00:00,Haunted Mansion,50,120,Senior
+2024-01-26,14:00:00,Haunted Mansion,105,217,Teen
+2024-01-26,15:00:00,Haunted Mansion,103,278,Adult
+2024-01-26,16:00:00,Haunted Mansion,154,275,Child
+2024-01-26,17:00:00,Haunted Mansion,153,267,Child
+2024-01-26,18:00:00,Haunted Mansion,52,123,Senior
+2024-01-26,19:00:00,Haunted Mansion,93,196,Senior
+2024-01-26,20:00:00,Haunted Mansion,11,53,Teen
+2024-01-26,21:00:00,Haunted Mansion,29,55,Senior
+2024-01-26,22:00:00,Haunted Mansion,38,91,Child
+2024-01-26,09:00:00,Liberty Square Riverboat,9,117,Teen
+2024-01-26,10:00:00,Liberty Square Riverboat,32,77,Senior
+2024-01-26,11:00:00,Liberty Square Riverboat,6,84,Child
+2024-01-26,12:00:00,Liberty Square Riverboat,34,85,Child
+2024-01-26,13:00:00,Liberty Square Riverboat,86,145,Adult
+2024-01-26,14:00:00,Liberty Square Riverboat,63,104,Teen
+2024-01-26,15:00:00,Liberty Square Riverboat,85,250,Senior
+2024-01-26,16:00:00,Liberty Square Riverboat,47,119,Teen
+2024-01-26,17:00:00,Liberty Square Riverboat,91,244,Senior
+2024-01-26,18:00:00,Liberty Square Riverboat,159,273,Adult
+2024-01-26,19:00:00,Liberty Square Riverboat,107,198,Teen
+2024-01-26,20:00:00,Liberty Square Riverboat,25,100,Adult
+2024-01-26,21:00:00,Liberty Square Riverboat,14,53,Senior
+2024-01-26,22:00:00,Liberty Square Riverboat,16,64,Adult
+2024-01-26,09:00:00,Main Street USA,25,100,Child
+2024-01-26,10:00:00,Main Street USA,28,84,Senior
+2024-01-26,11:00:00,Main Street USA,22,79,Senior
+2024-01-26,12:00:00,Main Street USA,17,105,Senior
+2024-01-26,13:00:00,Main Street USA,66,121,Adult
+2024-01-26,14:00:00,Main Street USA,85,163,Child
+2024-01-26,15:00:00,Main Street USA,46,121,Teen
+2024-01-26,16:00:00,Main Street USA,103,197,Teen
+2024-01-26,17:00:00,Main Street USA,122,289,Adult
+2024-01-26,18:00:00,Main Street USA,64,192,Child
+2024-01-26,19:00:00,Main Street USA,61,101,Adult
+2024-01-26,20:00:00,Main Street USA,34,78,Adult
+2024-01-26,21:00:00,Main Street USA,16,56,Child
+2024-01-26,22:00:00,Main Street USA,29,61,Senior
+2024-01-26,09:00:00,Tomorrowland,36,115,Child
+2024-01-26,10:00:00,Tomorrowland,6,53,Adult
+2024-01-26,11:00:00,Tomorrowland,12,120,Adult
+2024-01-26,12:00:00,Tomorrowland,5,99,Adult
+2024-01-26,13:00:00,Tomorrowland,87,205,Child
+2024-01-26,14:00:00,Tomorrowland,166,285,Teen
+2024-01-26,15:00:00,Tomorrowland,114,246,Teen
+2024-01-26,16:00:00,Tomorrowland,116,275,Teen
+2024-01-26,17:00:00,Tomorrowland,52,135,Adult
+2024-01-26,18:00:00,Tomorrowland,76,168,Teen
+2024-01-26,19:00:00,Tomorrowland,41,116,Senior
+2024-01-26,20:00:00,Tomorrowland,31,67,Adult
+2024-01-26,21:00:00,Tomorrowland,20,80,Adult
+2024-01-26,22:00:00,Tomorrowland,24,66,Senior
+2024-01-26,09:00:00,Astro Orbiter,26,75,Child
+2024-01-26,10:00:00,Astro Orbiter,17,67,Child
+2024-01-26,11:00:00,Astro Orbiter,26,100,Senior
+2024-01-26,12:00:00,Astro Orbiter,31,92,Adult
+2024-01-26,13:00:00,Astro Orbiter,118,210,Teen
+2024-01-26,14:00:00,Astro Orbiter,71,176,Teen
+2024-01-26,15:00:00,Astro Orbiter,89,222,Teen
+2024-01-26,16:00:00,Astro Orbiter,121,201,Adult
+2024-01-26,17:00:00,Astro Orbiter,93,174,Senior
+2024-01-26,18:00:00,Astro Orbiter,136,247,Teen
+2024-01-26,19:00:00,Astro Orbiter,77,183,Adult
+2024-01-26,20:00:00,Astro Orbiter,45,100,Adult
+2024-01-26,21:00:00,Astro Orbiter,19,57,Teen
+2024-01-26,22:00:00,Astro Orbiter,52,93,Child
+2024-01-26,09:00:00,Buzz Lightyear's Space Ranger Spin,20,109,Senior
+2024-01-26,10:00:00,Buzz Lightyear's Space Ranger Spin,8,87,Senior
+2024-01-26,11:00:00,Buzz Lightyear's Space Ranger Spin,15,113,Adult
+2024-01-26,12:00:00,Buzz Lightyear's Space Ranger Spin,17,80,Teen
+2024-01-26,13:00:00,Buzz Lightyear's Space Ranger Spin,122,283,Senior
+2024-01-26,14:00:00,Buzz Lightyear's Space Ranger Spin,52,118,Senior
+2024-01-26,15:00:00,Buzz Lightyear's Space Ranger Spin,105,249,Senior
+2024-01-26,16:00:00,Buzz Lightyear's Space Ranger Spin,75,239,Adult
+2024-01-26,17:00:00,Buzz Lightyear's Space Ranger Spin,162,279,Child
+2024-01-26,18:00:00,Buzz Lightyear's Space Ranger Spin,69,127,Teen
+2024-01-26,19:00:00,Buzz Lightyear's Space Ranger Spin,137,268,Adult
+2024-01-26,20:00:00,Buzz Lightyear's Space Ranger Spin,14,60,Senior
+2024-01-26,21:00:00,Buzz Lightyear's Space Ranger Spin,41,98,Senior
+2024-01-26,22:00:00,Buzz Lightyear's Space Ranger Spin,12,56,Child
+2024-01-26,09:00:00,Carousel of Progress,16,83,Teen
+2024-01-26,10:00:00,Carousel of Progress,30,107,Senior
+2024-01-26,11:00:00,Carousel of Progress,46,109,Teen
+2024-01-26,12:00:00,Carousel of Progress,6,94,Senior
+2024-01-26,13:00:00,Carousel of Progress,50,126,Senior
+2024-01-26,14:00:00,Carousel of Progress,40,121,Teen
+2024-01-26,15:00:00,Carousel of Progress,74,189,Adult
+2024-01-26,16:00:00,Carousel of Progress,119,216,Teen
+2024-01-26,17:00:00,Carousel of Progress,105,233,Adult
+2024-01-26,18:00:00,Carousel of Progress,73,221,Senior
+2024-01-26,19:00:00,Carousel of Progress,148,284,Senior
+2024-01-26,20:00:00,Carousel of Progress,17,70,Adult
+2024-01-26,21:00:00,Carousel of Progress,15,52,Child
+2024-01-26,22:00:00,Carousel of Progress,19,71,Teen
+2024-01-26,09:00:00,"Monsters, Inc. Laugh Floor",31,81,Teen
+2024-01-26,10:00:00,"Monsters, Inc. Laugh Floor",18,120,Adult
+2024-01-26,11:00:00,"Monsters, Inc. Laugh Floor",36,104,Teen
+2024-01-26,12:00:00,"Monsters, Inc. Laugh Floor",46,101,Teen
+2024-01-26,13:00:00,"Monsters, Inc. Laugh Floor",74,147,Senior
+2024-01-26,14:00:00,"Monsters, Inc. Laugh Floor",61,201,Teen
+2024-01-26,15:00:00,"Monsters, Inc. Laugh Floor",104,215,Senior
+2024-01-26,16:00:00,"Monsters, Inc. Laugh Floor",60,199,Teen
+2024-01-26,17:00:00,"Monsters, Inc. Laugh Floor",58,152,Child
+2024-01-26,18:00:00,"Monsters, Inc. Laugh Floor",82,247,Teen
+2024-01-26,19:00:00,"Monsters, Inc. Laugh Floor",78,193,Teen
+2024-01-26,20:00:00,"Monsters, Inc. Laugh Floor",22,79,Adult
+2024-01-26,21:00:00,"Monsters, Inc. Laugh Floor",47,92,Adult
+2024-01-26,22:00:00,"Monsters, Inc. Laugh Floor",39,88,Senior
+2024-01-26,09:00:00,Space Mountain,18,64,Adult
+2024-01-26,10:00:00,Space Mountain,48,108,Teen
+2024-01-26,11:00:00,Space Mountain,39,88,Child
+2024-01-26,12:00:00,Space Mountain,17,67,Child
+2024-01-26,13:00:00,Space Mountain,63,161,Child
+2024-01-26,14:00:00,Space Mountain,60,146,Teen
+2024-01-26,15:00:00,Space Mountain,97,230,Senior
+2024-01-26,16:00:00,Space Mountain,86,252,Senior
+2024-01-26,17:00:00,Space Mountain,73,208,Senior
+2024-01-26,18:00:00,Space Mountain,124,262,Teen
+2024-01-26,19:00:00,Space Mountain,85,242,Senior
+2024-01-26,20:00:00,Space Mountain,20,68,Teen
+2024-01-26,21:00:00,Space Mountain,34,70,Child
+2024-01-26,22:00:00,Space Mountain,15,72,Senior
+2024-01-26,09:00:00,Stitch's Great Escape! (Seasonal),12,67,Senior
+2024-01-26,10:00:00,Stitch's Great Escape! (Seasonal),42,114,Senior
+2024-01-26,11:00:00,Stitch's Great Escape! (Seasonal),35,112,Senior
+2024-01-26,12:00:00,Stitch's Great Escape! (Seasonal),17,112,Child
+2024-01-26,13:00:00,Stitch's Great Escape! (Seasonal),74,244,Teen
+2024-01-26,14:00:00,Stitch's Great Escape! (Seasonal),54,174,Adult
+2024-01-26,15:00:00,Stitch's Great Escape! (Seasonal),74,157,Adult
+2024-01-26,16:00:00,Stitch's Great Escape! (Seasonal),78,143,Senior
+2024-01-26,17:00:00,Stitch's Great Escape! (Seasonal),130,244,Senior
+2024-01-26,18:00:00,Stitch's Great Escape! (Seasonal),111,240,Child
+2024-01-26,19:00:00,Stitch's Great Escape! (Seasonal),82,246,Adult
+2024-01-26,20:00:00,Stitch's Great Escape! (Seasonal),54,99,Adult
+2024-01-26,21:00:00,Stitch's Great Escape! (Seasonal),19,84,Senior
+2024-01-26,22:00:00,Stitch's Great Escape! (Seasonal),28,84,Senior
+2024-01-26,09:00:00,Tomorrowland Speedway,13,63,Adult
+2024-01-26,10:00:00,Tomorrowland Speedway,18,54,Adult
+2024-01-26,11:00:00,Tomorrowland Speedway,10,94,Senior
+2024-01-26,12:00:00,Tomorrowland Speedway,13,65,Teen
+2024-01-26,13:00:00,Tomorrowland Speedway,139,288,Adult
+2024-01-26,14:00:00,Tomorrowland Speedway,138,281,Senior
+2024-01-26,15:00:00,Tomorrowland Speedway,70,142,Teen
+2024-01-26,16:00:00,Tomorrowland Speedway,108,300,Teen
+2024-01-26,17:00:00,Tomorrowland Speedway,56,115,Adult
+2024-01-26,18:00:00,Tomorrowland Speedway,90,236,Teen
+2024-01-26,19:00:00,Tomorrowland Speedway,95,182,Adult
+2024-01-26,20:00:00,Tomorrowland Speedway,26,68,Child
+2024-01-26,21:00:00,Tomorrowland Speedway,27,58,Child
+2024-01-26,22:00:00,Tomorrowland Speedway,19,67,Teen
+2024-01-26,09:00:00,Tomorrowland Transit Authority,12,81,Adult
+2024-01-26,10:00:00,Tomorrowland Transit Authority,25,81,Senior
+2024-01-26,11:00:00,Tomorrowland Transit Authority,28,68,Adult
+2024-01-26,12:00:00,Tomorrowland Transit Authority,30,103,Senior
+2024-01-26,13:00:00,Tomorrowland Transit Authority,60,119,Child
+2024-01-26,14:00:00,Tomorrowland Transit Authority,94,203,Adult
+2024-01-26,15:00:00,Tomorrowland Transit Authority,164,277,Adult
+2024-01-26,16:00:00,Tomorrowland Transit Authority,130,216,Senior
+2024-01-26,17:00:00,Tomorrowland Transit Authority,88,183,Child
+2024-01-26,18:00:00,Tomorrowland Transit Authority,170,298,Child
+2024-01-26,19:00:00,Tomorrowland Transit Authority,127,287,Adult
+2024-01-26,20:00:00,Tomorrowland Transit Authority,30,54,Senior
+2024-01-26,21:00:00,Tomorrowland Transit Authority,30,63,Teen
+2024-01-26,22:00:00,Tomorrowland Transit Authority,30,81,Adult
+2024-01-26,09:00:00,TRON Lightcycle Power Run Rollercoaster,23,86,Teen
+2024-01-26,10:00:00,TRON Lightcycle Power Run Rollercoaster,30,112,Child
+2024-01-26,11:00:00,TRON Lightcycle Power Run Rollercoaster,7,55,Senior
+2024-01-26,12:00:00,TRON Lightcycle Power Run Rollercoaster,7,52,Teen
+2024-01-26,13:00:00,TRON Lightcycle Power Run Rollercoaster,94,212,Child
+2024-01-26,14:00:00,TRON Lightcycle Power Run Rollercoaster,76,209,Teen
+2024-01-26,15:00:00,TRON Lightcycle Power Run Rollercoaster,104,266,Teen
+2024-01-26,16:00:00,TRON Lightcycle Power Run Rollercoaster,55,170,Adult
+2024-01-26,17:00:00,TRON Lightcycle Power Run Rollercoaster,53,164,Adult
+2024-01-26,18:00:00,TRON Lightcycle Power Run Rollercoaster,157,270,Teen
+2024-01-26,19:00:00,TRON Lightcycle Power Run Rollercoaster,48,113,Adult
+2024-01-26,20:00:00,TRON Lightcycle Power Run Rollercoaster,33,96,Senior
+2024-01-26,21:00:00,TRON Lightcycle Power Run Rollercoaster,23,91,Child
+2024-01-26,22:00:00,TRON Lightcycle Power Run Rollercoaster,17,50,Senior
+2024-01-25,09:00:00,Enchanted Tiki Room,8,59,Teen
+2024-01-25,10:00:00,Enchanted Tiki Room,39,116,Child
+2024-01-25,11:00:00,Enchanted Tiki Room,14,51,Child
+2024-01-25,12:00:00,Enchanted Tiki Room,14,104,Senior
+2024-01-25,13:00:00,Enchanted Tiki Room,44,118,Senior
+2024-01-25,14:00:00,Enchanted Tiki Room,65,122,Child
+2024-01-25,15:00:00,Enchanted Tiki Room,51,126,Adult
+2024-01-25,16:00:00,Enchanted Tiki Room,60,176,Senior
+2024-01-25,17:00:00,Enchanted Tiki Room,167,298,Teen
+2024-01-25,18:00:00,Enchanted Tiki Room,135,264,Teen
+2024-01-25,19:00:00,Enchanted Tiki Room,54,117,Child
+2024-01-25,20:00:00,Enchanted Tiki Room,27,89,Senior
+2024-01-25,21:00:00,Enchanted Tiki Room,24,72,Teen
+2024-01-25,22:00:00,Enchanted Tiki Room,37,76,Teen
+2024-01-25,09:00:00,Jungle Cruise,7,61,Teen
+2024-01-25,10:00:00,Jungle Cruise,28,65,Senior
+2024-01-25,11:00:00,Jungle Cruise,31,94,Adult
+2024-01-25,12:00:00,Jungle Cruise,14,67,Adult
+2024-01-25,13:00:00,Jungle Cruise,85,265,Teen
+2024-01-25,14:00:00,Jungle Cruise,119,241,Adult
+2024-01-25,15:00:00,Jungle Cruise,180,299,Child
+2024-01-25,16:00:00,Jungle Cruise,156,268,Adult
+2024-01-25,17:00:00,Jungle Cruise,70,152,Teen
+2024-01-25,18:00:00,Jungle Cruise,123,291,Adult
+2024-01-25,19:00:00,Jungle Cruise,83,265,Teen
+2024-01-25,20:00:00,Jungle Cruise,36,81,Child
+2024-01-25,21:00:00,Jungle Cruise,34,65,Child
+2024-01-25,22:00:00,Jungle Cruise,17,83,Adult
+2024-01-25,09:00:00,The Magic Carpets of Aladdin,12,90,Senior
+2024-01-25,10:00:00,The Magic Carpets of Aladdin,29,103,Teen
+2024-01-25,11:00:00,The Magic Carpets of Aladdin,10,110,Child
+2024-01-25,12:00:00,The Magic Carpets of Aladdin,3,58,Adult
+2024-01-25,13:00:00,The Magic Carpets of Aladdin,49,155,Child
+2024-01-25,14:00:00,The Magic Carpets of Aladdin,93,201,Adult
+2024-01-25,15:00:00,The Magic Carpets of Aladdin,136,260,Senior
+2024-01-25,16:00:00,The Magic Carpets of Aladdin,109,208,Senior
+2024-01-25,17:00:00,The Magic Carpets of Aladdin,61,121,Teen
+2024-01-25,18:00:00,The Magic Carpets of Aladdin,55,171,Adult
+2024-01-25,19:00:00,The Magic Carpets of Aladdin,56,120,Teen
+2024-01-25,20:00:00,The Magic Carpets of Aladdin,32,59,Adult
+2024-01-25,21:00:00,The Magic Carpets of Aladdin,18,75,Adult
+2024-01-25,22:00:00,The Magic Carpets of Aladdin,45,94,Teen
+2024-01-25,09:00:00,Pirates of the Caribbean,12,57,Child
+2024-01-25,10:00:00,Pirates of the Caribbean,13,105,Senior
+2024-01-25,11:00:00,Pirates of the Caribbean,14,57,Teen
+2024-01-25,12:00:00,Pirates of the Caribbean,4,65,Teen
+2024-01-25,13:00:00,Pirates of the Caribbean,84,279,Teen
+2024-01-25,14:00:00,Pirates of the Caribbean,137,227,Adult
+2024-01-25,15:00:00,Pirates of the Caribbean,108,233,Adult
+2024-01-25,16:00:00,Pirates of the Caribbean,59,142,Teen
+2024-01-25,17:00:00,Pirates of the Caribbean,158,291,Adult
+2024-01-25,18:00:00,Pirates of the Caribbean,167,287,Child
+2024-01-25,19:00:00,Pirates of the Caribbean,173,297,Child
+2024-01-25,20:00:00,Pirates of the Caribbean,34,71,Adult
+2024-01-25,21:00:00,Pirates of the Caribbean,20,83,Adult
+2024-01-25,22:00:00,Pirates of the Caribbean,23,95,Senior
+2024-01-25,09:00:00,Swiss Family Treehouse,40,108,Adult
+2024-01-25,10:00:00,Swiss Family Treehouse,21,57,Teen
+2024-01-25,11:00:00,Swiss Family Treehouse,15,97,Adult
+2024-01-25,12:00:00,Swiss Family Treehouse,26,63,Child
+2024-01-25,13:00:00,Swiss Family Treehouse,84,158,Child
+2024-01-25,14:00:00,Swiss Family Treehouse,64,111,Child
+2024-01-25,15:00:00,Swiss Family Treehouse,51,162,Senior
+2024-01-25,16:00:00,Swiss Family Treehouse,82,193,Teen
+2024-01-25,17:00:00,Swiss Family Treehouse,86,145,Child
+2024-01-25,18:00:00,Swiss Family Treehouse,133,241,Senior
+2024-01-25,19:00:00,Swiss Family Treehouse,63,157,Teen
+2024-01-25,20:00:00,Swiss Family Treehouse,31,76,Adult
+2024-01-25,21:00:00,Swiss Family Treehouse,24,54,Child
+2024-01-25,22:00:00,Swiss Family Treehouse,19,82,Teen
+2024-01-25,09:00:00,Fantasyland,30,78,Child
+2024-01-25,10:00:00,Fantasyland,10,101,Senior
+2024-01-25,11:00:00,Fantasyland,21,86,Adult
+2024-01-25,12:00:00,Fantasyland,25,61,Senior
+2024-01-25,13:00:00,Fantasyland,42,102,Teen
+2024-01-25,14:00:00,Fantasyland,84,174,Adult
+2024-01-25,15:00:00,Fantasyland,142,289,Teen
+2024-01-25,16:00:00,Fantasyland,90,218,Senior
+2024-01-25,17:00:00,Fantasyland,161,297,Teen
+2024-01-25,18:00:00,Fantasyland,167,287,Teen
+2024-01-25,19:00:00,Fantasyland,42,138,Senior
+2024-01-25,20:00:00,Fantasyland,18,51,Adult
+2024-01-25,21:00:00,Fantasyland,18,90,Adult
+2024-01-25,22:00:00,Fantasyland,22,50,Adult
+2024-01-25,09:00:00,The Barnstormer,12,63,Teen
+2024-01-25,10:00:00,The Barnstormer,38,103,Child
+2024-01-25,11:00:00,The Barnstormer,15,68,Child
+2024-01-25,12:00:00,The Barnstormer,11,55,Senior
+2024-01-25,13:00:00,The Barnstormer,162,279,Adult
+2024-01-25,14:00:00,The Barnstormer,116,217,Child
+2024-01-25,15:00:00,The Barnstormer,82,248,Teen
+2024-01-25,16:00:00,The Barnstormer,148,263,Senior
+2024-01-25,17:00:00,The Barnstormer,58,119,Child
+2024-01-25,18:00:00,The Barnstormer,108,211,Teen
+2024-01-25,19:00:00,The Barnstormer,63,160,Adult
+2024-01-25,20:00:00,The Barnstormer,32,70,Adult
+2024-01-25,21:00:00,The Barnstormer,34,70,Adult
+2024-01-25,22:00:00,The Barnstormer,16,64,Teen
+2024-01-25,09:00:00,Dumbo the Flying Elephant,29,67,Child
+2024-01-25,10:00:00,Dumbo the Flying Elephant,8,69,Teen
+2024-01-25,11:00:00,Dumbo the Flying Elephant,37,107,Adult
+2024-01-25,12:00:00,Dumbo the Flying Elephant,13,102,Adult
+2024-01-25,13:00:00,Dumbo the Flying Elephant,107,297,Senior
+2024-01-25,14:00:00,Dumbo the Flying Elephant,79,178,Adult
+2024-01-25,15:00:00,Dumbo the Flying Elephant,42,130,Teen
+2024-01-25,16:00:00,Dumbo the Flying Elephant,108,275,Child
+2024-01-25,17:00:00,Dumbo the Flying Elephant,87,155,Adult
+2024-01-25,18:00:00,Dumbo the Flying Elephant,44,137,Teen
+2024-01-25,19:00:00,Dumbo the Flying Elephant,81,191,Child
+2024-01-25,20:00:00,Dumbo the Flying Elephant,37,93,Adult
+2024-01-25,21:00:00,Dumbo the Flying Elephant,13,61,Senior
+2024-01-25,22:00:00,Dumbo the Flying Elephant,43,78,Teen
+2024-01-25,09:00:00,Enchanted Tales with Belle,22,62,Child
+2024-01-25,10:00:00,Enchanted Tales with Belle,9,67,Child
+2024-01-25,11:00:00,Enchanted Tales with Belle,11,57,Teen
+2024-01-25,12:00:00,Enchanted Tales with Belle,23,75,Adult
+2024-01-25,13:00:00,Enchanted Tales with Belle,138,275,Child
+2024-01-25,14:00:00,Enchanted Tales with Belle,120,249,Adult
+2024-01-25,15:00:00,Enchanted Tales with Belle,36,119,Child
+2024-01-25,16:00:00,Enchanted Tales with Belle,87,150,Senior
+2024-01-25,17:00:00,Enchanted Tales with Belle,43,132,Adult
+2024-01-25,18:00:00,Enchanted Tales with Belle,41,131,Senior
+2024-01-25,19:00:00,Enchanted Tales with Belle,40,112,Senior
+2024-01-25,20:00:00,Enchanted Tales with Belle,44,96,Senior
+2024-01-25,21:00:00,Enchanted Tales with Belle,23,51,Senior
+2024-01-25,22:00:00,Enchanted Tales with Belle,26,61,Teen
+2024-01-25,09:00:00,it's a small world,17,73,Adult
+2024-01-25,10:00:00,it's a small world,15,107,Child
+2024-01-25,11:00:00,it's a small world,19,81,Senior
+2024-01-25,12:00:00,it's a small world,41,102,Senior
+2024-01-25,13:00:00,it's a small world,37,115,Adult
+2024-01-25,14:00:00,it's a small world,68,198,Senior
+2024-01-25,15:00:00,it's a small world,76,151,Teen
+2024-01-25,16:00:00,it's a small world,144,261,Child
+2024-01-25,17:00:00,it's a small world,109,197,Adult
+2024-01-25,18:00:00,it's a small world,105,222,Senior
+2024-01-25,19:00:00,it's a small world,111,188,Adult
+2024-01-25,20:00:00,it's a small world,28,74,Teen
+2024-01-25,21:00:00,it's a small world,21,51,Teen
+2024-01-25,22:00:00,it's a small world,19,51,Child
+2024-01-25,09:00:00,Mad Tea Party,42,110,Adult
+2024-01-25,10:00:00,Mad Tea Party,12,79,Child
+2024-01-25,11:00:00,Mad Tea Party,17,81,Adult
+2024-01-25,12:00:00,Mad Tea Party,10,118,Teen
+2024-01-25,13:00:00,Mad Tea Party,141,247,Senior
+2024-01-25,14:00:00,Mad Tea Party,113,190,Teen
+2024-01-25,15:00:00,Mad Tea Party,54,145,Adult
+2024-01-25,16:00:00,Mad Tea Party,150,288,Adult
+2024-01-25,17:00:00,Mad Tea Party,76,251,Adult
+2024-01-25,18:00:00,Mad Tea Party,118,245,Teen
+2024-01-25,19:00:00,Mad Tea Party,147,244,Teen
+2024-01-25,20:00:00,Mad Tea Party,44,81,Adult
+2024-01-25,21:00:00,Mad Tea Party,32,61,Child
+2024-01-25,22:00:00,Mad Tea Party,13,55,Teen
+2024-01-25,09:00:00,Mickey's PhilharMagic,5,78,Senior
+2024-01-25,10:00:00,Mickey's PhilharMagic,13,50,Teen
+2024-01-25,11:00:00,Mickey's PhilharMagic,18,66,Teen
+2024-01-25,12:00:00,Mickey's PhilharMagic,8,91,Child
+2024-01-25,13:00:00,Mickey's PhilharMagic,66,137,Teen
+2024-01-25,14:00:00,Mickey's PhilharMagic,99,298,Adult
+2024-01-25,15:00:00,Mickey's PhilharMagic,49,118,Senior
+2024-01-25,16:00:00,Mickey's PhilharMagic,83,250,Adult
+2024-01-25,17:00:00,Mickey's PhilharMagic,71,177,Teen
+2024-01-25,18:00:00,Mickey's PhilharMagic,75,140,Senior
+2024-01-25,19:00:00,Mickey's PhilharMagic,158,263,Senior
+2024-01-25,20:00:00,Mickey's PhilharMagic,37,91,Teen
+2024-01-25,21:00:00,Mickey's PhilharMagic,53,95,Adult
+2024-01-25,22:00:00,Mickey's PhilharMagic,20,64,Senior
+2024-01-25,09:00:00,The Many Adventures of Winnie the Pooh,21,89,Teen
+2024-01-25,10:00:00,The Many Adventures of Winnie the Pooh,4,72,Senior
+2024-01-25,11:00:00,The Many Adventures of Winnie the Pooh,9,54,Adult
+2024-01-25,12:00:00,The Many Adventures of Winnie the Pooh,36,78,Child
+2024-01-25,13:00:00,The Many Adventures of Winnie the Pooh,78,227,Adult
+2024-01-25,14:00:00,The Many Adventures of Winnie the Pooh,93,290,Teen
+2024-01-25,15:00:00,The Many Adventures of Winnie the Pooh,76,188,Teen
+2024-01-25,16:00:00,The Many Adventures of Winnie the Pooh,152,262,Child
+2024-01-25,17:00:00,The Many Adventures of Winnie the Pooh,144,281,Adult
+2024-01-25,18:00:00,The Many Adventures of Winnie the Pooh,65,214,Adult
+2024-01-25,19:00:00,The Many Adventures of Winnie the Pooh,57,153,Child
+2024-01-25,20:00:00,The Many Adventures of Winnie the Pooh,26,72,Child
+2024-01-25,21:00:00,The Many Adventures of Winnie the Pooh,20,96,Child
+2024-01-25,22:00:00,The Many Adventures of Winnie the Pooh,36,74,Senior
+2024-01-25,09:00:00,Peter Pan's Flight,23,71,Senior
+2024-01-25,10:00:00,Peter Pan's Flight,27,98,Senior
+2024-01-25,11:00:00,Peter Pan's Flight,22,62,Teen
+2024-01-25,12:00:00,Peter Pan's Flight,24,70,Child
+2024-01-25,13:00:00,Peter Pan's Flight,43,108,Child
+2024-01-25,14:00:00,Peter Pan's Flight,69,181,Child
+2024-01-25,15:00:00,Peter Pan's Flight,48,118,Teen
+2024-01-25,16:00:00,Peter Pan's Flight,69,196,Child
+2024-01-25,17:00:00,Peter Pan's Flight,144,240,Child
+2024-01-25,18:00:00,Peter Pan's Flight,92,186,Senior
+2024-01-25,19:00:00,Peter Pan's Flight,84,280,Senior
+2024-01-25,20:00:00,Peter Pan's Flight,28,91,Senior
+2024-01-25,21:00:00,Peter Pan's Flight,14,60,Child
+2024-01-25,22:00:00,Peter Pan's Flight,24,71,Teen
+2024-01-25,09:00:00,Prince Charming's Regal Carrousel,41,102,Adult
+2024-01-25,10:00:00,Prince Charming's Regal Carrousel,21,86,Teen
+2024-01-25,11:00:00,Prince Charming's Regal Carrousel,5,62,Senior
+2024-01-25,12:00:00,Prince Charming's Regal Carrousel,44,120,Teen
+2024-01-25,13:00:00,Prince Charming's Regal Carrousel,47,113,Child
+2024-01-25,14:00:00,Prince Charming's Regal Carrousel,67,209,Adult
+2024-01-25,15:00:00,Prince Charming's Regal Carrousel,135,269,Senior
+2024-01-25,16:00:00,Prince Charming's Regal Carrousel,50,151,Child
+2024-01-25,17:00:00,Prince Charming's Regal Carrousel,54,152,Adult
+2024-01-25,18:00:00,Prince Charming's Regal Carrousel,54,120,Child
+2024-01-25,19:00:00,Prince Charming's Regal Carrousel,98,178,Senior
+2024-01-25,20:00:00,Prince Charming's Regal Carrousel,41,80,Adult
+2024-01-25,21:00:00,Prince Charming's Regal Carrousel,30,55,Senior
+2024-01-25,22:00:00,Prince Charming's Regal Carrousel,27,61,Senior
+2024-01-25,09:00:00,Princess Fairytale Hall,16,97,Senior
+2024-01-25,10:00:00,Princess Fairytale Hall,12,55,Senior
+2024-01-25,11:00:00,Princess Fairytale Hall,23,109,Teen
+2024-01-25,12:00:00,Princess Fairytale Hall,35,84,Child
+2024-01-25,13:00:00,Princess Fairytale Hall,75,138,Child
+2024-01-25,14:00:00,Princess Fairytale Hall,62,121,Adult
+2024-01-25,15:00:00,Princess Fairytale Hall,103,238,Teen
+2024-01-25,16:00:00,Princess Fairytale Hall,75,241,Senior
+2024-01-25,17:00:00,Princess Fairytale Hall,101,233,Senior
+2024-01-25,18:00:00,Princess Fairytale Hall,143,246,Teen
+2024-01-25,19:00:00,Princess Fairytale Hall,87,221,Child
+2024-01-25,20:00:00,Princess Fairytale Hall,17,75,Teen
+2024-01-25,21:00:00,Princess Fairytale Hall,28,57,Teen
+2024-01-25,22:00:00,Princess Fairytale Hall,20,60,Teen
+2024-01-25,09:00:00,Seven Dwarfs Mine Train,5,66,Senior
+2024-01-25,10:00:00,Seven Dwarfs Mine Train,20,60,Teen
+2024-01-25,11:00:00,Seven Dwarfs Mine Train,30,68,Adult
+2024-01-25,12:00:00,Seven Dwarfs Mine Train,9,90,Child
+2024-01-25,13:00:00,Seven Dwarfs Mine Train,94,199,Senior
+2024-01-25,14:00:00,Seven Dwarfs Mine Train,97,241,Adult
+2024-01-25,15:00:00,Seven Dwarfs Mine Train,103,233,Child
+2024-01-25,16:00:00,Seven Dwarfs Mine Train,137,279,Senior
+2024-01-25,17:00:00,Seven Dwarfs Mine Train,56,128,Teen
+2024-01-25,18:00:00,Seven Dwarfs Mine Train,66,137,Child
+2024-01-25,19:00:00,Seven Dwarfs Mine Train,61,127,Child
+2024-01-25,20:00:00,Seven Dwarfs Mine Train,38,100,Adult
+2024-01-25,21:00:00,Seven Dwarfs Mine Train,28,76,Senior
+2024-01-25,22:00:00,Seven Dwarfs Mine Train,47,91,Senior
+2024-01-25,09:00:00,Under the Sea: Journey of the Little Mermaid,9,54,Adult
+2024-01-25,10:00:00,Under the Sea: Journey of the Little Mermaid,15,101,Senior
+2024-01-25,11:00:00,Under the Sea: Journey of the Little Mermaid,17,54,Adult
+2024-01-25,12:00:00,Under the Sea: Journey of the Little Mermaid,7,80,Senior
+2024-01-25,13:00:00,Under the Sea: Journey of the Little Mermaid,98,168,Adult
+2024-01-25,14:00:00,Under the Sea: Journey of the Little Mermaid,42,105,Adult
+2024-01-25,15:00:00,Under the Sea: Journey of the Little Mermaid,69,179,Senior
+2024-01-25,16:00:00,Under the Sea: Journey of the Little Mermaid,142,278,Child
+2024-01-25,17:00:00,Under the Sea: Journey of the Little Mermaid,54,158,Adult
+2024-01-25,18:00:00,Under the Sea: Journey of the Little Mermaid,128,290,Adult
+2024-01-25,19:00:00,Under the Sea: Journey of the Little Mermaid,90,168,Senior
+2024-01-25,20:00:00,Under the Sea: Journey of the Little Mermaid,22,88,Teen
+2024-01-25,21:00:00,Under the Sea: Journey of the Little Mermaid,26,78,Senior
+2024-01-25,22:00:00,Under the Sea: Journey of the Little Mermaid,50,97,Adult
+2024-01-25,09:00:00,Frontierland,22,57,Teen
+2024-01-25,10:00:00,Frontierland,14,58,Senior
+2024-01-25,11:00:00,Frontierland,26,67,Child
+2024-01-25,12:00:00,Frontierland,13,72,Teen
+2024-01-25,13:00:00,Frontierland,43,114,Child
+2024-01-25,14:00:00,Frontierland,67,216,Adult
+2024-01-25,15:00:00,Frontierland,101,280,Adult
+2024-01-25,16:00:00,Frontierland,109,194,Senior
+2024-01-25,17:00:00,Frontierland,97,229,Child
+2024-01-25,18:00:00,Frontierland,83,274,Teen
+2024-01-25,19:00:00,Frontierland,88,195,Senior
+2024-01-25,20:00:00,Frontierland,31,61,Adult
+2024-01-25,21:00:00,Frontierland,22,72,Adult
+2024-01-25,22:00:00,Frontierland,25,97,Adult
+2024-01-25,09:00:00,Big Thunder Mountain,16,53,Child
+2024-01-25,10:00:00,Big Thunder Mountain,29,70,Teen
+2024-01-25,11:00:00,Big Thunder Mountain,15,78,Teen
+2024-01-25,12:00:00,Big Thunder Mountain,27,84,Child
+2024-01-25,13:00:00,Big Thunder Mountain,180,299,Child
+2024-01-25,14:00:00,Big Thunder Mountain,131,221,Teen
+2024-01-25,15:00:00,Big Thunder Mountain,93,265,Child
+2024-01-25,16:00:00,Big Thunder Mountain,60,157,Adult
+2024-01-25,17:00:00,Big Thunder Mountain,170,282,Adult
+2024-01-25,18:00:00,Big Thunder Mountain,121,208,Senior
+2024-01-25,19:00:00,Big Thunder Mountain,84,189,Adult
+2024-01-25,20:00:00,Big Thunder Mountain,31,63,Adult
+2024-01-25,21:00:00,Big Thunder Mountain,50,93,Senior
+2024-01-25,22:00:00,Big Thunder Mountain,23,87,Child
+2024-01-25,09:00:00,Country Bear Jamboree,33,115,Adult
+2024-01-25,10:00:00,Country Bear Jamboree,10,88,Senior
+2024-01-25,11:00:00,Country Bear Jamboree,16,58,Adult
+2024-01-25,12:00:00,Country Bear Jamboree,21,91,Adult
+2024-01-25,13:00:00,Country Bear Jamboree,139,267,Adult
+2024-01-25,14:00:00,Country Bear Jamboree,51,148,Teen
+2024-01-25,15:00:00,Country Bear Jamboree,63,114,Senior
+2024-01-25,16:00:00,Country Bear Jamboree,108,269,Teen
+2024-01-25,17:00:00,Country Bear Jamboree,86,284,Senior
+2024-01-25,18:00:00,Country Bear Jamboree,67,175,Senior
+2024-01-25,19:00:00,Country Bear Jamboree,86,203,Child
+2024-01-25,20:00:00,Country Bear Jamboree,28,87,Adult
+2024-01-25,21:00:00,Country Bear Jamboree,33,96,Senior
+2024-01-25,22:00:00,Country Bear Jamboree,39,92,Adult
+2024-01-25,09:00:00,Tom Sawyer Island,29,71,Teen
+2024-01-25,10:00:00,Tom Sawyer Island,10,87,Senior
+2024-01-25,11:00:00,Tom Sawyer Island,14,66,Teen
+2024-01-25,12:00:00,Tom Sawyer Island,10,92,Teen
+2024-01-25,13:00:00,Tom Sawyer Island,71,190,Adult
+2024-01-25,14:00:00,Tom Sawyer Island,114,207,Adult
+2024-01-25,15:00:00,Tom Sawyer Island,75,195,Adult
+2024-01-25,16:00:00,Tom Sawyer Island,125,218,Child
+2024-01-25,17:00:00,Tom Sawyer Island,69,220,Child
+2024-01-25,18:00:00,Tom Sawyer Island,128,220,Teen
+2024-01-25,19:00:00,Tom Sawyer Island,76,228,Senior
+2024-01-25,20:00:00,Tom Sawyer Island,33,83,Senior
+2024-01-25,21:00:00,Tom Sawyer Island,16,53,Teen
+2024-01-25,22:00:00,Tom Sawyer Island,26,62,Senior
+2024-01-25,09:00:00,Splash Mountain,16,108,Adult
+2024-01-25,10:00:00,Splash Mountain,8,73,Senior
+2024-01-25,11:00:00,Splash Mountain,42,92,Teen
+2024-01-25,12:00:00,Splash Mountain,41,90,Child
+2024-01-25,13:00:00,Splash Mountain,45,101,Adult
+2024-01-25,14:00:00,Splash Mountain,83,153,Teen
+2024-01-25,15:00:00,Splash Mountain,134,247,Teen
+2024-01-25,16:00:00,Splash Mountain,124,225,Child
+2024-01-25,17:00:00,Splash Mountain,66,133,Senior
+2024-01-25,18:00:00,Splash Mountain,113,262,Senior
+2024-01-25,19:00:00,Splash Mountain,126,209,Senior
+2024-01-25,20:00:00,Splash Mountain,15,74,Child
+2024-01-25,21:00:00,Splash Mountain,27,84,Adult
+2024-01-25,22:00:00,Splash Mountain,20,50,Teen
+2024-01-25,09:00:00,Liberty Square,3,52,Teen
+2024-01-25,10:00:00,Liberty Square,22,78,Adult
+2024-01-25,11:00:00,Liberty Square,8,66,Senior
+2024-01-25,12:00:00,Liberty Square,48,114,Adult
+2024-01-25,13:00:00,Liberty Square,46,142,Child
+2024-01-25,14:00:00,Liberty Square,106,176,Adult
+2024-01-25,15:00:00,Liberty Square,115,216,Adult
+2024-01-25,16:00:00,Liberty Square,123,211,Teen
+2024-01-25,17:00:00,Liberty Square,109,187,Senior
+2024-01-25,18:00:00,Liberty Square,104,191,Teen
+2024-01-25,19:00:00,Liberty Square,86,142,Senior
+2024-01-25,20:00:00,Liberty Square,18,51,Teen
+2024-01-25,21:00:00,Liberty Square,27,96,Teen
+2024-01-25,22:00:00,Liberty Square,21,96,Teen
+2024-01-25,09:00:00,The Hall of Presidents,19,65,Child
+2024-01-25,10:00:00,The Hall of Presidents,45,98,Adult
+2024-01-25,11:00:00,The Hall of Presidents,52,118,Child
+2024-01-25,12:00:00,The Hall of Presidents,7,56,Child
+2024-01-25,13:00:00,The Hall of Presidents,59,112,Child
+2024-01-25,14:00:00,The Hall of Presidents,91,206,Senior
+2024-01-25,15:00:00,The Hall of Presidents,62,131,Adult
+2024-01-25,16:00:00,The Hall of Presidents,115,221,Teen
+2024-01-25,17:00:00,The Hall of Presidents,80,152,Child
+2024-01-25,18:00:00,The Hall of Presidents,77,177,Child
+2024-01-25,19:00:00,The Hall of Presidents,124,269,Adult
+2024-01-25,20:00:00,The Hall of Presidents,25,89,Senior
+2024-01-25,21:00:00,The Hall of Presidents,30,56,Child
+2024-01-25,22:00:00,The Hall of Presidents,19,68,Child
+2024-01-25,09:00:00,Haunted Mansion,20,113,Teen
+2024-01-25,10:00:00,Haunted Mansion,32,83,Teen
+2024-01-25,11:00:00,Haunted Mansion,30,95,Adult
+2024-01-25,12:00:00,Haunted Mansion,5,70,Senior
+2024-01-25,13:00:00,Haunted Mansion,80,153,Senior
+2024-01-25,14:00:00,Haunted Mansion,69,184,Child
+2024-01-25,15:00:00,Haunted Mansion,53,103,Child
+2024-01-25,16:00:00,Haunted Mansion,72,128,Senior
+2024-01-25,17:00:00,Haunted Mansion,83,138,Child
+2024-01-25,18:00:00,Haunted Mansion,138,299,Child
+2024-01-25,19:00:00,Haunted Mansion,152,285,Child
+2024-01-25,20:00:00,Haunted Mansion,23,66,Senior
+2024-01-25,21:00:00,Haunted Mansion,25,68,Senior
+2024-01-25,22:00:00,Haunted Mansion,14,53,Teen
+2024-01-25,09:00:00,Liberty Square Riverboat,13,55,Adult
+2024-01-25,10:00:00,Liberty Square Riverboat,29,90,Child
+2024-01-25,11:00:00,Liberty Square Riverboat,5,62,Child
+2024-01-25,12:00:00,Liberty Square Riverboat,11,67,Adult
+2024-01-25,13:00:00,Liberty Square Riverboat,111,191,Senior
+2024-01-25,14:00:00,Liberty Square Riverboat,99,259,Child
+2024-01-25,15:00:00,Liberty Square Riverboat,110,195,Adult
+2024-01-25,16:00:00,Liberty Square Riverboat,49,146,Senior
+2024-01-25,17:00:00,Liberty Square Riverboat,122,202,Senior
+2024-01-25,18:00:00,Liberty Square Riverboat,95,169,Senior
+2024-01-25,19:00:00,Liberty Square Riverboat,158,276,Senior
+2024-01-25,20:00:00,Liberty Square Riverboat,23,76,Child
+2024-01-25,21:00:00,Liberty Square Riverboat,14,58,Teen
+2024-01-25,22:00:00,Liberty Square Riverboat,26,56,Senior
+2024-01-25,09:00:00,Main Street USA,17,106,Senior
+2024-01-25,10:00:00,Main Street USA,42,95,Child
+2024-01-25,11:00:00,Main Street USA,24,66,Senior
+2024-01-25,12:00:00,Main Street USA,20,64,Senior
+2024-01-25,13:00:00,Main Street USA,36,111,Adult
+2024-01-25,14:00:00,Main Street USA,107,267,Child
+2024-01-25,15:00:00,Main Street USA,160,280,Teen
+2024-01-25,16:00:00,Main Street USA,155,271,Adult
+2024-01-25,17:00:00,Main Street USA,107,232,Child
+2024-01-25,18:00:00,Main Street USA,108,210,Teen
+2024-01-25,19:00:00,Main Street USA,92,223,Senior
+2024-01-25,20:00:00,Main Street USA,33,59,Child
+2024-01-25,21:00:00,Main Street USA,15,50,Senior
+2024-01-25,22:00:00,Main Street USA,25,81,Child
+2024-01-25,09:00:00,Tomorrowland,28,112,Teen
+2024-01-25,10:00:00,Tomorrowland,21,92,Child
+2024-01-25,11:00:00,Tomorrowland,22,114,Senior
+2024-01-25,12:00:00,Tomorrowland,21,101,Child
+2024-01-25,13:00:00,Tomorrowland,96,217,Senior
+2024-01-25,14:00:00,Tomorrowland,70,122,Senior
+2024-01-25,15:00:00,Tomorrowland,86,214,Child
+2024-01-25,16:00:00,Tomorrowland,121,227,Child
+2024-01-25,17:00:00,Tomorrowland,53,126,Senior
+2024-01-25,18:00:00,Tomorrowland,52,109,Child
+2024-01-25,19:00:00,Tomorrowland,68,123,Adult
+2024-01-25,20:00:00,Tomorrowland,46,82,Teen
+2024-01-25,21:00:00,Tomorrowland,45,91,Adult
+2024-01-25,22:00:00,Tomorrowland,17,73,Teen
+2024-01-25,09:00:00,Astro Orbiter,29,108,Senior
+2024-01-25,10:00:00,Astro Orbiter,32,96,Child
+2024-01-25,11:00:00,Astro Orbiter,12,62,Child
+2024-01-25,12:00:00,Astro Orbiter,26,93,Adult
+2024-01-25,13:00:00,Astro Orbiter,111,240,Adult
+2024-01-25,14:00:00,Astro Orbiter,93,279,Child
+2024-01-25,15:00:00,Astro Orbiter,64,142,Teen
+2024-01-25,16:00:00,Astro Orbiter,150,283,Senior
+2024-01-25,17:00:00,Astro Orbiter,49,127,Teen
+2024-01-25,18:00:00,Astro Orbiter,49,148,Senior
+2024-01-25,19:00:00,Astro Orbiter,69,155,Teen
+2024-01-25,20:00:00,Astro Orbiter,39,95,Child
+2024-01-25,21:00:00,Astro Orbiter,46,98,Child
+2024-01-25,22:00:00,Astro Orbiter,25,90,Senior
+2024-01-25,09:00:00,Buzz Lightyear's Space Ranger Spin,46,108,Teen
+2024-01-25,10:00:00,Buzz Lightyear's Space Ranger Spin,6,113,Child
+2024-01-25,11:00:00,Buzz Lightyear's Space Ranger Spin,39,120,Senior
+2024-01-25,12:00:00,Buzz Lightyear's Space Ranger Spin,19,115,Teen
+2024-01-25,13:00:00,Buzz Lightyear's Space Ranger Spin,161,287,Teen
+2024-01-25,14:00:00,Buzz Lightyear's Space Ranger Spin,53,126,Adult
+2024-01-25,15:00:00,Buzz Lightyear's Space Ranger Spin,133,229,Senior
+2024-01-25,16:00:00,Buzz Lightyear's Space Ranger Spin,102,207,Teen
+2024-01-25,17:00:00,Buzz Lightyear's Space Ranger Spin,72,170,Adult
+2024-01-25,18:00:00,Buzz Lightyear's Space Ranger Spin,77,175,Teen
+2024-01-25,19:00:00,Buzz Lightyear's Space Ranger Spin,59,135,Adult
+2024-01-25,20:00:00,Buzz Lightyear's Space Ranger Spin,52,94,Adult
+2024-01-25,21:00:00,Buzz Lightyear's Space Ranger Spin,53,95,Teen
+2024-01-25,22:00:00,Buzz Lightyear's Space Ranger Spin,21,62,Adult
+2024-01-25,09:00:00,Carousel of Progress,13,94,Teen
+2024-01-25,10:00:00,Carousel of Progress,45,114,Adult
+2024-01-25,11:00:00,Carousel of Progress,18,64,Senior
+2024-01-25,12:00:00,Carousel of Progress,41,103,Adult
+2024-01-25,13:00:00,Carousel of Progress,115,208,Child
+2024-01-25,14:00:00,Carousel of Progress,77,233,Child
+2024-01-25,15:00:00,Carousel of Progress,67,197,Child
+2024-01-25,16:00:00,Carousel of Progress,85,271,Teen
+2024-01-25,17:00:00,Carousel of Progress,91,168,Teen
+2024-01-25,18:00:00,Carousel of Progress,89,173,Adult
+2024-01-25,19:00:00,Carousel of Progress,77,137,Child
+2024-01-25,20:00:00,Carousel of Progress,36,94,Teen
+2024-01-25,21:00:00,Carousel of Progress,53,98,Child
+2024-01-25,22:00:00,Carousel of Progress,35,72,Child
+2024-01-25,09:00:00,"Monsters, Inc. Laugh Floor",32,78,Senior
+2024-01-25,10:00:00,"Monsters, Inc. Laugh Floor",30,80,Adult
+2024-01-25,11:00:00,"Monsters, Inc. Laugh Floor",17,56,Senior
+2024-01-25,12:00:00,"Monsters, Inc. Laugh Floor",26,103,Child
+2024-01-25,13:00:00,"Monsters, Inc. Laugh Floor",55,103,Adult
+2024-01-25,14:00:00,"Monsters, Inc. Laugh Floor",74,151,Senior
+2024-01-25,15:00:00,"Monsters, Inc. Laugh Floor",93,157,Adult
+2024-01-25,16:00:00,"Monsters, Inc. Laugh Floor",141,293,Teen
+2024-01-25,17:00:00,"Monsters, Inc. Laugh Floor",158,298,Teen
+2024-01-25,18:00:00,"Monsters, Inc. Laugh Floor",77,175,Teen
+2024-01-25,19:00:00,"Monsters, Inc. Laugh Floor",88,274,Teen
+2024-01-25,20:00:00,"Monsters, Inc. Laugh Floor",32,61,Child
+2024-01-25,21:00:00,"Monsters, Inc. Laugh Floor",17,74,Senior
+2024-01-25,22:00:00,"Monsters, Inc. Laugh Floor",37,67,Adult
+2024-01-25,09:00:00,Space Mountain,10,66,Adult
+2024-01-25,10:00:00,Space Mountain,13,50,Senior
+2024-01-25,11:00:00,Space Mountain,5,69,Teen
+2024-01-25,12:00:00,Space Mountain,40,91,Child
+2024-01-25,13:00:00,Space Mountain,176,298,Adult
+2024-01-25,14:00:00,Space Mountain,124,225,Adult
+2024-01-25,15:00:00,Space Mountain,65,118,Adult
+2024-01-25,16:00:00,Space Mountain,87,234,Teen
+2024-01-25,17:00:00,Space Mountain,75,233,Teen
+2024-01-25,18:00:00,Space Mountain,97,206,Senior
+2024-01-25,19:00:00,Space Mountain,51,123,Teen
+2024-01-25,20:00:00,Space Mountain,26,63,Adult
+2024-01-25,21:00:00,Space Mountain,28,73,Teen
+2024-01-25,22:00:00,Space Mountain,52,98,Senior
+2024-01-25,09:00:00,Stitch's Great Escape! (Seasonal),7,51,Adult
+2024-01-25,10:00:00,Stitch's Great Escape! (Seasonal),22,107,Teen
+2024-01-25,11:00:00,Stitch's Great Escape! (Seasonal),14,55,Senior
+2024-01-25,12:00:00,Stitch's Great Escape! (Seasonal),19,64,Adult
+2024-01-25,13:00:00,Stitch's Great Escape! (Seasonal),127,238,Adult
+2024-01-25,14:00:00,Stitch's Great Escape! (Seasonal),63,106,Adult
+2024-01-25,15:00:00,Stitch's Great Escape! (Seasonal),128,231,Senior
+2024-01-25,16:00:00,Stitch's Great Escape! (Seasonal),70,224,Adult
+2024-01-25,17:00:00,Stitch's Great Escape! (Seasonal),96,266,Adult
+2024-01-25,18:00:00,Stitch's Great Escape! (Seasonal),74,231,Child
+2024-01-25,19:00:00,Stitch's Great Escape! (Seasonal),86,142,Child
+2024-01-25,20:00:00,Stitch's Great Escape! (Seasonal),22,90,Teen
+2024-01-25,21:00:00,Stitch's Great Escape! (Seasonal),31,92,Senior
+2024-01-25,22:00:00,Stitch's Great Escape! (Seasonal),19,56,Senior
+2024-01-25,09:00:00,Tomorrowland Speedway,9,59,Child
+2024-01-25,10:00:00,Tomorrowland Speedway,29,108,Child
+2024-01-25,11:00:00,Tomorrowland Speedway,6,61,Child
+2024-01-25,12:00:00,Tomorrowland Speedway,16,72,Child
+2024-01-25,13:00:00,Tomorrowland Speedway,139,247,Teen
+2024-01-25,14:00:00,Tomorrowland Speedway,72,166,Senior
+2024-01-25,15:00:00,Tomorrowland Speedway,108,215,Senior
+2024-01-25,16:00:00,Tomorrowland Speedway,84,210,Child
+2024-01-25,17:00:00,Tomorrowland Speedway,102,199,Child
+2024-01-25,18:00:00,Tomorrowland Speedway,71,236,Child
+2024-01-25,19:00:00,Tomorrowland Speedway,156,293,Child
+2024-01-25,20:00:00,Tomorrowland Speedway,23,94,Adult
+2024-01-25,21:00:00,Tomorrowland Speedway,22,82,Adult
+2024-01-25,22:00:00,Tomorrowland Speedway,39,100,Child
+2024-01-25,09:00:00,Tomorrowland Transit Authority,29,86,Senior
+2024-01-25,10:00:00,Tomorrowland Transit Authority,6,100,Senior
+2024-01-25,11:00:00,Tomorrowland Transit Authority,28,70,Teen
+2024-01-25,12:00:00,Tomorrowland Transit Authority,21,67,Adult
+2024-01-25,13:00:00,Tomorrowland Transit Authority,90,262,Adult
+2024-01-25,14:00:00,Tomorrowland Transit Authority,159,273,Adult
+2024-01-25,15:00:00,Tomorrowland Transit Authority,48,102,Teen
+2024-01-25,16:00:00,Tomorrowland Transit Authority,41,131,Child
+2024-01-25,17:00:00,Tomorrowland Transit Authority,121,246,Senior
+2024-01-25,18:00:00,Tomorrowland Transit Authority,112,237,Child
+2024-01-25,19:00:00,Tomorrowland Transit Authority,65,178,Adult
+2024-01-25,20:00:00,Tomorrowland Transit Authority,29,63,Teen
+2024-01-25,21:00:00,Tomorrowland Transit Authority,19,60,Teen
+2024-01-25,22:00:00,Tomorrowland Transit Authority,33,89,Teen
+2024-01-25,09:00:00,TRON Lightcycle Power Run Rollercoaster,11,64,Child
+2024-01-25,10:00:00,TRON Lightcycle Power Run Rollercoaster,41,120,Child
+2024-01-25,11:00:00,TRON Lightcycle Power Run Rollercoaster,8,87,Adult
+2024-01-25,12:00:00,TRON Lightcycle Power Run Rollercoaster,11,62,Senior
+2024-01-25,13:00:00,TRON Lightcycle Power Run Rollercoaster,76,184,Teen
+2024-01-25,14:00:00,TRON Lightcycle Power Run Rollercoaster,136,271,Teen
+2024-01-25,15:00:00,TRON Lightcycle Power Run Rollercoaster,49,125,Child
+2024-01-25,16:00:00,TRON Lightcycle Power Run Rollercoaster,60,149,Senior
+2024-01-25,17:00:00,TRON Lightcycle Power Run Rollercoaster,86,215,Adult
+2024-01-25,18:00:00,TRON Lightcycle Power Run Rollercoaster,133,277,Teen
+2024-01-25,19:00:00,TRON Lightcycle Power Run Rollercoaster,118,244,Adult
+2024-01-25,20:00:00,TRON Lightcycle Power Run Rollercoaster,33,70,Teen
+2024-01-25,21:00:00,TRON Lightcycle Power Run Rollercoaster,20,50,Teen
+2024-01-25,22:00:00,TRON Lightcycle Power Run Rollercoaster,34,100,Senior
+2024-01-24,09:00:00,Enchanted Tiki Room,24,85,Teen
+2024-01-24,10:00:00,Enchanted Tiki Room,33,92,Senior
+2024-01-24,11:00:00,Enchanted Tiki Room,29,107,Adult
+2024-01-24,12:00:00,Enchanted Tiki Room,45,112,Child
+2024-01-24,13:00:00,Enchanted Tiki Room,72,144,Child
+2024-01-24,14:00:00,Enchanted Tiki Room,98,171,Teen
+2024-01-24,15:00:00,Enchanted Tiki Room,86,237,Adult
+2024-01-24,16:00:00,Enchanted Tiki Room,167,287,Child
+2024-01-24,17:00:00,Enchanted Tiki Room,92,286,Child
+2024-01-24,18:00:00,Enchanted Tiki Room,115,229,Child
+2024-01-24,19:00:00,Enchanted Tiki Room,120,248,Senior
+2024-01-24,20:00:00,Enchanted Tiki Room,33,99,Child
+2024-01-24,21:00:00,Enchanted Tiki Room,31,85,Senior
+2024-01-24,22:00:00,Enchanted Tiki Room,27,91,Adult
+2024-01-24,09:00:00,Jungle Cruise,19,100,Adult
+2024-01-24,10:00:00,Jungle Cruise,23,67,Child
+2024-01-24,11:00:00,Jungle Cruise,28,100,Child
+2024-01-24,12:00:00,Jungle Cruise,36,80,Teen
+2024-01-24,13:00:00,Jungle Cruise,135,293,Teen
+2024-01-24,14:00:00,Jungle Cruise,75,214,Teen
+2024-01-24,15:00:00,Jungle Cruise,147,244,Teen
+2024-01-24,16:00:00,Jungle Cruise,153,288,Senior
+2024-01-24,17:00:00,Jungle Cruise,60,191,Teen
+2024-01-24,18:00:00,Jungle Cruise,133,294,Teen
+2024-01-24,19:00:00,Jungle Cruise,45,116,Adult
+2024-01-24,20:00:00,Jungle Cruise,15,64,Teen
+2024-01-24,21:00:00,Jungle Cruise,36,83,Senior
+2024-01-24,22:00:00,Jungle Cruise,40,80,Child
+2024-01-24,09:00:00,The Magic Carpets of Aladdin,14,55,Child
+2024-01-24,10:00:00,The Magic Carpets of Aladdin,53,116,Adult
+2024-01-24,11:00:00,The Magic Carpets of Aladdin,35,83,Teen
+2024-01-24,12:00:00,The Magic Carpets of Aladdin,29,98,Adult
+2024-01-24,13:00:00,The Magic Carpets of Aladdin,125,250,Child
+2024-01-24,14:00:00,The Magic Carpets of Aladdin,89,232,Senior
+2024-01-24,15:00:00,The Magic Carpets of Aladdin,73,157,Senior
+2024-01-24,16:00:00,The Magic Carpets of Aladdin,107,190,Adult
+2024-01-24,17:00:00,The Magic Carpets of Aladdin,124,224,Senior
+2024-01-24,18:00:00,The Magic Carpets of Aladdin,77,254,Teen
+2024-01-24,19:00:00,The Magic Carpets of Aladdin,75,212,Teen
+2024-01-24,20:00:00,The Magic Carpets of Aladdin,29,54,Adult
+2024-01-24,21:00:00,The Magic Carpets of Aladdin,19,63,Teen
+2024-01-24,22:00:00,The Magic Carpets of Aladdin,26,60,Child
+2024-01-24,09:00:00,Pirates of the Caribbean,25,79,Adult
+2024-01-24,10:00:00,Pirates of the Caribbean,23,64,Senior
+2024-01-24,11:00:00,Pirates of the Caribbean,20,111,Teen
+2024-01-24,12:00:00,Pirates of the Caribbean,7,102,Teen
+2024-01-24,13:00:00,Pirates of the Caribbean,38,111,Teen
+2024-01-24,14:00:00,Pirates of the Caribbean,67,134,Child
+2024-01-24,15:00:00,Pirates of the Caribbean,84,246,Child
+2024-01-24,16:00:00,Pirates of the Caribbean,54,142,Teen
+2024-01-24,17:00:00,Pirates of the Caribbean,140,232,Senior
+2024-01-24,18:00:00,Pirates of the Caribbean,122,253,Child
+2024-01-24,19:00:00,Pirates of the Caribbean,151,284,Adult
+2024-01-24,20:00:00,Pirates of the Caribbean,19,55,Senior
+2024-01-24,21:00:00,Pirates of the Caribbean,44,88,Senior
+2024-01-24,22:00:00,Pirates of the Caribbean,21,60,Senior
+2024-01-24,09:00:00,Swiss Family Treehouse,29,68,Teen
+2024-01-24,10:00:00,Swiss Family Treehouse,25,115,Teen
+2024-01-24,11:00:00,Swiss Family Treehouse,32,93,Child
+2024-01-24,12:00:00,Swiss Family Treehouse,23,79,Senior
+2024-01-24,13:00:00,Swiss Family Treehouse,44,133,Child
+2024-01-24,14:00:00,Swiss Family Treehouse,70,151,Senior
+2024-01-24,15:00:00,Swiss Family Treehouse,68,138,Child
+2024-01-24,16:00:00,Swiss Family Treehouse,66,145,Child
+2024-01-24,17:00:00,Swiss Family Treehouse,141,300,Child
+2024-01-24,18:00:00,Swiss Family Treehouse,56,123,Teen
+2024-01-24,19:00:00,Swiss Family Treehouse,120,254,Child
+2024-01-24,20:00:00,Swiss Family Treehouse,47,99,Senior
+2024-01-24,21:00:00,Swiss Family Treehouse,17,73,Senior
+2024-01-24,22:00:00,Swiss Family Treehouse,32,64,Senior
+2024-01-24,09:00:00,Fantasyland,40,94,Child
+2024-01-24,10:00:00,Fantasyland,14,104,Adult
+2024-01-24,11:00:00,Fantasyland,22,111,Child
+2024-01-24,12:00:00,Fantasyland,37,86,Senior
+2024-01-24,13:00:00,Fantasyland,60,165,Child
+2024-01-24,14:00:00,Fantasyland,149,281,Child
+2024-01-24,15:00:00,Fantasyland,114,247,Child
+2024-01-24,16:00:00,Fantasyland,70,233,Senior
+2024-01-24,17:00:00,Fantasyland,97,267,Adult
+2024-01-24,18:00:00,Fantasyland,84,204,Child
+2024-01-24,19:00:00,Fantasyland,60,139,Adult
+2024-01-24,20:00:00,Fantasyland,36,66,Senior
+2024-01-24,21:00:00,Fantasyland,37,86,Adult
+2024-01-24,22:00:00,Fantasyland,42,93,Teen
+2024-01-24,09:00:00,The Barnstormer,41,102,Senior
+2024-01-24,10:00:00,The Barnstormer,21,72,Senior
+2024-01-24,11:00:00,The Barnstormer,20,82,Adult
+2024-01-24,12:00:00,The Barnstormer,13,100,Child
+2024-01-24,13:00:00,The Barnstormer,108,291,Senior
+2024-01-24,14:00:00,The Barnstormer,156,300,Teen
+2024-01-24,15:00:00,The Barnstormer,45,125,Senior
+2024-01-24,16:00:00,The Barnstormer,103,186,Child
+2024-01-24,17:00:00,The Barnstormer,60,141,Child
+2024-01-24,18:00:00,The Barnstormer,69,123,Teen
+2024-01-24,19:00:00,The Barnstormer,130,220,Senior
+2024-01-24,20:00:00,The Barnstormer,14,55,Adult
+2024-01-24,21:00:00,The Barnstormer,28,64,Child
+2024-01-24,22:00:00,The Barnstormer,20,88,Senior
+2024-01-24,09:00:00,Dumbo the Flying Elephant,45,101,Adult
+2024-01-24,10:00:00,Dumbo the Flying Elephant,10,57,Senior
+2024-01-24,11:00:00,Dumbo the Flying Elephant,6,106,Teen
+2024-01-24,12:00:00,Dumbo the Flying Elephant,27,116,Teen
+2024-01-24,13:00:00,Dumbo the Flying Elephant,60,108,Teen
+2024-01-24,14:00:00,Dumbo the Flying Elephant,90,257,Child
+2024-01-24,15:00:00,Dumbo the Flying Elephant,72,192,Child
+2024-01-24,16:00:00,Dumbo the Flying Elephant,45,140,Adult
+2024-01-24,17:00:00,Dumbo the Flying Elephant,126,299,Adult
+2024-01-24,18:00:00,Dumbo the Flying Elephant,114,271,Senior
+2024-01-24,19:00:00,Dumbo the Flying Elephant,90,250,Child
+2024-01-24,20:00:00,Dumbo the Flying Elephant,24,97,Child
+2024-01-24,21:00:00,Dumbo the Flying Elephant,33,85,Adult
+2024-01-24,22:00:00,Dumbo the Flying Elephant,27,72,Teen
+2024-01-24,09:00:00,Enchanted Tales with Belle,26,74,Senior
+2024-01-24,10:00:00,Enchanted Tales with Belle,11,50,Teen
+2024-01-24,11:00:00,Enchanted Tales with Belle,38,102,Child
+2024-01-24,12:00:00,Enchanted Tales with Belle,22,59,Adult
+2024-01-24,13:00:00,Enchanted Tales with Belle,113,187,Child
+2024-01-24,14:00:00,Enchanted Tales with Belle,139,231,Adult
+2024-01-24,15:00:00,Enchanted Tales with Belle,133,237,Adult
+2024-01-24,16:00:00,Enchanted Tales with Belle,122,277,Senior
+2024-01-24,17:00:00,Enchanted Tales with Belle,110,244,Teen
+2024-01-24,18:00:00,Enchanted Tales with Belle,118,293,Senior
+2024-01-24,19:00:00,Enchanted Tales with Belle,121,274,Child
+2024-01-24,20:00:00,Enchanted Tales with Belle,22,80,Adult
+2024-01-24,21:00:00,Enchanted Tales with Belle,24,54,Teen
+2024-01-24,22:00:00,Enchanted Tales with Belle,32,93,Adult
+2024-01-24,09:00:00,it's a small world,28,102,Child
+2024-01-24,10:00:00,it's a small world,17,83,Adult
+2024-01-24,11:00:00,it's a small world,19,61,Adult
+2024-01-24,12:00:00,it's a small world,24,59,Teen
+2024-01-24,13:00:00,it's a small world,89,221,Adult
+2024-01-24,14:00:00,it's a small world,90,155,Adult
+2024-01-24,15:00:00,it's a small world,88,146,Teen
+2024-01-24,16:00:00,it's a small world,121,227,Teen
+2024-01-24,17:00:00,it's a small world,85,160,Teen
+2024-01-24,18:00:00,it's a small world,61,167,Teen
+2024-01-24,19:00:00,it's a small world,85,151,Teen
+2024-01-24,20:00:00,it's a small world,38,89,Teen
+2024-01-24,21:00:00,it's a small world,26,99,Child
+2024-01-24,22:00:00,it's a small world,29,55,Child
+2024-01-24,09:00:00,Mad Tea Party,9,119,Senior
+2024-01-24,10:00:00,Mad Tea Party,43,97,Adult
+2024-01-24,11:00:00,Mad Tea Party,47,113,Adult
+2024-01-24,12:00:00,Mad Tea Party,18,112,Adult
+2024-01-24,13:00:00,Mad Tea Party,75,201,Teen
+2024-01-24,14:00:00,Mad Tea Party,52,113,Senior
+2024-01-24,15:00:00,Mad Tea Party,134,222,Child
+2024-01-24,16:00:00,Mad Tea Party,94,228,Senior
+2024-01-24,17:00:00,Mad Tea Party,149,275,Teen
+2024-01-24,18:00:00,Mad Tea Party,72,217,Senior
+2024-01-24,19:00:00,Mad Tea Party,94,180,Child
+2024-01-24,20:00:00,Mad Tea Party,17,50,Senior
+2024-01-24,21:00:00,Mad Tea Party,23,87,Adult
+2024-01-24,22:00:00,Mad Tea Party,27,73,Teen
+2024-01-24,09:00:00,Mickey's PhilharMagic,26,120,Teen
+2024-01-24,10:00:00,Mickey's PhilharMagic,30,84,Adult
+2024-01-24,11:00:00,Mickey's PhilharMagic,16,96,Senior
+2024-01-24,12:00:00,Mickey's PhilharMagic,19,104,Senior
+2024-01-24,13:00:00,Mickey's PhilharMagic,151,279,Adult
+2024-01-24,14:00:00,Mickey's PhilharMagic,111,193,Senior
+2024-01-24,15:00:00,Mickey's PhilharMagic,76,171,Teen
+2024-01-24,16:00:00,Mickey's PhilharMagic,84,246,Teen
+2024-01-24,17:00:00,Mickey's PhilharMagic,67,125,Adult
+2024-01-24,18:00:00,Mickey's PhilharMagic,76,160,Senior
+2024-01-24,19:00:00,Mickey's PhilharMagic,71,197,Teen
+2024-01-24,20:00:00,Mickey's PhilharMagic,29,97,Senior
+2024-01-24,21:00:00,Mickey's PhilharMagic,16,50,Senior
+2024-01-24,22:00:00,Mickey's PhilharMagic,23,81,Adult
+2024-01-24,09:00:00,The Many Adventures of Winnie the Pooh,27,112,Adult
+2024-01-24,10:00:00,The Many Adventures of Winnie the Pooh,17,56,Child
+2024-01-24,11:00:00,The Many Adventures of Winnie the Pooh,6,70,Teen
+2024-01-24,12:00:00,The Many Adventures of Winnie the Pooh,29,82,Child
+2024-01-24,13:00:00,The Many Adventures of Winnie the Pooh,114,215,Adult
+2024-01-24,14:00:00,The Many Adventures of Winnie the Pooh,69,166,Adult
+2024-01-24,15:00:00,The Many Adventures of Winnie the Pooh,115,243,Adult
+2024-01-24,16:00:00,The Many Adventures of Winnie the Pooh,57,188,Senior
+2024-01-24,17:00:00,The Many Adventures of Winnie the Pooh,54,131,Teen
+2024-01-24,18:00:00,The Many Adventures of Winnie the Pooh,119,247,Teen
+2024-01-24,19:00:00,The Many Adventures of Winnie the Pooh,117,299,Adult
+2024-01-24,20:00:00,The Many Adventures of Winnie the Pooh,37,70,Senior
+2024-01-24,21:00:00,The Many Adventures of Winnie the Pooh,48,99,Child
+2024-01-24,22:00:00,The Many Adventures of Winnie the Pooh,29,74,Senior
+2024-01-24,09:00:00,Peter Pan's Flight,11,68,Adult
+2024-01-24,10:00:00,Peter Pan's Flight,47,103,Senior
+2024-01-24,11:00:00,Peter Pan's Flight,6,59,Teen
+2024-01-24,12:00:00,Peter Pan's Flight,18,93,Adult
+2024-01-24,13:00:00,Peter Pan's Flight,91,181,Adult
+2024-01-24,14:00:00,Peter Pan's Flight,107,281,Senior
+2024-01-24,15:00:00,Peter Pan's Flight,99,169,Senior
+2024-01-24,16:00:00,Peter Pan's Flight,171,299,Adult
+2024-01-24,17:00:00,Peter Pan's Flight,140,291,Senior
+2024-01-24,18:00:00,Peter Pan's Flight,72,205,Teen
+2024-01-24,19:00:00,Peter Pan's Flight,36,105,Teen
+2024-01-24,20:00:00,Peter Pan's Flight,34,92,Child
+2024-01-24,21:00:00,Peter Pan's Flight,19,63,Senior
+2024-01-24,22:00:00,Peter Pan's Flight,15,56,Child
+2024-01-24,09:00:00,Prince Charming's Regal Carrousel,44,110,Child
+2024-01-24,10:00:00,Prince Charming's Regal Carrousel,16,53,Child
+2024-01-24,11:00:00,Prince Charming's Regal Carrousel,14,63,Teen
+2024-01-24,12:00:00,Prince Charming's Regal Carrousel,18,60,Adult
+2024-01-24,13:00:00,Prince Charming's Regal Carrousel,59,158,Adult
+2024-01-24,14:00:00,Prince Charming's Regal Carrousel,107,213,Teen
+2024-01-24,15:00:00,Prince Charming's Regal Carrousel,62,133,Teen
+2024-01-24,16:00:00,Prince Charming's Regal Carrousel,34,107,Adult
+2024-01-24,17:00:00,Prince Charming's Regal Carrousel,105,183,Senior
+2024-01-24,18:00:00,Prince Charming's Regal Carrousel,125,219,Adult
+2024-01-24,19:00:00,Prince Charming's Regal Carrousel,106,240,Teen
+2024-01-24,20:00:00,Prince Charming's Regal Carrousel,51,94,Teen
+2024-01-24,21:00:00,Prince Charming's Regal Carrousel,43,87,Senior
+2024-01-24,22:00:00,Prince Charming's Regal Carrousel,45,83,Adult
+2024-01-24,09:00:00,Princess Fairytale Hall,33,94,Teen
+2024-01-24,10:00:00,Princess Fairytale Hall,21,61,Adult
+2024-01-24,11:00:00,Princess Fairytale Hall,30,96,Adult
+2024-01-24,12:00:00,Princess Fairytale Hall,17,69,Child
+2024-01-24,13:00:00,Princess Fairytale Hall,46,100,Teen
+2024-01-24,14:00:00,Princess Fairytale Hall,74,188,Senior
+2024-01-24,15:00:00,Princess Fairytale Hall,71,236,Senior
+2024-01-24,16:00:00,Princess Fairytale Hall,132,293,Adult
+2024-01-24,17:00:00,Princess Fairytale Hall,56,102,Senior
+2024-01-24,18:00:00,Princess Fairytale Hall,86,174,Teen
+2024-01-24,19:00:00,Princess Fairytale Hall,48,101,Adult
+2024-01-24,20:00:00,Princess Fairytale Hall,29,62,Senior
+2024-01-24,21:00:00,Princess Fairytale Hall,27,75,Teen
+2024-01-24,22:00:00,Princess Fairytale Hall,42,95,Senior
+2024-01-24,09:00:00,Seven Dwarfs Mine Train,17,78,Child
+2024-01-24,10:00:00,Seven Dwarfs Mine Train,47,104,Teen
+2024-01-24,11:00:00,Seven Dwarfs Mine Train,52,116,Adult
+2024-01-24,12:00:00,Seven Dwarfs Mine Train,34,86,Adult
+2024-01-24,13:00:00,Seven Dwarfs Mine Train,74,205,Child
+2024-01-24,14:00:00,Seven Dwarfs Mine Train,50,146,Adult
+2024-01-24,15:00:00,Seven Dwarfs Mine Train,64,128,Senior
+2024-01-24,16:00:00,Seven Dwarfs Mine Train,114,258,Adult
+2024-01-24,17:00:00,Seven Dwarfs Mine Train,137,279,Senior
+2024-01-24,18:00:00,Seven Dwarfs Mine Train,60,148,Child
+2024-01-24,19:00:00,Seven Dwarfs Mine Train,43,138,Child
+2024-01-24,20:00:00,Seven Dwarfs Mine Train,16,61,Adult
+2024-01-24,21:00:00,Seven Dwarfs Mine Train,19,67,Senior
+2024-01-24,22:00:00,Seven Dwarfs Mine Train,20,96,Teen
+2024-01-24,09:00:00,Under the Sea: Journey of the Little Mermaid,9,61,Child
+2024-01-24,10:00:00,Under the Sea: Journey of the Little Mermaid,21,113,Adult
+2024-01-24,11:00:00,Under the Sea: Journey of the Little Mermaid,25,103,Senior
+2024-01-24,12:00:00,Under the Sea: Journey of the Little Mermaid,33,97,Child
+2024-01-24,13:00:00,Under the Sea: Journey of the Little Mermaid,59,184,Teen
+2024-01-24,14:00:00,Under the Sea: Journey of the Little Mermaid,44,114,Senior
+2024-01-24,15:00:00,Under the Sea: Journey of the Little Mermaid,56,118,Senior
+2024-01-24,16:00:00,Under the Sea: Journey of the Little Mermaid,53,146,Adult
+2024-01-24,17:00:00,Under the Sea: Journey of the Little Mermaid,111,197,Child
+2024-01-24,18:00:00,Under the Sea: Journey of the Little Mermaid,71,131,Teen
+2024-01-24,19:00:00,Under the Sea: Journey of the Little Mermaid,107,198,Senior
+2024-01-24,20:00:00,Under the Sea: Journey of the Little Mermaid,15,65,Teen
+2024-01-24,21:00:00,Under the Sea: Journey of the Little Mermaid,21,79,Teen
+2024-01-24,22:00:00,Under the Sea: Journey of the Little Mermaid,36,80,Adult
+2024-01-24,09:00:00,Frontierland,14,91,Child
+2024-01-24,10:00:00,Frontierland,46,120,Child
+2024-01-24,11:00:00,Frontierland,29,82,Adult
+2024-01-24,12:00:00,Frontierland,21,75,Child
+2024-01-24,13:00:00,Frontierland,98,270,Child
+2024-01-24,14:00:00,Frontierland,80,160,Senior
+2024-01-24,15:00:00,Frontierland,55,183,Teen
+2024-01-24,16:00:00,Frontierland,82,170,Child
+2024-01-24,17:00:00,Frontierland,111,201,Teen
+2024-01-24,18:00:00,Frontierland,32,102,Senior
+2024-01-24,19:00:00,Frontierland,136,276,Teen
+2024-01-24,20:00:00,Frontierland,19,73,Teen
+2024-01-24,21:00:00,Frontierland,31,60,Child
+2024-01-24,22:00:00,Frontierland,39,93,Child
+2024-01-24,09:00:00,Big Thunder Mountain,16,57,Teen
+2024-01-24,10:00:00,Big Thunder Mountain,13,118,Teen
+2024-01-24,11:00:00,Big Thunder Mountain,22,112,Adult
+2024-01-24,12:00:00,Big Thunder Mountain,32,94,Teen
+2024-01-24,13:00:00,Big Thunder Mountain,55,105,Senior
+2024-01-24,14:00:00,Big Thunder Mountain,102,191,Teen
+2024-01-24,15:00:00,Big Thunder Mountain,96,164,Child
+2024-01-24,16:00:00,Big Thunder Mountain,117,224,Senior
+2024-01-24,17:00:00,Big Thunder Mountain,95,243,Senior
+2024-01-24,18:00:00,Big Thunder Mountain,72,148,Teen
+2024-01-24,19:00:00,Big Thunder Mountain,98,239,Adult
+2024-01-24,20:00:00,Big Thunder Mountain,48,96,Adult
+2024-01-24,21:00:00,Big Thunder Mountain,49,88,Teen
+2024-01-24,22:00:00,Big Thunder Mountain,29,54,Teen
+2024-01-24,09:00:00,Country Bear Jamboree,25,107,Adult
+2024-01-24,10:00:00,Country Bear Jamboree,34,119,Senior
+2024-01-24,11:00:00,Country Bear Jamboree,23,50,Senior
+2024-01-24,12:00:00,Country Bear Jamboree,5,73,Adult
+2024-01-24,13:00:00,Country Bear Jamboree,147,298,Teen
+2024-01-24,14:00:00,Country Bear Jamboree,97,182,Child
+2024-01-24,15:00:00,Country Bear Jamboree,161,268,Senior
+2024-01-24,16:00:00,Country Bear Jamboree,69,148,Senior
+2024-01-24,17:00:00,Country Bear Jamboree,140,296,Teen
+2024-01-24,18:00:00,Country Bear Jamboree,100,256,Adult
+2024-01-24,19:00:00,Country Bear Jamboree,102,204,Adult
+2024-01-24,20:00:00,Country Bear Jamboree,15,57,Child
+2024-01-24,21:00:00,Country Bear Jamboree,15,52,Teen
+2024-01-24,22:00:00,Country Bear Jamboree,17,52,Child
+2024-01-24,09:00:00,Tom Sawyer Island,20,112,Child
+2024-01-24,10:00:00,Tom Sawyer Island,23,54,Senior
+2024-01-24,11:00:00,Tom Sawyer Island,43,112,Adult
+2024-01-24,12:00:00,Tom Sawyer Island,16,56,Teen
+2024-01-24,13:00:00,Tom Sawyer Island,133,255,Child
+2024-01-24,14:00:00,Tom Sawyer Island,61,103,Teen
+2024-01-24,15:00:00,Tom Sawyer Island,121,267,Child
+2024-01-24,16:00:00,Tom Sawyer Island,121,219,Child
+2024-01-24,17:00:00,Tom Sawyer Island,91,192,Senior
+2024-01-24,18:00:00,Tom Sawyer Island,107,194,Child
+2024-01-24,19:00:00,Tom Sawyer Island,98,257,Child
+2024-01-24,20:00:00,Tom Sawyer Island,24,96,Adult
+2024-01-24,21:00:00,Tom Sawyer Island,18,54,Child
+2024-01-24,22:00:00,Tom Sawyer Island,20,56,Senior
+2024-01-24,09:00:00,Splash Mountain,13,74,Teen
+2024-01-24,10:00:00,Splash Mountain,29,72,Senior
+2024-01-24,11:00:00,Splash Mountain,29,63,Adult
+2024-01-24,12:00:00,Splash Mountain,35,108,Child
+2024-01-24,13:00:00,Splash Mountain,79,142,Teen
+2024-01-24,14:00:00,Splash Mountain,101,240,Adult
+2024-01-24,15:00:00,Splash Mountain,94,268,Senior
+2024-01-24,16:00:00,Splash Mountain,111,190,Adult
+2024-01-24,17:00:00,Splash Mountain,96,240,Adult
+2024-01-24,18:00:00,Splash Mountain,111,205,Senior
+2024-01-24,19:00:00,Splash Mountain,114,285,Teen
+2024-01-24,20:00:00,Splash Mountain,47,86,Teen
+2024-01-24,21:00:00,Splash Mountain,41,74,Adult
+2024-01-24,22:00:00,Splash Mountain,36,73,Senior
+2024-01-24,09:00:00,Liberty Square,5,100,Child
+2024-01-24,10:00:00,Liberty Square,37,86,Child
+2024-01-24,11:00:00,Liberty Square,16,116,Adult
+2024-01-24,12:00:00,Liberty Square,12,50,Teen
+2024-01-24,13:00:00,Liberty Square,88,154,Adult
+2024-01-24,14:00:00,Liberty Square,57,105,Adult
+2024-01-24,15:00:00,Liberty Square,111,241,Teen
+2024-01-24,16:00:00,Liberty Square,39,124,Senior
+2024-01-24,17:00:00,Liberty Square,65,191,Teen
+2024-01-24,18:00:00,Liberty Square,69,167,Teen
+2024-01-24,19:00:00,Liberty Square,61,159,Adult
+2024-01-24,20:00:00,Liberty Square,25,55,Teen
+2024-01-24,21:00:00,Liberty Square,24,96,Adult
+2024-01-24,22:00:00,Liberty Square,50,100,Teen
+2024-01-24,09:00:00,The Hall of Presidents,46,112,Child
+2024-01-24,10:00:00,The Hall of Presidents,7,88,Senior
+2024-01-24,11:00:00,The Hall of Presidents,5,60,Adult
+2024-01-24,12:00:00,The Hall of Presidents,31,94,Senior
+2024-01-24,13:00:00,The Hall of Presidents,75,130,Teen
+2024-01-24,14:00:00,The Hall of Presidents,146,291,Child
+2024-01-24,15:00:00,The Hall of Presidents,142,262,Senior
+2024-01-24,16:00:00,The Hall of Presidents,45,113,Child
+2024-01-24,17:00:00,The Hall of Presidents,86,181,Teen
+2024-01-24,18:00:00,The Hall of Presidents,85,183,Teen
+2024-01-24,19:00:00,The Hall of Presidents,44,139,Senior
+2024-01-24,20:00:00,The Hall of Presidents,41,78,Child
+2024-01-24,21:00:00,The Hall of Presidents,31,64,Adult
+2024-01-24,22:00:00,The Hall of Presidents,45,100,Teen
+2024-01-24,09:00:00,Haunted Mansion,18,66,Child
+2024-01-24,10:00:00,Haunted Mansion,46,110,Child
+2024-01-24,11:00:00,Haunted Mansion,36,120,Adult
+2024-01-24,12:00:00,Haunted Mansion,18,60,Senior
+2024-01-24,13:00:00,Haunted Mansion,155,298,Teen
+2024-01-24,14:00:00,Haunted Mansion,101,295,Senior
+2024-01-24,15:00:00,Haunted Mansion,88,243,Senior
+2024-01-24,16:00:00,Haunted Mansion,101,201,Teen
+2024-01-24,17:00:00,Haunted Mansion,120,243,Teen
+2024-01-24,18:00:00,Haunted Mansion,52,162,Adult
+2024-01-24,19:00:00,Haunted Mansion,129,298,Adult
+2024-01-24,20:00:00,Haunted Mansion,24,93,Child
+2024-01-24,21:00:00,Haunted Mansion,43,92,Senior
+2024-01-24,22:00:00,Haunted Mansion,31,73,Teen
+2024-01-24,09:00:00,Liberty Square Riverboat,25,91,Child
+2024-01-24,10:00:00,Liberty Square Riverboat,14,89,Adult
+2024-01-24,11:00:00,Liberty Square Riverboat,47,106,Teen
+2024-01-24,12:00:00,Liberty Square Riverboat,8,106,Teen
+2024-01-24,13:00:00,Liberty Square Riverboat,78,151,Adult
+2024-01-24,14:00:00,Liberty Square Riverboat,76,139,Child
+2024-01-24,15:00:00,Liberty Square Riverboat,68,128,Child
+2024-01-24,16:00:00,Liberty Square Riverboat,98,162,Teen
+2024-01-24,17:00:00,Liberty Square Riverboat,52,173,Adult
+2024-01-24,18:00:00,Liberty Square Riverboat,153,277,Child
+2024-01-24,19:00:00,Liberty Square Riverboat,79,178,Senior
+2024-01-24,20:00:00,Liberty Square Riverboat,21,51,Teen
+2024-01-24,21:00:00,Liberty Square Riverboat,53,97,Teen
+2024-01-24,22:00:00,Liberty Square Riverboat,35,63,Adult
+2024-01-24,09:00:00,Main Street USA,42,120,Teen
+2024-01-24,10:00:00,Main Street USA,16,52,Child
+2024-01-24,11:00:00,Main Street USA,13,82,Child
+2024-01-24,12:00:00,Main Street USA,15,86,Adult
+2024-01-24,13:00:00,Main Street USA,50,113,Child
+2024-01-24,14:00:00,Main Street USA,50,117,Adult
+2024-01-24,15:00:00,Main Street USA,154,269,Adult
+2024-01-24,16:00:00,Main Street USA,39,127,Adult
+2024-01-24,17:00:00,Main Street USA,112,266,Teen
+2024-01-24,18:00:00,Main Street USA,91,197,Child
+2024-01-24,19:00:00,Main Street USA,81,180,Child
+2024-01-24,20:00:00,Main Street USA,20,61,Senior
+2024-01-24,21:00:00,Main Street USA,18,85,Child
+2024-01-24,22:00:00,Main Street USA,35,65,Adult
+2024-01-24,09:00:00,Tomorrowland,34,92,Senior
+2024-01-24,10:00:00,Tomorrowland,5,70,Adult
+2024-01-24,11:00:00,Tomorrowland,26,95,Adult
+2024-01-24,12:00:00,Tomorrowland,30,80,Adult
+2024-01-24,13:00:00,Tomorrowland,58,115,Adult
+2024-01-24,14:00:00,Tomorrowland,116,199,Child
+2024-01-24,15:00:00,Tomorrowland,146,242,Adult
+2024-01-24,16:00:00,Tomorrowland,54,157,Adult
+2024-01-24,17:00:00,Tomorrowland,102,200,Teen
+2024-01-24,18:00:00,Tomorrowland,65,122,Senior
+2024-01-24,19:00:00,Tomorrowland,140,233,Teen
+2024-01-24,20:00:00,Tomorrowland,27,76,Teen
+2024-01-24,21:00:00,Tomorrowland,31,77,Adult
+2024-01-24,22:00:00,Tomorrowland,43,78,Teen
+2024-01-24,09:00:00,Astro Orbiter,10,76,Teen
+2024-01-24,10:00:00,Astro Orbiter,17,67,Teen
+2024-01-24,11:00:00,Astro Orbiter,15,105,Teen
+2024-01-24,12:00:00,Astro Orbiter,9,90,Child
+2024-01-24,13:00:00,Astro Orbiter,59,147,Teen
+2024-01-24,14:00:00,Astro Orbiter,86,286,Adult
+2024-01-24,15:00:00,Astro Orbiter,123,205,Senior
+2024-01-24,16:00:00,Astro Orbiter,78,177,Adult
+2024-01-24,17:00:00,Astro Orbiter,75,138,Teen
+2024-01-24,18:00:00,Astro Orbiter,44,127,Teen
+2024-01-24,19:00:00,Astro Orbiter,58,106,Adult
+2024-01-24,20:00:00,Astro Orbiter,30,88,Teen
+2024-01-24,21:00:00,Astro Orbiter,14,64,Adult
+2024-01-24,22:00:00,Astro Orbiter,28,55,Teen
+2024-01-24,09:00:00,Buzz Lightyear's Space Ranger Spin,50,114,Senior
+2024-01-24,10:00:00,Buzz Lightyear's Space Ranger Spin,16,97,Senior
+2024-01-24,11:00:00,Buzz Lightyear's Space Ranger Spin,40,112,Teen
+2024-01-24,12:00:00,Buzz Lightyear's Space Ranger Spin,12,70,Teen
+2024-01-24,13:00:00,Buzz Lightyear's Space Ranger Spin,47,108,Child
+2024-01-24,14:00:00,Buzz Lightyear's Space Ranger Spin,102,169,Senior
+2024-01-24,15:00:00,Buzz Lightyear's Space Ranger Spin,83,156,Teen
+2024-01-24,16:00:00,Buzz Lightyear's Space Ranger Spin,106,293,Child
+2024-01-24,17:00:00,Buzz Lightyear's Space Ranger Spin,86,145,Senior
+2024-01-24,18:00:00,Buzz Lightyear's Space Ranger Spin,116,257,Adult
+2024-01-24,19:00:00,Buzz Lightyear's Space Ranger Spin,126,217,Teen
+2024-01-24,20:00:00,Buzz Lightyear's Space Ranger Spin,35,77,Child
+2024-01-24,21:00:00,Buzz Lightyear's Space Ranger Spin,39,88,Adult
+2024-01-24,22:00:00,Buzz Lightyear's Space Ranger Spin,41,75,Child
+2024-01-24,09:00:00,Carousel of Progress,13,116,Senior
+2024-01-24,10:00:00,Carousel of Progress,8,108,Teen
+2024-01-24,11:00:00,Carousel of Progress,46,116,Senior
+2024-01-24,12:00:00,Carousel of Progress,22,55,Senior
+2024-01-24,13:00:00,Carousel of Progress,126,232,Child
+2024-01-24,14:00:00,Carousel of Progress,58,148,Senior
+2024-01-24,15:00:00,Carousel of Progress,117,201,Adult
+2024-01-24,16:00:00,Carousel of Progress,167,298,Adult
+2024-01-24,17:00:00,Carousel of Progress,77,218,Senior
+2024-01-24,18:00:00,Carousel of Progress,86,175,Child
+2024-01-24,19:00:00,Carousel of Progress,127,276,Teen
+2024-01-24,20:00:00,Carousel of Progress,38,79,Child
+2024-01-24,21:00:00,Carousel of Progress,50,96,Child
+2024-01-24,22:00:00,Carousel of Progress,33,61,Teen
+2024-01-24,09:00:00,"Monsters, Inc. Laugh Floor",31,100,Adult
+2024-01-24,10:00:00,"Monsters, Inc. Laugh Floor",7,107,Teen
+2024-01-24,11:00:00,"Monsters, Inc. Laugh Floor",46,108,Teen
+2024-01-24,12:00:00,"Monsters, Inc. Laugh Floor",11,108,Adult
+2024-01-24,13:00:00,"Monsters, Inc. Laugh Floor",95,182,Teen
+2024-01-24,14:00:00,"Monsters, Inc. Laugh Floor",150,283,Child
+2024-01-24,15:00:00,"Monsters, Inc. Laugh Floor",41,123,Senior
+2024-01-24,16:00:00,"Monsters, Inc. Laugh Floor",108,262,Child
+2024-01-24,17:00:00,"Monsters, Inc. Laugh Floor",122,234,Senior
+2024-01-24,18:00:00,"Monsters, Inc. Laugh Floor",158,286,Teen
+2024-01-24,19:00:00,"Monsters, Inc. Laugh Floor",93,196,Senior
+2024-01-24,20:00:00,"Monsters, Inc. Laugh Floor",16,52,Adult
+2024-01-24,21:00:00,"Monsters, Inc. Laugh Floor",25,86,Teen
+2024-01-24,22:00:00,"Monsters, Inc. Laugh Floor",19,59,Child
+2024-01-24,09:00:00,Space Mountain,25,103,Adult
+2024-01-24,10:00:00,Space Mountain,25,107,Teen
+2024-01-24,11:00:00,Space Mountain,9,65,Teen
+2024-01-24,12:00:00,Space Mountain,22,50,Adult
+2024-01-24,13:00:00,Space Mountain,46,103,Senior
+2024-01-24,14:00:00,Space Mountain,107,227,Child
+2024-01-24,15:00:00,Space Mountain,148,255,Senior
+2024-01-24,16:00:00,Space Mountain,58,160,Senior
+2024-01-24,17:00:00,Space Mountain,93,216,Senior
+2024-01-24,18:00:00,Space Mountain,59,120,Child
+2024-01-24,19:00:00,Space Mountain,94,162,Adult
+2024-01-24,20:00:00,Space Mountain,49,89,Teen
+2024-01-24,21:00:00,Space Mountain,17,53,Teen
+2024-01-24,22:00:00,Space Mountain,23,53,Child
+2024-01-24,09:00:00,Stitch's Great Escape! (Seasonal),5,68,Adult
+2024-01-24,10:00:00,Stitch's Great Escape! (Seasonal),10,92,Child
+2024-01-24,11:00:00,Stitch's Great Escape! (Seasonal),20,63,Teen
+2024-01-24,12:00:00,Stitch's Great Escape! (Seasonal),17,70,Teen
+2024-01-24,13:00:00,Stitch's Great Escape! (Seasonal),115,216,Adult
+2024-01-24,14:00:00,Stitch's Great Escape! (Seasonal),35,109,Adult
+2024-01-24,15:00:00,Stitch's Great Escape! (Seasonal),75,182,Senior
+2024-01-24,16:00:00,Stitch's Great Escape! (Seasonal),64,117,Senior
+2024-01-24,17:00:00,Stitch's Great Escape! (Seasonal),77,240,Adult
+2024-01-24,18:00:00,Stitch's Great Escape! (Seasonal),75,220,Child
+2024-01-24,19:00:00,Stitch's Great Escape! (Seasonal),158,277,Adult
+2024-01-24,20:00:00,Stitch's Great Escape! (Seasonal),38,71,Senior
+2024-01-24,21:00:00,Stitch's Great Escape! (Seasonal),28,83,Teen
+2024-01-24,22:00:00,Stitch's Great Escape! (Seasonal),21,89,Child
+2024-01-24,09:00:00,Tomorrowland Speedway,12,117,Senior
+2024-01-24,10:00:00,Tomorrowland Speedway,28,86,Adult
+2024-01-24,11:00:00,Tomorrowland Speedway,32,83,Adult
+2024-01-24,12:00:00,Tomorrowland Speedway,30,66,Senior
+2024-01-24,13:00:00,Tomorrowland Speedway,124,233,Senior
+2024-01-24,14:00:00,Tomorrowland Speedway,125,226,Teen
+2024-01-24,15:00:00,Tomorrowland Speedway,95,256,Adult
+2024-01-24,16:00:00,Tomorrowland Speedway,45,149,Child
+2024-01-24,17:00:00,Tomorrowland Speedway,47,106,Child
+2024-01-24,18:00:00,Tomorrowland Speedway,165,288,Teen
+2024-01-24,19:00:00,Tomorrowland Speedway,111,257,Senior
+2024-01-24,20:00:00,Tomorrowland Speedway,22,52,Adult
+2024-01-24,21:00:00,Tomorrowland Speedway,29,85,Child
+2024-01-24,22:00:00,Tomorrowland Speedway,29,90,Adult
+2024-01-24,09:00:00,Tomorrowland Transit Authority,8,82,Adult
+2024-01-24,10:00:00,Tomorrowland Transit Authority,33,88,Adult
+2024-01-24,11:00:00,Tomorrowland Transit Authority,6,50,Adult
+2024-01-24,12:00:00,Tomorrowland Transit Authority,28,93,Child
+2024-01-24,13:00:00,Tomorrowland Transit Authority,52,144,Adult
+2024-01-24,14:00:00,Tomorrowland Transit Authority,110,186,Senior
+2024-01-24,15:00:00,Tomorrowland Transit Authority,122,221,Child
+2024-01-24,16:00:00,Tomorrowland Transit Authority,91,265,Senior
+2024-01-24,17:00:00,Tomorrowland Transit Authority,70,139,Senior
+2024-01-24,18:00:00,Tomorrowland Transit Authority,138,237,Adult
+2024-01-24,19:00:00,Tomorrowland Transit Authority,120,218,Senior
+2024-01-24,20:00:00,Tomorrowland Transit Authority,23,97,Adult
+2024-01-24,21:00:00,Tomorrowland Transit Authority,35,86,Child
+2024-01-24,22:00:00,Tomorrowland Transit Authority,26,63,Adult
+2024-01-24,09:00:00,TRON Lightcycle Power Run Rollercoaster,9,58,Adult
+2024-01-24,10:00:00,TRON Lightcycle Power Run Rollercoaster,14,53,Senior
+2024-01-24,11:00:00,TRON Lightcycle Power Run Rollercoaster,18,118,Senior
+2024-01-24,12:00:00,TRON Lightcycle Power Run Rollercoaster,32,73,Child
+2024-01-24,13:00:00,TRON Lightcycle Power Run Rollercoaster,162,300,Adult
+2024-01-24,14:00:00,TRON Lightcycle Power Run Rollercoaster,160,280,Adult
+2024-01-24,15:00:00,TRON Lightcycle Power Run Rollercoaster,88,281,Adult
+2024-01-24,16:00:00,TRON Lightcycle Power Run Rollercoaster,66,205,Senior
+2024-01-24,17:00:00,TRON Lightcycle Power Run Rollercoaster,66,160,Senior
+2024-01-24,18:00:00,TRON Lightcycle Power Run Rollercoaster,64,177,Adult
+2024-01-24,19:00:00,TRON Lightcycle Power Run Rollercoaster,48,144,Adult
+2024-01-24,20:00:00,TRON Lightcycle Power Run Rollercoaster,22,100,Teen
+2024-01-24,21:00:00,TRON Lightcycle Power Run Rollercoaster,27,55,Child
+2024-01-24,22:00:00,TRON Lightcycle Power Run Rollercoaster,42,80,Teen
+2024-01-23,09:00:00,Enchanted Tiki Room,20,74,Senior
+2024-01-23,10:00:00,Enchanted Tiki Room,29,117,Adult
+2024-01-23,11:00:00,Enchanted Tiki Room,8,68,Teen
+2024-01-23,12:00:00,Enchanted Tiki Room,6,76,Senior
+2024-01-23,13:00:00,Enchanted Tiki Room,104,199,Child
+2024-01-23,14:00:00,Enchanted Tiki Room,40,101,Child
+2024-01-23,15:00:00,Enchanted Tiki Room,157,275,Child
+2024-01-23,16:00:00,Enchanted Tiki Room,82,185,Child
+2024-01-23,17:00:00,Enchanted Tiki Room,58,126,Adult
+2024-01-23,18:00:00,Enchanted Tiki Room,51,105,Adult
+2024-01-23,19:00:00,Enchanted Tiki Room,153,263,Teen
+2024-01-23,20:00:00,Enchanted Tiki Room,23,70,Teen
+2024-01-23,21:00:00,Enchanted Tiki Room,26,68,Adult
+2024-01-23,22:00:00,Enchanted Tiki Room,48,99,Child
+2024-01-23,09:00:00,Jungle Cruise,12,84,Teen
+2024-01-23,10:00:00,Jungle Cruise,11,85,Child
+2024-01-23,11:00:00,Jungle Cruise,13,115,Teen
+2024-01-23,12:00:00,Jungle Cruise,33,119,Adult
+2024-01-23,13:00:00,Jungle Cruise,58,169,Adult
+2024-01-23,14:00:00,Jungle Cruise,92,246,Teen
+2024-01-23,15:00:00,Jungle Cruise,47,118,Adult
+2024-01-23,16:00:00,Jungle Cruise,105,238,Child
+2024-01-23,17:00:00,Jungle Cruise,40,133,Senior
+2024-01-23,18:00:00,Jungle Cruise,85,272,Child
+2024-01-23,19:00:00,Jungle Cruise,62,198,Child
+2024-01-23,20:00:00,Jungle Cruise,35,77,Teen
+2024-01-23,21:00:00,Jungle Cruise,46,95,Adult
+2024-01-23,22:00:00,Jungle Cruise,29,69,Teen
+2024-01-23,09:00:00,The Magic Carpets of Aladdin,12,118,Senior
+2024-01-23,10:00:00,The Magic Carpets of Aladdin,7,66,Senior
+2024-01-23,11:00:00,The Magic Carpets of Aladdin,22,62,Adult
+2024-01-23,12:00:00,The Magic Carpets of Aladdin,39,109,Teen
+2024-01-23,13:00:00,The Magic Carpets of Aladdin,54,157,Adult
+2024-01-23,14:00:00,The Magic Carpets of Aladdin,82,193,Teen
+2024-01-23,15:00:00,The Magic Carpets of Aladdin,165,279,Adult
+2024-01-23,16:00:00,The Magic Carpets of Aladdin,81,183,Senior
+2024-01-23,17:00:00,The Magic Carpets of Aladdin,35,107,Senior
+2024-01-23,18:00:00,The Magic Carpets of Aladdin,53,128,Senior
+2024-01-23,19:00:00,The Magic Carpets of Aladdin,125,218,Teen
+2024-01-23,20:00:00,The Magic Carpets of Aladdin,29,68,Teen
+2024-01-23,21:00:00,The Magic Carpets of Aladdin,22,82,Senior
+2024-01-23,22:00:00,The Magic Carpets of Aladdin,25,95,Adult
+2024-01-23,09:00:00,Pirates of the Caribbean,15,59,Senior
+2024-01-23,10:00:00,Pirates of the Caribbean,43,101,Senior
+2024-01-23,11:00:00,Pirates of the Caribbean,36,80,Teen
+2024-01-23,12:00:00,Pirates of the Caribbean,18,120,Senior
+2024-01-23,13:00:00,Pirates of the Caribbean,64,198,Adult
+2024-01-23,14:00:00,Pirates of the Caribbean,86,153,Senior
+2024-01-23,15:00:00,Pirates of the Caribbean,129,300,Adult
+2024-01-23,16:00:00,Pirates of the Caribbean,125,239,Teen
+2024-01-23,17:00:00,Pirates of the Caribbean,74,144,Child
+2024-01-23,18:00:00,Pirates of the Caribbean,171,289,Senior
+2024-01-23,19:00:00,Pirates of the Caribbean,62,129,Senior
+2024-01-23,20:00:00,Pirates of the Caribbean,39,70,Child
+2024-01-23,21:00:00,Pirates of the Caribbean,25,78,Adult
+2024-01-23,22:00:00,Pirates of the Caribbean,18,75,Child
+2024-01-23,09:00:00,Swiss Family Treehouse,25,98,Senior
+2024-01-23,10:00:00,Swiss Family Treehouse,6,57,Teen
+2024-01-23,11:00:00,Swiss Family Treehouse,29,67,Child
+2024-01-23,12:00:00,Swiss Family Treehouse,10,68,Senior
+2024-01-23,13:00:00,Swiss Family Treehouse,93,236,Senior
+2024-01-23,14:00:00,Swiss Family Treehouse,124,257,Senior
+2024-01-23,15:00:00,Swiss Family Treehouse,54,150,Adult
+2024-01-23,16:00:00,Swiss Family Treehouse,85,176,Adult
+2024-01-23,17:00:00,Swiss Family Treehouse,110,211,Adult
+2024-01-23,18:00:00,Swiss Family Treehouse,59,122,Child
+2024-01-23,19:00:00,Swiss Family Treehouse,118,256,Senior
+2024-01-23,20:00:00,Swiss Family Treehouse,23,58,Child
+2024-01-23,21:00:00,Swiss Family Treehouse,41,73,Child
+2024-01-23,22:00:00,Swiss Family Treehouse,28,50,Adult
+2024-01-23,09:00:00,Fantasyland,15,64,Child
+2024-01-23,10:00:00,Fantasyland,26,80,Senior
+2024-01-23,11:00:00,Fantasyland,27,90,Senior
+2024-01-23,12:00:00,Fantasyland,32,98,Teen
+2024-01-23,13:00:00,Fantasyland,95,269,Senior
+2024-01-23,14:00:00,Fantasyland,49,135,Senior
+2024-01-23,15:00:00,Fantasyland,108,192,Senior
+2024-01-23,16:00:00,Fantasyland,55,139,Teen
+2024-01-23,17:00:00,Fantasyland,41,134,Child
+2024-01-23,18:00:00,Fantasyland,80,265,Teen
+2024-01-23,19:00:00,Fantasyland,165,284,Senior
+2024-01-23,20:00:00,Fantasyland,44,92,Teen
+2024-01-23,21:00:00,Fantasyland,16,55,Senior
+2024-01-23,22:00:00,Fantasyland,38,79,Teen
+2024-01-23,09:00:00,The Barnstormer,40,108,Senior
+2024-01-23,10:00:00,The Barnstormer,40,120,Senior
+2024-01-23,11:00:00,The Barnstormer,19,95,Teen
+2024-01-23,12:00:00,The Barnstormer,45,104,Child
+2024-01-23,13:00:00,The Barnstormer,112,247,Teen
+2024-01-23,14:00:00,The Barnstormer,130,282,Adult
+2024-01-23,15:00:00,The Barnstormer,121,205,Adult
+2024-01-23,16:00:00,The Barnstormer,34,108,Senior
+2024-01-23,17:00:00,The Barnstormer,115,280,Child
+2024-01-23,18:00:00,The Barnstormer,112,248,Child
+2024-01-23,19:00:00,The Barnstormer,73,136,Adult
+2024-01-23,20:00:00,The Barnstormer,42,79,Child
+2024-01-23,21:00:00,The Barnstormer,21,83,Teen
+2024-01-23,22:00:00,The Barnstormer,20,80,Adult
+2024-01-23,09:00:00,Dumbo the Flying Elephant,15,56,Child
+2024-01-23,10:00:00,Dumbo the Flying Elephant,38,110,Senior
+2024-01-23,11:00:00,Dumbo the Flying Elephant,29,92,Adult
+2024-01-23,12:00:00,Dumbo the Flying Elephant,21,87,Teen
+2024-01-23,13:00:00,Dumbo the Flying Elephant,57,109,Adult
+2024-01-23,14:00:00,Dumbo the Flying Elephant,158,286,Adult
+2024-01-23,15:00:00,Dumbo the Flying Elephant,58,115,Senior
+2024-01-23,16:00:00,Dumbo the Flying Elephant,87,248,Child
+2024-01-23,17:00:00,Dumbo the Flying Elephant,105,268,Child
+2024-01-23,18:00:00,Dumbo the Flying Elephant,78,173,Child
+2024-01-23,19:00:00,Dumbo the Flying Elephant,61,132,Child
+2024-01-23,20:00:00,Dumbo the Flying Elephant,37,100,Adult
+2024-01-23,21:00:00,Dumbo the Flying Elephant,22,58,Adult
+2024-01-23,22:00:00,Dumbo the Flying Elephant,14,66,Child
+2024-01-23,09:00:00,Enchanted Tales with Belle,31,72,Teen
+2024-01-23,10:00:00,Enchanted Tales with Belle,30,107,Teen
+2024-01-23,11:00:00,Enchanted Tales with Belle,17,83,Senior
+2024-01-23,12:00:00,Enchanted Tales with Belle,28,73,Child
+2024-01-23,13:00:00,Enchanted Tales with Belle,60,187,Teen
+2024-01-23,14:00:00,Enchanted Tales with Belle,149,252,Teen
+2024-01-23,15:00:00,Enchanted Tales with Belle,123,226,Senior
+2024-01-23,16:00:00,Enchanted Tales with Belle,125,297,Teen
+2024-01-23,17:00:00,Enchanted Tales with Belle,119,269,Teen
+2024-01-23,18:00:00,Enchanted Tales with Belle,74,153,Adult
+2024-01-23,19:00:00,Enchanted Tales with Belle,57,113,Adult
+2024-01-23,20:00:00,Enchanted Tales with Belle,27,98,Child
+2024-01-23,21:00:00,Enchanted Tales with Belle,30,60,Senior
+2024-01-23,22:00:00,Enchanted Tales with Belle,32,80,Senior
+2024-01-23,09:00:00,it's a small world,23,118,Senior
+2024-01-23,10:00:00,it's a small world,35,99,Adult
+2024-01-23,11:00:00,it's a small world,26,68,Senior
+2024-01-23,12:00:00,it's a small world,12,51,Senior
+2024-01-23,13:00:00,it's a small world,101,197,Adult
+2024-01-23,14:00:00,it's a small world,120,235,Child
+2024-01-23,15:00:00,it's a small world,74,124,Adult
+2024-01-23,16:00:00,it's a small world,103,210,Adult
+2024-01-23,17:00:00,it's a small world,71,185,Adult
+2024-01-23,18:00:00,it's a small world,48,125,Senior
+2024-01-23,19:00:00,it's a small world,118,218,Teen
+2024-01-23,20:00:00,it's a small world,31,96,Adult
+2024-01-23,21:00:00,it's a small world,29,93,Adult
+2024-01-23,22:00:00,it's a small world,17,85,Child
+2024-01-23,09:00:00,Mad Tea Party,3,58,Senior
+2024-01-23,10:00:00,Mad Tea Party,24,62,Child
+2024-01-23,11:00:00,Mad Tea Party,29,107,Teen
+2024-01-23,12:00:00,Mad Tea Party,19,86,Teen
+2024-01-23,13:00:00,Mad Tea Party,33,108,Child
+2024-01-23,14:00:00,Mad Tea Party,69,114,Teen
+2024-01-23,15:00:00,Mad Tea Party,127,253,Child
+2024-01-23,16:00:00,Mad Tea Party,169,281,Child
+2024-01-23,17:00:00,Mad Tea Party,70,122,Teen
+2024-01-23,18:00:00,Mad Tea Party,100,196,Teen
+2024-01-23,19:00:00,Mad Tea Party,67,128,Teen
+2024-01-23,20:00:00,Mad Tea Party,26,66,Senior
+2024-01-23,21:00:00,Mad Tea Party,23,92,Senior
+2024-01-23,22:00:00,Mad Tea Party,32,67,Adult
+2024-01-23,09:00:00,Mickey's PhilharMagic,13,82,Child
+2024-01-23,10:00:00,Mickey's PhilharMagic,7,85,Senior
+2024-01-23,11:00:00,Mickey's PhilharMagic,26,99,Child
+2024-01-23,12:00:00,Mickey's PhilharMagic,18,83,Teen
+2024-01-23,13:00:00,Mickey's PhilharMagic,68,212,Senior
+2024-01-23,14:00:00,Mickey's PhilharMagic,74,151,Senior
+2024-01-23,15:00:00,Mickey's PhilharMagic,73,145,Senior
+2024-01-23,16:00:00,Mickey's PhilharMagic,44,127,Senior
+2024-01-23,17:00:00,Mickey's PhilharMagic,76,155,Child
+2024-01-23,18:00:00,Mickey's PhilharMagic,111,213,Adult
+2024-01-23,19:00:00,Mickey's PhilharMagic,40,126,Child
+2024-01-23,20:00:00,Mickey's PhilharMagic,20,54,Senior
+2024-01-23,21:00:00,Mickey's PhilharMagic,27,51,Teen
+2024-01-23,22:00:00,Mickey's PhilharMagic,19,91,Child
+2024-01-23,09:00:00,The Many Adventures of Winnie the Pooh,22,99,Teen
+2024-01-23,10:00:00,The Many Adventures of Winnie the Pooh,28,92,Child
+2024-01-23,11:00:00,The Many Adventures of Winnie the Pooh,42,115,Senior
+2024-01-23,12:00:00,The Many Adventures of Winnie the Pooh,32,105,Child
+2024-01-23,13:00:00,The Many Adventures of Winnie the Pooh,89,238,Child
+2024-01-23,14:00:00,The Many Adventures of Winnie the Pooh,119,198,Senior
+2024-01-23,15:00:00,The Many Adventures of Winnie the Pooh,63,131,Adult
+2024-01-23,16:00:00,The Many Adventures of Winnie the Pooh,95,185,Adult
+2024-01-23,17:00:00,The Many Adventures of Winnie the Pooh,63,202,Child
+2024-01-23,18:00:00,The Many Adventures of Winnie the Pooh,91,193,Adult
+2024-01-23,19:00:00,The Many Adventures of Winnie the Pooh,68,120,Senior
+2024-01-23,20:00:00,The Many Adventures of Winnie the Pooh,38,98,Teen
+2024-01-23,21:00:00,The Many Adventures of Winnie the Pooh,34,61,Child
+2024-01-23,22:00:00,The Many Adventures of Winnie the Pooh,24,74,Adult
+2024-01-23,09:00:00,Peter Pan's Flight,11,99,Adult
+2024-01-23,10:00:00,Peter Pan's Flight,12,112,Senior
+2024-01-23,11:00:00,Peter Pan's Flight,10,74,Child
+2024-01-23,12:00:00,Peter Pan's Flight,5,74,Teen
+2024-01-23,13:00:00,Peter Pan's Flight,95,225,Child
+2024-01-23,14:00:00,Peter Pan's Flight,119,238,Adult
+2024-01-23,15:00:00,Peter Pan's Flight,107,227,Senior
+2024-01-23,16:00:00,Peter Pan's Flight,33,104,Adult
+2024-01-23,17:00:00,Peter Pan's Flight,46,114,Child
+2024-01-23,18:00:00,Peter Pan's Flight,67,203,Teen
+2024-01-23,19:00:00,Peter Pan's Flight,137,267,Senior
+2024-01-23,20:00:00,Peter Pan's Flight,51,93,Teen
+2024-01-23,21:00:00,Peter Pan's Flight,33,97,Child
+2024-01-23,22:00:00,Peter Pan's Flight,16,52,Senior
+2024-01-23,09:00:00,Prince Charming's Regal Carrousel,19,52,Child
+2024-01-23,10:00:00,Prince Charming's Regal Carrousel,11,81,Child
+2024-01-23,11:00:00,Prince Charming's Regal Carrousel,33,72,Child
+2024-01-23,12:00:00,Prince Charming's Regal Carrousel,10,89,Senior
+2024-01-23,13:00:00,Prince Charming's Regal Carrousel,90,256,Child
+2024-01-23,14:00:00,Prince Charming's Regal Carrousel,42,127,Senior
+2024-01-23,15:00:00,Prince Charming's Regal Carrousel,139,252,Teen
+2024-01-23,16:00:00,Prince Charming's Regal Carrousel,64,116,Teen
+2024-01-23,17:00:00,Prince Charming's Regal Carrousel,84,209,Senior
+2024-01-23,18:00:00,Prince Charming's Regal Carrousel,61,183,Teen
+2024-01-23,19:00:00,Prince Charming's Regal Carrousel,102,182,Teen
+2024-01-23,20:00:00,Prince Charming's Regal Carrousel,22,98,Teen
+2024-01-23,21:00:00,Prince Charming's Regal Carrousel,18,71,Child
+2024-01-23,22:00:00,Prince Charming's Regal Carrousel,20,67,Senior
+2024-01-23,09:00:00,Princess Fairytale Hall,20,71,Teen
+2024-01-23,10:00:00,Princess Fairytale Hall,22,106,Child
+2024-01-23,11:00:00,Princess Fairytale Hall,8,67,Senior
+2024-01-23,12:00:00,Princess Fairytale Hall,5,70,Senior
+2024-01-23,13:00:00,Princess Fairytale Hall,36,120,Child
+2024-01-23,14:00:00,Princess Fairytale Hall,86,145,Child
+2024-01-23,15:00:00,Princess Fairytale Hall,140,280,Adult
+2024-01-23,16:00:00,Princess Fairytale Hall,108,206,Senior
+2024-01-23,17:00:00,Princess Fairytale Hall,95,277,Teen
+2024-01-23,18:00:00,Princess Fairytale Hall,68,136,Adult
+2024-01-23,19:00:00,Princess Fairytale Hall,103,233,Senior
+2024-01-23,20:00:00,Princess Fairytale Hall,21,65,Child
+2024-01-23,21:00:00,Princess Fairytale Hall,28,88,Senior
+2024-01-23,22:00:00,Princess Fairytale Hall,23,89,Adult
+2024-01-23,09:00:00,Seven Dwarfs Mine Train,30,94,Child
+2024-01-23,10:00:00,Seven Dwarfs Mine Train,14,80,Child
+2024-01-23,11:00:00,Seven Dwarfs Mine Train,13,117,Adult
+2024-01-23,12:00:00,Seven Dwarfs Mine Train,45,119,Teen
+2024-01-23,13:00:00,Seven Dwarfs Mine Train,118,218,Teen
+2024-01-23,14:00:00,Seven Dwarfs Mine Train,53,170,Teen
+2024-01-23,15:00:00,Seven Dwarfs Mine Train,71,128,Teen
+2024-01-23,16:00:00,Seven Dwarfs Mine Train,157,275,Senior
+2024-01-23,17:00:00,Seven Dwarfs Mine Train,80,227,Teen
+2024-01-23,18:00:00,Seven Dwarfs Mine Train,160,271,Child
+2024-01-23,19:00:00,Seven Dwarfs Mine Train,57,113,Adult
+2024-01-23,20:00:00,Seven Dwarfs Mine Train,23,68,Senior
+2024-01-23,21:00:00,Seven Dwarfs Mine Train,28,66,Senior
+2024-01-23,22:00:00,Seven Dwarfs Mine Train,14,52,Child
+2024-01-23,09:00:00,Under the Sea: Journey of the Little Mermaid,19,118,Teen
+2024-01-23,10:00:00,Under the Sea: Journey of the Little Mermaid,20,53,Child
+2024-01-23,11:00:00,Under the Sea: Journey of the Little Mermaid,12,59,Senior
+2024-01-23,12:00:00,Under the Sea: Journey of the Little Mermaid,29,91,Teen
+2024-01-23,13:00:00,Under the Sea: Journey of the Little Mermaid,149,291,Adult
+2024-01-23,14:00:00,Under the Sea: Journey of the Little Mermaid,86,158,Child
+2024-01-23,15:00:00,Under the Sea: Journey of the Little Mermaid,68,183,Child
+2024-01-23,16:00:00,Under the Sea: Journey of the Little Mermaid,85,160,Senior
+2024-01-23,17:00:00,Under the Sea: Journey of the Little Mermaid,64,151,Teen
+2024-01-23,18:00:00,Under the Sea: Journey of the Little Mermaid,54,118,Senior
+2024-01-23,19:00:00,Under the Sea: Journey of the Little Mermaid,66,113,Senior
+2024-01-23,20:00:00,Under the Sea: Journey of the Little Mermaid,20,59,Senior
+2024-01-23,21:00:00,Under the Sea: Journey of the Little Mermaid,27,61,Adult
+2024-01-23,22:00:00,Under the Sea: Journey of the Little Mermaid,29,58,Teen
+2024-01-23,09:00:00,Frontierland,21,95,Teen
+2024-01-23,10:00:00,Frontierland,12,92,Child
+2024-01-23,11:00:00,Frontierland,13,57,Teen
+2024-01-23,12:00:00,Frontierland,22,64,Senior
+2024-01-23,13:00:00,Frontierland,73,207,Adult
+2024-01-23,14:00:00,Frontierland,91,156,Adult
+2024-01-23,15:00:00,Frontierland,89,254,Teen
+2024-01-23,16:00:00,Frontierland,117,247,Teen
+2024-01-23,17:00:00,Frontierland,53,122,Senior
+2024-01-23,18:00:00,Frontierland,75,155,Senior
+2024-01-23,19:00:00,Frontierland,83,218,Child
+2024-01-23,20:00:00,Frontierland,46,96,Teen
+2024-01-23,21:00:00,Frontierland,26,65,Senior
+2024-01-23,22:00:00,Frontierland,30,87,Teen
+2024-01-23,09:00:00,Big Thunder Mountain,16,50,Child
+2024-01-23,10:00:00,Big Thunder Mountain,20,55,Child
+2024-01-23,11:00:00,Big Thunder Mountain,40,104,Senior
+2024-01-23,12:00:00,Big Thunder Mountain,13,111,Senior
+2024-01-23,13:00:00,Big Thunder Mountain,84,226,Child
+2024-01-23,14:00:00,Big Thunder Mountain,131,242,Child
+2024-01-23,15:00:00,Big Thunder Mountain,147,277,Senior
+2024-01-23,16:00:00,Big Thunder Mountain,53,155,Adult
+2024-01-23,17:00:00,Big Thunder Mountain,65,175,Child
+2024-01-23,18:00:00,Big Thunder Mountain,47,104,Adult
+2024-01-23,19:00:00,Big Thunder Mountain,74,141,Senior
+2024-01-23,20:00:00,Big Thunder Mountain,19,86,Senior
+2024-01-23,21:00:00,Big Thunder Mountain,23,79,Senior
+2024-01-23,22:00:00,Big Thunder Mountain,27,61,Senior
+2024-01-23,09:00:00,Country Bear Jamboree,23,50,Child
+2024-01-23,10:00:00,Country Bear Jamboree,26,99,Child
+2024-01-23,11:00:00,Country Bear Jamboree,28,87,Adult
+2024-01-23,12:00:00,Country Bear Jamboree,49,119,Teen
+2024-01-23,13:00:00,Country Bear Jamboree,88,275,Adult
+2024-01-23,14:00:00,Country Bear Jamboree,170,288,Child
+2024-01-23,15:00:00,Country Bear Jamboree,139,231,Adult
+2024-01-23,16:00:00,Country Bear Jamboree,38,113,Senior
+2024-01-23,17:00:00,Country Bear Jamboree,85,193,Child
+2024-01-23,18:00:00,Country Bear Jamboree,80,193,Teen
+2024-01-23,19:00:00,Country Bear Jamboree,125,265,Child
+2024-01-23,20:00:00,Country Bear Jamboree,29,85,Teen
+2024-01-23,21:00:00,Country Bear Jamboree,25,71,Child
+2024-01-23,22:00:00,Country Bear Jamboree,46,91,Teen
+2024-01-23,09:00:00,Tom Sawyer Island,20,78,Adult
+2024-01-23,10:00:00,Tom Sawyer Island,32,84,Senior
+2024-01-23,11:00:00,Tom Sawyer Island,7,85,Child
+2024-01-23,12:00:00,Tom Sawyer Island,27,97,Senior
+2024-01-23,13:00:00,Tom Sawyer Island,104,224,Child
+2024-01-23,14:00:00,Tom Sawyer Island,115,220,Adult
+2024-01-23,15:00:00,Tom Sawyer Island,106,215,Adult
+2024-01-23,16:00:00,Tom Sawyer Island,164,272,Child
+2024-01-23,17:00:00,Tom Sawyer Island,86,148,Senior
+2024-01-23,18:00:00,Tom Sawyer Island,40,122,Senior
+2024-01-23,19:00:00,Tom Sawyer Island,57,145,Child
+2024-01-23,20:00:00,Tom Sawyer Island,17,56,Adult
+2024-01-23,21:00:00,Tom Sawyer Island,17,57,Senior
+2024-01-23,22:00:00,Tom Sawyer Island,20,59,Child
+2024-01-23,09:00:00,Splash Mountain,27,87,Teen
+2024-01-23,10:00:00,Splash Mountain,30,110,Senior
+2024-01-23,11:00:00,Splash Mountain,7,106,Adult
+2024-01-23,12:00:00,Splash Mountain,7,74,Child
+2024-01-23,13:00:00,Splash Mountain,90,159,Adult
+2024-01-23,14:00:00,Splash Mountain,99,205,Adult
+2024-01-23,15:00:00,Splash Mountain,134,267,Adult
+2024-01-23,16:00:00,Splash Mountain,108,224,Senior
+2024-01-23,17:00:00,Splash Mountain,85,217,Teen
+2024-01-23,18:00:00,Splash Mountain,63,178,Adult
+2024-01-23,19:00:00,Splash Mountain,72,158,Adult
+2024-01-23,20:00:00,Splash Mountain,16,68,Teen
+2024-01-23,21:00:00,Splash Mountain,28,72,Senior
+2024-01-23,22:00:00,Splash Mountain,18,60,Adult
+2024-01-23,09:00:00,Liberty Square,12,73,Teen
+2024-01-23,10:00:00,Liberty Square,14,70,Child
+2024-01-23,11:00:00,Liberty Square,14,55,Teen
+2024-01-23,12:00:00,Liberty Square,23,106,Adult
+2024-01-23,13:00:00,Liberty Square,53,147,Child
+2024-01-23,14:00:00,Liberty Square,108,270,Adult
+2024-01-23,15:00:00,Liberty Square,57,137,Senior
+2024-01-23,16:00:00,Liberty Square,84,238,Adult
+2024-01-23,17:00:00,Liberty Square,78,131,Child
+2024-01-23,18:00:00,Liberty Square,120,203,Senior
+2024-01-23,19:00:00,Liberty Square,101,296,Senior
+2024-01-23,20:00:00,Liberty Square,21,70,Child
+2024-01-23,21:00:00,Liberty Square,53,97,Adult
+2024-01-23,22:00:00,Liberty Square,35,91,Senior
+2024-01-23,09:00:00,The Hall of Presidents,36,87,Teen
+2024-01-23,10:00:00,The Hall of Presidents,28,106,Child
+2024-01-23,11:00:00,The Hall of Presidents,8,111,Teen
+2024-01-23,12:00:00,The Hall of Presidents,15,120,Adult
+2024-01-23,13:00:00,The Hall of Presidents,45,106,Teen
+2024-01-23,14:00:00,The Hall of Presidents,88,214,Child
+2024-01-23,15:00:00,The Hall of Presidents,57,183,Teen
+2024-01-23,16:00:00,The Hall of Presidents,115,249,Teen
+2024-01-23,17:00:00,The Hall of Presidents,177,300,Adult
+2024-01-23,18:00:00,The Hall of Presidents,45,150,Child
+2024-01-23,19:00:00,The Hall of Presidents,136,237,Senior
+2024-01-23,20:00:00,The Hall of Presidents,24,93,Senior
+2024-01-23,21:00:00,The Hall of Presidents,32,62,Adult
+2024-01-23,22:00:00,The Hall of Presidents,46,88,Child
+2024-01-23,09:00:00,Haunted Mansion,29,96,Teen
+2024-01-23,10:00:00,Haunted Mansion,30,104,Senior
+2024-01-23,11:00:00,Haunted Mansion,5,97,Adult
+2024-01-23,12:00:00,Haunted Mansion,26,94,Adult
+2024-01-23,13:00:00,Haunted Mansion,122,214,Child
+2024-01-23,14:00:00,Haunted Mansion,83,155,Senior
+2024-01-23,15:00:00,Haunted Mansion,125,289,Senior
+2024-01-23,16:00:00,Haunted Mansion,61,173,Senior
+2024-01-23,17:00:00,Haunted Mansion,166,286,Senior
+2024-01-23,18:00:00,Haunted Mansion,76,135,Child
+2024-01-23,19:00:00,Haunted Mansion,49,136,Adult
+2024-01-23,20:00:00,Haunted Mansion,43,80,Adult
+2024-01-23,21:00:00,Haunted Mansion,24,54,Child
+2024-01-23,22:00:00,Haunted Mansion,23,50,Adult
+2024-01-23,09:00:00,Liberty Square Riverboat,17,103,Senior
+2024-01-23,10:00:00,Liberty Square Riverboat,12,67,Teen
+2024-01-23,11:00:00,Liberty Square Riverboat,23,98,Senior
+2024-01-23,12:00:00,Liberty Square Riverboat,14,55,Adult
+2024-01-23,13:00:00,Liberty Square Riverboat,107,226,Senior
+2024-01-23,14:00:00,Liberty Square Riverboat,48,157,Child
+2024-01-23,15:00:00,Liberty Square Riverboat,53,139,Adult
+2024-01-23,16:00:00,Liberty Square Riverboat,148,263,Senior
+2024-01-23,17:00:00,Liberty Square Riverboat,66,131,Adult
+2024-01-23,18:00:00,Liberty Square Riverboat,73,206,Senior
+2024-01-23,19:00:00,Liberty Square Riverboat,138,276,Teen
+2024-01-23,20:00:00,Liberty Square Riverboat,14,51,Adult
+2024-01-23,21:00:00,Liberty Square Riverboat,20,81,Adult
+2024-01-23,22:00:00,Liberty Square Riverboat,44,87,Senior
+2024-01-23,09:00:00,Main Street USA,38,83,Senior
+2024-01-23,10:00:00,Main Street USA,19,65,Child
+2024-01-23,11:00:00,Main Street USA,13,83,Child
+2024-01-23,12:00:00,Main Street USA,17,68,Senior
+2024-01-23,13:00:00,Main Street USA,95,277,Adult
+2024-01-23,14:00:00,Main Street USA,44,141,Adult
+2024-01-23,15:00:00,Main Street USA,83,192,Adult
+2024-01-23,16:00:00,Main Street USA,44,112,Adult
+2024-01-23,17:00:00,Main Street USA,118,235,Child
+2024-01-23,18:00:00,Main Street USA,84,231,Teen
+2024-01-23,19:00:00,Main Street USA,98,295,Teen
+2024-01-23,20:00:00,Main Street USA,34,84,Adult
+2024-01-23,21:00:00,Main Street USA,37,93,Adult
+2024-01-23,22:00:00,Main Street USA,40,93,Child
+2024-01-23,09:00:00,Tomorrowland,50,118,Adult
+2024-01-23,10:00:00,Tomorrowland,4,68,Teen
+2024-01-23,11:00:00,Tomorrowland,27,116,Adult
+2024-01-23,12:00:00,Tomorrowland,35,112,Adult
+2024-01-23,13:00:00,Tomorrowland,47,141,Teen
+2024-01-23,14:00:00,Tomorrowland,64,139,Teen
+2024-01-23,15:00:00,Tomorrowland,82,148,Child
+2024-01-23,16:00:00,Tomorrowland,91,206,Child
+2024-01-23,17:00:00,Tomorrowland,73,129,Teen
+2024-01-23,18:00:00,Tomorrowland,47,104,Adult
+2024-01-23,19:00:00,Tomorrowland,94,179,Adult
+2024-01-23,20:00:00,Tomorrowland,28,58,Adult
+2024-01-23,21:00:00,Tomorrowland,24,61,Child
+2024-01-23,22:00:00,Tomorrowland,27,97,Teen
+2024-01-23,09:00:00,Astro Orbiter,10,66,Teen
+2024-01-23,10:00:00,Astro Orbiter,12,89,Teen
+2024-01-23,11:00:00,Astro Orbiter,7,66,Senior
+2024-01-23,12:00:00,Astro Orbiter,6,64,Child
+2024-01-23,13:00:00,Astro Orbiter,135,298,Senior
+2024-01-23,14:00:00,Astro Orbiter,40,110,Child
+2024-01-23,15:00:00,Astro Orbiter,60,108,Child
+2024-01-23,16:00:00,Astro Orbiter,73,220,Adult
+2024-01-23,17:00:00,Astro Orbiter,36,111,Adult
+2024-01-23,18:00:00,Astro Orbiter,81,270,Child
+2024-01-23,19:00:00,Astro Orbiter,99,300,Teen
+2024-01-23,20:00:00,Astro Orbiter,28,87,Teen
+2024-01-23,21:00:00,Astro Orbiter,39,92,Child
+2024-01-23,22:00:00,Astro Orbiter,16,55,Adult
+2024-01-23,09:00:00,Buzz Lightyear's Space Ranger Spin,26,94,Teen
+2024-01-23,10:00:00,Buzz Lightyear's Space Ranger Spin,51,114,Teen
+2024-01-23,11:00:00,Buzz Lightyear's Space Ranger Spin,47,114,Child
+2024-01-23,12:00:00,Buzz Lightyear's Space Ranger Spin,27,62,Child
+2024-01-23,13:00:00,Buzz Lightyear's Space Ranger Spin,85,235,Teen
+2024-01-23,14:00:00,Buzz Lightyear's Space Ranger Spin,61,172,Child
+2024-01-23,15:00:00,Buzz Lightyear's Space Ranger Spin,95,285,Teen
+2024-01-23,16:00:00,Buzz Lightyear's Space Ranger Spin,131,229,Senior
+2024-01-23,17:00:00,Buzz Lightyear's Space Ranger Spin,101,193,Teen
+2024-01-23,18:00:00,Buzz Lightyear's Space Ranger Spin,109,212,Child
+2024-01-23,19:00:00,Buzz Lightyear's Space Ranger Spin,82,146,Adult
+2024-01-23,20:00:00,Buzz Lightyear's Space Ranger Spin,35,74,Teen
+2024-01-23,21:00:00,Buzz Lightyear's Space Ranger Spin,28,82,Senior
+2024-01-23,22:00:00,Buzz Lightyear's Space Ranger Spin,23,57,Child
+2024-01-23,09:00:00,Carousel of Progress,14,109,Teen
+2024-01-23,10:00:00,Carousel of Progress,32,113,Adult
+2024-01-23,11:00:00,Carousel of Progress,6,55,Adult
+2024-01-23,12:00:00,Carousel of Progress,14,113,Senior
+2024-01-23,13:00:00,Carousel of Progress,76,172,Adult
+2024-01-23,14:00:00,Carousel of Progress,154,275,Senior
+2024-01-23,15:00:00,Carousel of Progress,74,157,Senior
+2024-01-23,16:00:00,Carousel of Progress,100,174,Senior
+2024-01-23,17:00:00,Carousel of Progress,85,148,Child
+2024-01-23,18:00:00,Carousel of Progress,133,221,Adult
+2024-01-23,19:00:00,Carousel of Progress,44,145,Senior
+2024-01-23,20:00:00,Carousel of Progress,25,93,Senior
+2024-01-23,21:00:00,Carousel of Progress,42,78,Child
+2024-01-23,22:00:00,Carousel of Progress,17,57,Senior
+2024-01-23,09:00:00,"Monsters, Inc. Laugh Floor",43,101,Child
+2024-01-23,10:00:00,"Monsters, Inc. Laugh Floor",7,71,Adult
+2024-01-23,11:00:00,"Monsters, Inc. Laugh Floor",20,75,Teen
+2024-01-23,12:00:00,"Monsters, Inc. Laugh Floor",13,101,Teen
+2024-01-23,13:00:00,"Monsters, Inc. Laugh Floor",111,208,Senior
+2024-01-23,14:00:00,"Monsters, Inc. Laugh Floor",93,171,Adult
+2024-01-23,15:00:00,"Monsters, Inc. Laugh Floor",162,293,Senior
+2024-01-23,16:00:00,"Monsters, Inc. Laugh Floor",86,191,Senior
+2024-01-23,17:00:00,"Monsters, Inc. Laugh Floor",104,224,Adult
+2024-01-23,18:00:00,"Monsters, Inc. Laugh Floor",74,137,Senior
+2024-01-23,19:00:00,"Monsters, Inc. Laugh Floor",42,127,Adult
+2024-01-23,20:00:00,"Monsters, Inc. Laugh Floor",42,81,Teen
+2024-01-23,21:00:00,"Monsters, Inc. Laugh Floor",26,90,Child
+2024-01-23,22:00:00,"Monsters, Inc. Laugh Floor",13,56,Child
+2024-01-23,09:00:00,Space Mountain,7,113,Teen
+2024-01-23,10:00:00,Space Mountain,43,98,Adult
+2024-01-23,11:00:00,Space Mountain,17,69,Child
+2024-01-23,12:00:00,Space Mountain,23,59,Senior
+2024-01-23,13:00:00,Space Mountain,79,219,Adult
+2024-01-23,14:00:00,Space Mountain,122,269,Senior
+2024-01-23,15:00:00,Space Mountain,88,229,Adult
+2024-01-23,16:00:00,Space Mountain,112,238,Child
+2024-01-23,17:00:00,Space Mountain,92,295,Senior
+2024-01-23,18:00:00,Space Mountain,55,130,Senior
+2024-01-23,19:00:00,Space Mountain,103,180,Senior
+2024-01-23,20:00:00,Space Mountain,39,78,Child
+2024-01-23,21:00:00,Space Mountain,17,52,Adult
+2024-01-23,22:00:00,Space Mountain,29,95,Senior
+2024-01-23,09:00:00,Stitch's Great Escape! (Seasonal),14,105,Adult
+2024-01-23,10:00:00,Stitch's Great Escape! (Seasonal),36,99,Child
+2024-01-23,11:00:00,Stitch's Great Escape! (Seasonal),45,112,Senior
+2024-01-23,12:00:00,Stitch's Great Escape! (Seasonal),44,110,Teen
+2024-01-23,13:00:00,Stitch's Great Escape! (Seasonal),71,229,Senior
+2024-01-23,14:00:00,Stitch's Great Escape! (Seasonal),76,167,Senior
+2024-01-23,15:00:00,Stitch's Great Escape! (Seasonal),132,257,Adult
+2024-01-23,16:00:00,Stitch's Great Escape! (Seasonal),116,296,Adult
+2024-01-23,17:00:00,Stitch's Great Escape! (Seasonal),35,115,Child
+2024-01-23,18:00:00,Stitch's Great Escape! (Seasonal),74,132,Adult
+2024-01-23,19:00:00,Stitch's Great Escape! (Seasonal),104,189,Child
+2024-01-23,20:00:00,Stitch's Great Escape! (Seasonal),41,98,Senior
+2024-01-23,21:00:00,Stitch's Great Escape! (Seasonal),27,56,Adult
+2024-01-23,22:00:00,Stitch's Great Escape! (Seasonal),34,72,Adult
+2024-01-23,09:00:00,Tomorrowland Speedway,12,57,Teen
+2024-01-23,10:00:00,Tomorrowland Speedway,20,80,Child
+2024-01-23,11:00:00,Tomorrowland Speedway,14,58,Child
+2024-01-23,12:00:00,Tomorrowland Speedway,14,93,Child
+2024-01-23,13:00:00,Tomorrowland Speedway,95,237,Child
+2024-01-23,14:00:00,Tomorrowland Speedway,111,217,Senior
+2024-01-23,15:00:00,Tomorrowland Speedway,113,245,Senior
+2024-01-23,16:00:00,Tomorrowland Speedway,51,168,Senior
+2024-01-23,17:00:00,Tomorrowland Speedway,75,250,Adult
+2024-01-23,18:00:00,Tomorrowland Speedway,95,196,Senior
+2024-01-23,19:00:00,Tomorrowland Speedway,88,182,Child
+2024-01-23,20:00:00,Tomorrowland Speedway,22,81,Teen
+2024-01-23,21:00:00,Tomorrowland Speedway,37,71,Adult
+2024-01-23,22:00:00,Tomorrowland Speedway,24,60,Adult
+2024-01-23,09:00:00,Tomorrowland Transit Authority,18,105,Senior
+2024-01-23,10:00:00,Tomorrowland Transit Authority,24,59,Teen
+2024-01-23,11:00:00,Tomorrowland Transit Authority,19,86,Child
+2024-01-23,12:00:00,Tomorrowland Transit Authority,37,88,Senior
+2024-01-23,13:00:00,Tomorrowland Transit Authority,77,157,Child
+2024-01-23,14:00:00,Tomorrowland Transit Authority,162,283,Child
+2024-01-23,15:00:00,Tomorrowland Transit Authority,101,251,Adult
+2024-01-23,16:00:00,Tomorrowland Transit Authority,57,117,Senior
+2024-01-23,17:00:00,Tomorrowland Transit Authority,76,209,Adult
+2024-01-23,18:00:00,Tomorrowland Transit Authority,60,119,Adult
+2024-01-23,19:00:00,Tomorrowland Transit Authority,126,229,Adult
+2024-01-23,20:00:00,Tomorrowland Transit Authority,42,77,Adult
+2024-01-23,21:00:00,Tomorrowland Transit Authority,29,62,Senior
+2024-01-23,22:00:00,Tomorrowland Transit Authority,35,66,Senior
+2024-01-23,09:00:00,TRON Lightcycle Power Run Rollercoaster,20,120,Child
+2024-01-23,10:00:00,TRON Lightcycle Power Run Rollercoaster,19,116,Senior
+2024-01-23,11:00:00,TRON Lightcycle Power Run Rollercoaster,27,77,Adult
+2024-01-23,12:00:00,TRON Lightcycle Power Run Rollercoaster,52,118,Senior
+2024-01-23,13:00:00,TRON Lightcycle Power Run Rollercoaster,130,244,Child
+2024-01-23,14:00:00,TRON Lightcycle Power Run Rollercoaster,84,233,Adult
+2024-01-23,15:00:00,TRON Lightcycle Power Run Rollercoaster,75,218,Teen
+2024-01-23,16:00:00,TRON Lightcycle Power Run Rollercoaster,74,138,Adult
+2024-01-23,17:00:00,TRON Lightcycle Power Run Rollercoaster,91,211,Adult
+2024-01-23,18:00:00,TRON Lightcycle Power Run Rollercoaster,58,116,Teen
+2024-01-23,19:00:00,TRON Lightcycle Power Run Rollercoaster,78,205,Adult
+2024-01-23,20:00:00,TRON Lightcycle Power Run Rollercoaster,28,91,Adult
+2024-01-23,21:00:00,TRON Lightcycle Power Run Rollercoaster,33,93,Senior
+2024-01-23,22:00:00,TRON Lightcycle Power Run Rollercoaster,18,65,Teen
+2024-01-22,09:00:00,Enchanted Tiki Room,5,74,Teen
+2024-01-22,10:00:00,Enchanted Tiki Room,31,89,Senior
+2024-01-22,11:00:00,Enchanted Tiki Room,34,105,Child
+2024-01-22,12:00:00,Enchanted Tiki Room,12,75,Adult
+2024-01-22,13:00:00,Enchanted Tiki Room,41,134,Adult
+2024-01-22,14:00:00,Enchanted Tiki Room,88,171,Teen
+2024-01-22,15:00:00,Enchanted Tiki Room,151,264,Child
+2024-01-22,16:00:00,Enchanted Tiki Room,128,284,Child
+2024-01-22,17:00:00,Enchanted Tiki Room,65,114,Child
+2024-01-22,18:00:00,Enchanted Tiki Room,89,180,Adult
+2024-01-22,19:00:00,Enchanted Tiki Room,68,116,Senior
+2024-01-22,20:00:00,Enchanted Tiki Room,19,73,Senior
+2024-01-22,21:00:00,Enchanted Tiki Room,27,96,Teen
+2024-01-22,22:00:00,Enchanted Tiki Room,30,57,Child
+2024-01-22,09:00:00,Jungle Cruise,49,116,Adult
+2024-01-22,10:00:00,Jungle Cruise,12,113,Teen
+2024-01-22,11:00:00,Jungle Cruise,17,65,Adult
+2024-01-22,12:00:00,Jungle Cruise,20,99,Senior
+2024-01-22,13:00:00,Jungle Cruise,53,155,Child
+2024-01-22,14:00:00,Jungle Cruise,52,144,Adult
+2024-01-22,15:00:00,Jungle Cruise,92,212,Adult
+2024-01-22,16:00:00,Jungle Cruise,78,250,Senior
+2024-01-22,17:00:00,Jungle Cruise,97,236,Child
+2024-01-22,18:00:00,Jungle Cruise,86,181,Senior
+2024-01-22,19:00:00,Jungle Cruise,113,221,Teen
+2024-01-22,20:00:00,Jungle Cruise,20,67,Adult
+2024-01-22,21:00:00,Jungle Cruise,35,80,Adult
+2024-01-22,22:00:00,Jungle Cruise,12,51,Child
+2024-01-22,09:00:00,The Magic Carpets of Aladdin,17,80,Senior
+2024-01-22,10:00:00,The Magic Carpets of Aladdin,41,89,Adult
+2024-01-22,11:00:00,The Magic Carpets of Aladdin,26,65,Teen
+2024-01-22,12:00:00,The Magic Carpets of Aladdin,31,106,Child
+2024-01-22,13:00:00,The Magic Carpets of Aladdin,118,200,Adult
+2024-01-22,14:00:00,The Magic Carpets of Aladdin,57,177,Teen
+2024-01-22,15:00:00,The Magic Carpets of Aladdin,64,176,Teen
+2024-01-22,16:00:00,The Magic Carpets of Aladdin,106,212,Adult
+2024-01-22,17:00:00,The Magic Carpets of Aladdin,148,296,Senior
+2024-01-22,18:00:00,The Magic Carpets of Aladdin,42,108,Child
+2024-01-22,19:00:00,The Magic Carpets of Aladdin,180,299,Senior
+2024-01-22,20:00:00,The Magic Carpets of Aladdin,37,80,Adult
+2024-01-22,21:00:00,The Magic Carpets of Aladdin,45,95,Child
+2024-01-22,22:00:00,The Magic Carpets of Aladdin,22,60,Child
+2024-01-22,09:00:00,Pirates of the Caribbean,30,95,Adult
+2024-01-22,10:00:00,Pirates of the Caribbean,7,108,Child
+2024-01-22,11:00:00,Pirates of the Caribbean,33,73,Senior
+2024-01-22,12:00:00,Pirates of the Caribbean,4,67,Senior
+2024-01-22,13:00:00,Pirates of the Caribbean,76,151,Adult
+2024-01-22,14:00:00,Pirates of the Caribbean,87,180,Child
+2024-01-22,15:00:00,Pirates of the Caribbean,45,128,Teen
+2024-01-22,16:00:00,Pirates of the Caribbean,121,232,Teen
+2024-01-22,17:00:00,Pirates of the Caribbean,129,252,Senior
+2024-01-22,18:00:00,Pirates of the Caribbean,80,181,Senior
+2024-01-22,19:00:00,Pirates of the Caribbean,98,288,Adult
+2024-01-22,20:00:00,Pirates of the Caribbean,25,61,Adult
+2024-01-22,21:00:00,Pirates of the Caribbean,16,62,Senior
+2024-01-22,22:00:00,Pirates of the Caribbean,23,73,Senior
+2024-01-22,09:00:00,Swiss Family Treehouse,41,98,Teen
+2024-01-22,10:00:00,Swiss Family Treehouse,4,52,Teen
+2024-01-22,11:00:00,Swiss Family Treehouse,21,61,Teen
+2024-01-22,12:00:00,Swiss Family Treehouse,13,83,Child
+2024-01-22,13:00:00,Swiss Family Treehouse,99,202,Senior
+2024-01-22,14:00:00,Swiss Family Treehouse,97,253,Teen
+2024-01-22,15:00:00,Swiss Family Treehouse,74,122,Adult
+2024-01-22,16:00:00,Swiss Family Treehouse,86,143,Child
+2024-01-22,17:00:00,Swiss Family Treehouse,54,103,Senior
+2024-01-22,18:00:00,Swiss Family Treehouse,176,297,Senior
+2024-01-22,19:00:00,Swiss Family Treehouse,123,272,Child
+2024-01-22,20:00:00,Swiss Family Treehouse,22,64,Teen
+2024-01-22,21:00:00,Swiss Family Treehouse,37,100,Adult
+2024-01-22,22:00:00,Swiss Family Treehouse,50,97,Senior
+2024-01-22,09:00:00,Fantasyland,22,66,Teen
+2024-01-22,10:00:00,Fantasyland,18,77,Teen
+2024-01-22,11:00:00,Fantasyland,17,103,Senior
+2024-01-22,12:00:00,Fantasyland,5,68,Adult
+2024-01-22,13:00:00,Fantasyland,62,167,Senior
+2024-01-22,14:00:00,Fantasyland,67,163,Senior
+2024-01-22,15:00:00,Fantasyland,37,121,Senior
+2024-01-22,16:00:00,Fantasyland,77,134,Adult
+2024-01-22,17:00:00,Fantasyland,117,277,Teen
+2024-01-22,18:00:00,Fantasyland,119,282,Senior
+2024-01-22,19:00:00,Fantasyland,142,288,Adult
+2024-01-22,20:00:00,Fantasyland,15,54,Child
+2024-01-22,21:00:00,Fantasyland,22,53,Teen
+2024-01-22,22:00:00,Fantasyland,34,80,Child
+2024-01-22,09:00:00,The Barnstormer,11,50,Senior
+2024-01-22,10:00:00,The Barnstormer,27,88,Adult
+2024-01-22,11:00:00,The Barnstormer,27,66,Child
+2024-01-22,12:00:00,The Barnstormer,16,72,Teen
+2024-01-22,13:00:00,The Barnstormer,103,228,Adult
+2024-01-22,14:00:00,The Barnstormer,75,219,Child
+2024-01-22,15:00:00,The Barnstormer,95,181,Senior
+2024-01-22,16:00:00,The Barnstormer,52,136,Child
+2024-01-22,17:00:00,The Barnstormer,56,180,Teen
+2024-01-22,18:00:00,The Barnstormer,130,227,Adult
+2024-01-22,19:00:00,The Barnstormer,120,291,Senior
+2024-01-22,20:00:00,The Barnstormer,25,68,Adult
+2024-01-22,21:00:00,The Barnstormer,34,83,Senior
+2024-01-22,22:00:00,The Barnstormer,24,60,Senior
+2024-01-22,09:00:00,Dumbo the Flying Elephant,28,69,Senior
+2024-01-22,10:00:00,Dumbo the Flying Elephant,10,56,Teen
+2024-01-22,11:00:00,Dumbo the Flying Elephant,11,56,Teen
+2024-01-22,12:00:00,Dumbo the Flying Elephant,19,54,Adult
+2024-01-22,13:00:00,Dumbo the Flying Elephant,74,141,Senior
+2024-01-22,14:00:00,Dumbo the Flying Elephant,70,211,Senior
+2024-01-22,15:00:00,Dumbo the Flying Elephant,49,110,Adult
+2024-01-22,16:00:00,Dumbo the Flying Elephant,133,281,Senior
+2024-01-22,17:00:00,Dumbo the Flying Elephant,98,217,Child
+2024-01-22,18:00:00,Dumbo the Flying Elephant,162,284,Teen
+2024-01-22,19:00:00,Dumbo the Flying Elephant,54,131,Child
+2024-01-22,20:00:00,Dumbo the Flying Elephant,24,63,Teen
+2024-01-22,21:00:00,Dumbo the Flying Elephant,32,60,Adult
+2024-01-22,22:00:00,Dumbo the Flying Elephant,29,86,Child
+2024-01-22,09:00:00,Enchanted Tales with Belle,48,117,Teen
+2024-01-22,10:00:00,Enchanted Tales with Belle,10,103,Teen
+2024-01-22,11:00:00,Enchanted Tales with Belle,13,113,Adult
+2024-01-22,12:00:00,Enchanted Tales with Belle,13,53,Child
+2024-01-22,13:00:00,Enchanted Tales with Belle,82,200,Child
+2024-01-22,14:00:00,Enchanted Tales with Belle,62,182,Child
+2024-01-22,15:00:00,Enchanted Tales with Belle,53,120,Senior
+2024-01-22,16:00:00,Enchanted Tales with Belle,108,216,Adult
+2024-01-22,17:00:00,Enchanted Tales with Belle,129,252,Child
+2024-01-22,18:00:00,Enchanted Tales with Belle,58,184,Senior
+2024-01-22,19:00:00,Enchanted Tales with Belle,110,183,Teen
+2024-01-22,20:00:00,Enchanted Tales with Belle,15,63,Adult
+2024-01-22,21:00:00,Enchanted Tales with Belle,17,70,Child
+2024-01-22,22:00:00,Enchanted Tales with Belle,38,85,Child
+2024-01-22,09:00:00,it's a small world,22,101,Teen
+2024-01-22,10:00:00,it's a small world,24,80,Child
+2024-01-22,11:00:00,it's a small world,10,52,Teen
+2024-01-22,12:00:00,it's a small world,30,99,Adult
+2024-01-22,13:00:00,it's a small world,144,265,Teen
+2024-01-22,14:00:00,it's a small world,51,130,Senior
+2024-01-22,15:00:00,it's a small world,112,210,Adult
+2024-01-22,16:00:00,it's a small world,135,275,Teen
+2024-01-22,17:00:00,it's a small world,98,191,Child
+2024-01-22,18:00:00,it's a small world,90,194,Teen
+2024-01-22,19:00:00,it's a small world,99,225,Senior
+2024-01-22,20:00:00,it's a small world,30,80,Senior
+2024-01-22,21:00:00,it's a small world,26,55,Adult
+2024-01-22,22:00:00,it's a small world,28,89,Senior
+2024-01-22,09:00:00,Mad Tea Party,11,104,Child
+2024-01-22,10:00:00,Mad Tea Party,30,115,Senior
+2024-01-22,11:00:00,Mad Tea Party,11,78,Senior
+2024-01-22,12:00:00,Mad Tea Party,53,117,Child
+2024-01-22,13:00:00,Mad Tea Party,77,174,Senior
+2024-01-22,14:00:00,Mad Tea Party,71,120,Senior
+2024-01-22,15:00:00,Mad Tea Party,60,176,Teen
+2024-01-22,16:00:00,Mad Tea Party,160,275,Adult
+2024-01-22,17:00:00,Mad Tea Party,75,163,Senior
+2024-01-22,18:00:00,Mad Tea Party,84,175,Child
+2024-01-22,19:00:00,Mad Tea Party,78,241,Child
+2024-01-22,20:00:00,Mad Tea Party,22,82,Senior
+2024-01-22,21:00:00,Mad Tea Party,20,76,Senior
+2024-01-22,22:00:00,Mad Tea Party,34,92,Adult
+2024-01-22,09:00:00,Mickey's PhilharMagic,35,82,Child
+2024-01-22,10:00:00,Mickey's PhilharMagic,7,114,Child
+2024-01-22,11:00:00,Mickey's PhilharMagic,18,109,Teen
+2024-01-22,12:00:00,Mickey's PhilharMagic,7,100,Child
+2024-01-22,13:00:00,Mickey's PhilharMagic,120,206,Adult
+2024-01-22,14:00:00,Mickey's PhilharMagic,87,180,Senior
+2024-01-22,15:00:00,Mickey's PhilharMagic,150,293,Senior
+2024-01-22,16:00:00,Mickey's PhilharMagic,143,259,Adult
+2024-01-22,17:00:00,Mickey's PhilharMagic,113,187,Teen
+2024-01-22,18:00:00,Mickey's PhilharMagic,54,154,Child
+2024-01-22,19:00:00,Mickey's PhilharMagic,143,291,Adult
+2024-01-22,20:00:00,Mickey's PhilharMagic,25,93,Senior
+2024-01-22,21:00:00,Mickey's PhilharMagic,18,84,Child
+2024-01-22,22:00:00,Mickey's PhilharMagic,21,75,Child
+2024-01-22,09:00:00,The Many Adventures of Winnie the Pooh,25,71,Senior
+2024-01-22,10:00:00,The Many Adventures of Winnie the Pooh,44,101,Senior
+2024-01-22,11:00:00,The Many Adventures of Winnie the Pooh,39,88,Adult
+2024-01-22,12:00:00,The Many Adventures of Winnie the Pooh,24,100,Child
+2024-01-22,13:00:00,The Many Adventures of Winnie the Pooh,45,132,Child
+2024-01-22,14:00:00,The Many Adventures of Winnie the Pooh,49,148,Child
+2024-01-22,15:00:00,The Many Adventures of Winnie the Pooh,101,278,Child
+2024-01-22,16:00:00,The Many Adventures of Winnie the Pooh,69,153,Teen
+2024-01-22,17:00:00,The Many Adventures of Winnie the Pooh,99,266,Senior
+2024-01-22,18:00:00,The Many Adventures of Winnie the Pooh,149,260,Teen
+2024-01-22,19:00:00,The Many Adventures of Winnie the Pooh,48,122,Senior
+2024-01-22,20:00:00,The Many Adventures of Winnie the Pooh,30,59,Senior
+2024-01-22,21:00:00,The Many Adventures of Winnie the Pooh,14,51,Teen
+2024-01-22,22:00:00,The Many Adventures of Winnie the Pooh,29,59,Senior
+2024-01-22,09:00:00,Peter Pan's Flight,7,110,Senior
+2024-01-22,10:00:00,Peter Pan's Flight,14,81,Adult
+2024-01-22,11:00:00,Peter Pan's Flight,8,100,Adult
+2024-01-22,12:00:00,Peter Pan's Flight,6,51,Senior
+2024-01-22,13:00:00,Peter Pan's Flight,118,206,Senior
+2024-01-22,14:00:00,Peter Pan's Flight,139,288,Adult
+2024-01-22,15:00:00,Peter Pan's Flight,50,109,Senior
+2024-01-22,16:00:00,Peter Pan's Flight,104,224,Senior
+2024-01-22,17:00:00,Peter Pan's Flight,83,159,Child
+2024-01-22,18:00:00,Peter Pan's Flight,71,235,Senior
+2024-01-22,19:00:00,Peter Pan's Flight,99,247,Child
+2024-01-22,20:00:00,Peter Pan's Flight,31,67,Senior
+2024-01-22,21:00:00,Peter Pan's Flight,30,57,Adult
+2024-01-22,22:00:00,Peter Pan's Flight,37,78,Child
+2024-01-22,09:00:00,Prince Charming's Regal Carrousel,17,70,Teen
+2024-01-22,10:00:00,Prince Charming's Regal Carrousel,30,110,Senior
+2024-01-22,11:00:00,Prince Charming's Regal Carrousel,30,79,Teen
+2024-01-22,12:00:00,Prince Charming's Regal Carrousel,40,93,Senior
+2024-01-22,13:00:00,Prince Charming's Regal Carrousel,78,133,Adult
+2024-01-22,14:00:00,Prince Charming's Regal Carrousel,149,285,Senior
+2024-01-22,15:00:00,Prince Charming's Regal Carrousel,116,206,Adult
+2024-01-22,16:00:00,Prince Charming's Regal Carrousel,121,220,Teen
+2024-01-22,17:00:00,Prince Charming's Regal Carrousel,94,259,Adult
+2024-01-22,18:00:00,Prince Charming's Regal Carrousel,147,276,Child
+2024-01-22,19:00:00,Prince Charming's Regal Carrousel,122,270,Teen
+2024-01-22,20:00:00,Prince Charming's Regal Carrousel,20,61,Teen
+2024-01-22,21:00:00,Prince Charming's Regal Carrousel,45,88,Child
+2024-01-22,22:00:00,Prince Charming's Regal Carrousel,46,100,Senior
+2024-01-22,09:00:00,Princess Fairytale Hall,18,88,Teen
+2024-01-22,10:00:00,Princess Fairytale Hall,4,56,Adult
+2024-01-22,11:00:00,Princess Fairytale Hall,23,83,Teen
+2024-01-22,12:00:00,Princess Fairytale Hall,27,72,Child
+2024-01-22,13:00:00,Princess Fairytale Hall,47,116,Senior
+2024-01-22,14:00:00,Princess Fairytale Hall,64,129,Teen
+2024-01-22,15:00:00,Princess Fairytale Hall,62,130,Teen
+2024-01-22,16:00:00,Princess Fairytale Hall,86,224,Adult
+2024-01-22,17:00:00,Princess Fairytale Hall,123,300,Child
+2024-01-22,18:00:00,Princess Fairytale Hall,173,297,Adult
+2024-01-22,19:00:00,Princess Fairytale Hall,79,138,Child
+2024-01-22,20:00:00,Princess Fairytale Hall,22,95,Senior
+2024-01-22,21:00:00,Princess Fairytale Hall,22,79,Child
+2024-01-22,22:00:00,Princess Fairytale Hall,26,100,Child
+2024-01-22,09:00:00,Seven Dwarfs Mine Train,13,114,Teen
+2024-01-22,10:00:00,Seven Dwarfs Mine Train,12,65,Adult
+2024-01-22,11:00:00,Seven Dwarfs Mine Train,17,70,Senior
+2024-01-22,12:00:00,Seven Dwarfs Mine Train,42,114,Child
+2024-01-22,13:00:00,Seven Dwarfs Mine Train,70,139,Adult
+2024-01-22,14:00:00,Seven Dwarfs Mine Train,104,185,Teen
+2024-01-22,15:00:00,Seven Dwarfs Mine Train,75,131,Teen
+2024-01-22,16:00:00,Seven Dwarfs Mine Train,92,212,Child
+2024-01-22,17:00:00,Seven Dwarfs Mine Train,91,162,Senior
+2024-01-22,18:00:00,Seven Dwarfs Mine Train,73,187,Teen
+2024-01-22,19:00:00,Seven Dwarfs Mine Train,46,121,Adult
+2024-01-22,20:00:00,Seven Dwarfs Mine Train,44,95,Adult
+2024-01-22,21:00:00,Seven Dwarfs Mine Train,32,90,Teen
+2024-01-22,22:00:00,Seven Dwarfs Mine Train,52,98,Senior
+2024-01-22,09:00:00,Under the Sea: Journey of the Little Mermaid,11,79,Senior
+2024-01-22,10:00:00,Under the Sea: Journey of the Little Mermaid,32,102,Senior
+2024-01-22,11:00:00,Under the Sea: Journey of the Little Mermaid,33,116,Child
+2024-01-22,12:00:00,Under the Sea: Journey of the Little Mermaid,15,106,Child
+2024-01-22,13:00:00,Under the Sea: Journey of the Little Mermaid,156,283,Child
+2024-01-22,14:00:00,Under the Sea: Journey of the Little Mermaid,49,121,Adult
+2024-01-22,15:00:00,Under the Sea: Journey of the Little Mermaid,110,202,Teen
+2024-01-22,16:00:00,Under the Sea: Journey of the Little Mermaid,66,211,Senior
+2024-01-22,17:00:00,Under the Sea: Journey of the Little Mermaid,92,294,Teen
+2024-01-22,18:00:00,Under the Sea: Journey of the Little Mermaid,77,247,Adult
+2024-01-22,19:00:00,Under the Sea: Journey of the Little Mermaid,87,207,Adult
+2024-01-22,20:00:00,Under the Sea: Journey of the Little Mermaid,39,96,Adult
+2024-01-22,21:00:00,Under the Sea: Journey of the Little Mermaid,19,50,Teen
+2024-01-22,22:00:00,Under the Sea: Journey of the Little Mermaid,43,94,Senior
+2024-01-22,09:00:00,Frontierland,30,76,Senior
+2024-01-22,10:00:00,Frontierland,29,94,Teen
+2024-01-22,11:00:00,Frontierland,9,88,Child
+2024-01-22,12:00:00,Frontierland,31,118,Senior
+2024-01-22,13:00:00,Frontierland,152,285,Teen
+2024-01-22,14:00:00,Frontierland,110,233,Adult
+2024-01-22,15:00:00,Frontierland,50,154,Adult
+2024-01-22,16:00:00,Frontierland,94,233,Teen
+2024-01-22,17:00:00,Frontierland,32,105,Adult
+2024-01-22,18:00:00,Frontierland,91,161,Adult
+2024-01-22,19:00:00,Frontierland,123,285,Child
+2024-01-22,20:00:00,Frontierland,23,96,Adult
+2024-01-22,21:00:00,Frontierland,35,66,Adult
+2024-01-22,22:00:00,Frontierland,14,57,Child
+2024-01-22,09:00:00,Big Thunder Mountain,26,107,Child
+2024-01-22,10:00:00,Big Thunder Mountain,29,108,Teen
+2024-01-22,11:00:00,Big Thunder Mountain,51,118,Teen
+2024-01-22,12:00:00,Big Thunder Mountain,23,94,Adult
+2024-01-22,13:00:00,Big Thunder Mountain,149,270,Teen
+2024-01-22,14:00:00,Big Thunder Mountain,119,282,Teen
+2024-01-22,15:00:00,Big Thunder Mountain,51,126,Teen
+2024-01-22,16:00:00,Big Thunder Mountain,123,299,Senior
+2024-01-22,17:00:00,Big Thunder Mountain,43,125,Senior
+2024-01-22,18:00:00,Big Thunder Mountain,66,205,Child
+2024-01-22,19:00:00,Big Thunder Mountain,50,115,Teen
+2024-01-22,20:00:00,Big Thunder Mountain,27,80,Senior
+2024-01-22,21:00:00,Big Thunder Mountain,24,54,Senior
+2024-01-22,22:00:00,Big Thunder Mountain,48,87,Senior
+2024-01-22,09:00:00,Country Bear Jamboree,35,83,Senior
+2024-01-22,10:00:00,Country Bear Jamboree,35,104,Senior
+2024-01-22,11:00:00,Country Bear Jamboree,16,103,Teen
+2024-01-22,12:00:00,Country Bear Jamboree,15,114,Senior
+2024-01-22,13:00:00,Country Bear Jamboree,125,282,Teen
+2024-01-22,14:00:00,Country Bear Jamboree,129,280,Child
+2024-01-22,15:00:00,Country Bear Jamboree,100,277,Senior
+2024-01-22,16:00:00,Country Bear Jamboree,69,221,Teen
+2024-01-22,17:00:00,Country Bear Jamboree,100,243,Child
+2024-01-22,18:00:00,Country Bear Jamboree,145,254,Senior
+2024-01-22,19:00:00,Country Bear Jamboree,43,128,Adult
+2024-01-22,20:00:00,Country Bear Jamboree,33,86,Child
+2024-01-22,21:00:00,Country Bear Jamboree,25,83,Child
+2024-01-22,22:00:00,Country Bear Jamboree,29,73,Adult
+2024-01-22,09:00:00,Tom Sawyer Island,21,88,Senior
+2024-01-22,10:00:00,Tom Sawyer Island,8,53,Teen
+2024-01-22,11:00:00,Tom Sawyer Island,9,103,Adult
+2024-01-22,12:00:00,Tom Sawyer Island,16,86,Teen
+2024-01-22,13:00:00,Tom Sawyer Island,131,289,Child
+2024-01-22,14:00:00,Tom Sawyer Island,62,131,Adult
+2024-01-22,15:00:00,Tom Sawyer Island,67,117,Child
+2024-01-22,16:00:00,Tom Sawyer Island,93,206,Adult
+2024-01-22,17:00:00,Tom Sawyer Island,108,244,Adult
+2024-01-22,18:00:00,Tom Sawyer Island,126,300,Senior
+2024-01-22,19:00:00,Tom Sawyer Island,160,284,Teen
+2024-01-22,20:00:00,Tom Sawyer Island,28,98,Senior
+2024-01-22,21:00:00,Tom Sawyer Island,48,98,Senior
+2024-01-22,22:00:00,Tom Sawyer Island,24,59,Child
+2024-01-22,09:00:00,Splash Mountain,30,102,Teen
+2024-01-22,10:00:00,Splash Mountain,26,100,Child
+2024-01-22,11:00:00,Splash Mountain,24,106,Child
+2024-01-22,12:00:00,Splash Mountain,5,71,Adult
+2024-01-22,13:00:00,Splash Mountain,122,243,Child
+2024-01-22,14:00:00,Splash Mountain,125,264,Child
+2024-01-22,15:00:00,Splash Mountain,90,149,Child
+2024-01-22,16:00:00,Splash Mountain,113,245,Teen
+2024-01-22,17:00:00,Splash Mountain,132,292,Child
+2024-01-22,18:00:00,Splash Mountain,67,130,Teen
+2024-01-22,19:00:00,Splash Mountain,40,104,Teen
+2024-01-22,20:00:00,Splash Mountain,32,65,Child
+2024-01-22,21:00:00,Splash Mountain,34,84,Senior
+2024-01-22,22:00:00,Splash Mountain,20,87,Senior
+2024-01-22,09:00:00,Liberty Square,14,52,Senior
+2024-01-22,10:00:00,Liberty Square,23,73,Child
+2024-01-22,11:00:00,Liberty Square,30,117,Senior
+2024-01-22,12:00:00,Liberty Square,9,82,Child
+2024-01-22,13:00:00,Liberty Square,59,125,Teen
+2024-01-22,14:00:00,Liberty Square,59,173,Teen
+2024-01-22,15:00:00,Liberty Square,90,165,Child
+2024-01-22,16:00:00,Liberty Square,55,139,Senior
+2024-01-22,17:00:00,Liberty Square,96,273,Child
+2024-01-22,18:00:00,Liberty Square,155,257,Adult
+2024-01-22,19:00:00,Liberty Square,44,146,Child
+2024-01-22,20:00:00,Liberty Square,31,69,Child
+2024-01-22,21:00:00,Liberty Square,21,70,Senior
+2024-01-22,22:00:00,Liberty Square,26,70,Senior
+2024-01-22,09:00:00,The Hall of Presidents,6,65,Teen
+2024-01-22,10:00:00,The Hall of Presidents,35,80,Teen
+2024-01-22,11:00:00,The Hall of Presidents,42,113,Senior
+2024-01-22,12:00:00,The Hall of Presidents,15,64,Child
+2024-01-22,13:00:00,The Hall of Presidents,80,181,Senior
+2024-01-22,14:00:00,The Hall of Presidents,53,116,Child
+2024-01-22,15:00:00,The Hall of Presidents,102,204,Teen
+2024-01-22,16:00:00,The Hall of Presidents,40,104,Child
+2024-01-22,17:00:00,The Hall of Presidents,89,163,Teen
+2024-01-22,18:00:00,The Hall of Presidents,85,177,Senior
+2024-01-22,19:00:00,The Hall of Presidents,69,214,Teen
+2024-01-22,20:00:00,The Hall of Presidents,29,100,Adult
+2024-01-22,21:00:00,The Hall of Presidents,26,84,Teen
+2024-01-22,22:00:00,The Hall of Presidents,40,84,Senior
+2024-01-22,09:00:00,Haunted Mansion,3,55,Senior
+2024-01-22,10:00:00,Haunted Mansion,14,87,Child
+2024-01-22,11:00:00,Haunted Mansion,20,57,Adult
+2024-01-22,12:00:00,Haunted Mansion,24,82,Adult
+2024-01-22,13:00:00,Haunted Mansion,94,261,Adult
+2024-01-22,14:00:00,Haunted Mansion,39,111,Child
+2024-01-22,15:00:00,Haunted Mansion,57,176,Senior
+2024-01-22,16:00:00,Haunted Mansion,92,278,Teen
+2024-01-22,17:00:00,Haunted Mansion,134,285,Adult
+2024-01-22,18:00:00,Haunted Mansion,76,210,Adult
+2024-01-22,19:00:00,Haunted Mansion,165,274,Adult
+2024-01-22,20:00:00,Haunted Mansion,33,90,Senior
+2024-01-22,21:00:00,Haunted Mansion,24,67,Adult
+2024-01-22,22:00:00,Haunted Mansion,24,71,Senior
+2024-01-22,09:00:00,Liberty Square Riverboat,6,92,Teen
+2024-01-22,10:00:00,Liberty Square Riverboat,22,50,Senior
+2024-01-22,11:00:00,Liberty Square Riverboat,3,50,Teen
+2024-01-22,12:00:00,Liberty Square Riverboat,41,102,Senior
+2024-01-22,13:00:00,Liberty Square Riverboat,124,295,Child
+2024-01-22,14:00:00,Liberty Square Riverboat,133,266,Child
+2024-01-22,15:00:00,Liberty Square Riverboat,72,237,Senior
+2024-01-22,16:00:00,Liberty Square Riverboat,90,272,Adult
+2024-01-22,17:00:00,Liberty Square Riverboat,110,196,Adult
+2024-01-22,18:00:00,Liberty Square Riverboat,70,199,Child
+2024-01-22,19:00:00,Liberty Square Riverboat,58,131,Adult
+2024-01-22,20:00:00,Liberty Square Riverboat,30,62,Child
+2024-01-22,21:00:00,Liberty Square Riverboat,14,64,Adult
+2024-01-22,22:00:00,Liberty Square Riverboat,40,93,Teen
+2024-01-22,09:00:00,Main Street USA,27,61,Adult
+2024-01-22,10:00:00,Main Street USA,15,78,Senior
+2024-01-22,11:00:00,Main Street USA,7,96,Adult
+2024-01-22,12:00:00,Main Street USA,49,113,Teen
+2024-01-22,13:00:00,Main Street USA,37,101,Senior
+2024-01-22,14:00:00,Main Street USA,73,128,Adult
+2024-01-22,15:00:00,Main Street USA,113,245,Senior
+2024-01-22,16:00:00,Main Street USA,68,143,Teen
+2024-01-22,17:00:00,Main Street USA,143,268,Teen
+2024-01-22,18:00:00,Main Street USA,56,116,Teen
+2024-01-22,19:00:00,Main Street USA,93,290,Teen
+2024-01-22,20:00:00,Main Street USA,23,66,Adult
+2024-01-22,21:00:00,Main Street USA,14,62,Adult
+2024-01-22,22:00:00,Main Street USA,52,93,Senior
+2024-01-22,09:00:00,Tomorrowland,16,50,Child
+2024-01-22,10:00:00,Tomorrowland,30,91,Senior
+2024-01-22,11:00:00,Tomorrowland,11,85,Senior
+2024-01-22,12:00:00,Tomorrowland,32,113,Child
+2024-01-22,13:00:00,Tomorrowland,106,284,Child
+2024-01-22,14:00:00,Tomorrowland,101,171,Senior
+2024-01-22,15:00:00,Tomorrowland,104,236,Adult
+2024-01-22,16:00:00,Tomorrowland,43,101,Teen
+2024-01-22,17:00:00,Tomorrowland,60,185,Child
+2024-01-22,18:00:00,Tomorrowland,107,288,Senior
+2024-01-22,19:00:00,Tomorrowland,71,119,Teen
+2024-01-22,20:00:00,Tomorrowland,19,62,Adult
+2024-01-22,21:00:00,Tomorrowland,17,69,Child
+2024-01-22,22:00:00,Tomorrowland,26,51,Senior
+2024-01-22,09:00:00,Astro Orbiter,23,53,Adult
+2024-01-22,10:00:00,Astro Orbiter,17,82,Child
+2024-01-22,11:00:00,Astro Orbiter,22,110,Adult
+2024-01-22,12:00:00,Astro Orbiter,15,56,Teen
+2024-01-22,13:00:00,Astro Orbiter,64,118,Senior
+2024-01-22,14:00:00,Astro Orbiter,98,295,Senior
+2024-01-22,15:00:00,Astro Orbiter,82,248,Child
+2024-01-22,16:00:00,Astro Orbiter,68,115,Child
+2024-01-22,17:00:00,Astro Orbiter,79,196,Child
+2024-01-22,18:00:00,Astro Orbiter,102,300,Child
+2024-01-22,19:00:00,Astro Orbiter,67,213,Adult
+2024-01-22,20:00:00,Astro Orbiter,42,89,Child
+2024-01-22,21:00:00,Astro Orbiter,13,56,Child
+2024-01-22,22:00:00,Astro Orbiter,30,68,Senior
+2024-01-22,09:00:00,Buzz Lightyear's Space Ranger Spin,28,62,Senior
+2024-01-22,10:00:00,Buzz Lightyear's Space Ranger Spin,34,79,Child
+2024-01-22,11:00:00,Buzz Lightyear's Space Ranger Spin,32,108,Senior
+2024-01-22,12:00:00,Buzz Lightyear's Space Ranger Spin,46,104,Child
+2024-01-22,13:00:00,Buzz Lightyear's Space Ranger Spin,93,186,Child
+2024-01-22,14:00:00,Buzz Lightyear's Space Ranger Spin,100,216,Adult
+2024-01-22,15:00:00,Buzz Lightyear's Space Ranger Spin,90,250,Child
+2024-01-22,16:00:00,Buzz Lightyear's Space Ranger Spin,38,126,Child
+2024-01-22,17:00:00,Buzz Lightyear's Space Ranger Spin,139,251,Teen
+2024-01-22,18:00:00,Buzz Lightyear's Space Ranger Spin,84,246,Adult
+2024-01-22,19:00:00,Buzz Lightyear's Space Ranger Spin,82,190,Senior
+2024-01-22,20:00:00,Buzz Lightyear's Space Ranger Spin,47,96,Teen
+2024-01-22,21:00:00,Buzz Lightyear's Space Ranger Spin,19,65,Child
+2024-01-22,22:00:00,Buzz Lightyear's Space Ranger Spin,15,53,Adult
+2024-01-22,09:00:00,Carousel of Progress,39,105,Adult
+2024-01-22,10:00:00,Carousel of Progress,38,89,Teen
+2024-01-22,11:00:00,Carousel of Progress,24,68,Adult
+2024-01-22,12:00:00,Carousel of Progress,22,93,Adult
+2024-01-22,13:00:00,Carousel of Progress,47,102,Teen
+2024-01-22,14:00:00,Carousel of Progress,43,114,Child
+2024-01-22,15:00:00,Carousel of Progress,86,208,Teen
+2024-01-22,16:00:00,Carousel of Progress,76,151,Teen
+2024-01-22,17:00:00,Carousel of Progress,47,117,Teen
+2024-01-22,18:00:00,Carousel of Progress,122,270,Senior
+2024-01-22,19:00:00,Carousel of Progress,132,253,Adult
+2024-01-22,20:00:00,Carousel of Progress,36,87,Adult
+2024-01-22,21:00:00,Carousel of Progress,32,76,Teen
+2024-01-22,22:00:00,Carousel of Progress,28,56,Child
+2024-01-22,09:00:00,"Monsters, Inc. Laugh Floor",22,113,Child
+2024-01-22,10:00:00,"Monsters, Inc. Laugh Floor",15,78,Senior
+2024-01-22,11:00:00,"Monsters, Inc. Laugh Floor",16,77,Senior
+2024-01-22,12:00:00,"Monsters, Inc. Laugh Floor",27,92,Teen
+2024-01-22,13:00:00,"Monsters, Inc. Laugh Floor",71,202,Child
+2024-01-22,14:00:00,"Monsters, Inc. Laugh Floor",58,192,Child
+2024-01-22,15:00:00,"Monsters, Inc. Laugh Floor",58,191,Child
+2024-01-22,16:00:00,"Monsters, Inc. Laugh Floor",54,136,Senior
+2024-01-22,17:00:00,"Monsters, Inc. Laugh Floor",75,149,Adult
+2024-01-22,18:00:00,"Monsters, Inc. Laugh Floor",34,111,Teen
+2024-01-22,19:00:00,"Monsters, Inc. Laugh Floor",59,150,Teen
+2024-01-22,20:00:00,"Monsters, Inc. Laugh Floor",24,64,Teen
+2024-01-22,21:00:00,"Monsters, Inc. Laugh Floor",40,71,Teen
+2024-01-22,22:00:00,"Monsters, Inc. Laugh Floor",20,61,Child
+2024-01-22,09:00:00,Space Mountain,16,72,Child
+2024-01-22,10:00:00,Space Mountain,7,52,Senior
+2024-01-22,11:00:00,Space Mountain,17,64,Teen
+2024-01-22,12:00:00,Space Mountain,31,89,Teen
+2024-01-22,13:00:00,Space Mountain,107,194,Adult
+2024-01-22,14:00:00,Space Mountain,95,269,Senior
+2024-01-22,15:00:00,Space Mountain,91,282,Child
+2024-01-22,16:00:00,Space Mountain,79,136,Teen
+2024-01-22,17:00:00,Space Mountain,54,148,Senior
+2024-01-22,18:00:00,Space Mountain,114,277,Adult
+2024-01-22,19:00:00,Space Mountain,109,253,Teen
+2024-01-22,20:00:00,Space Mountain,17,52,Adult
+2024-01-22,21:00:00,Space Mountain,29,100,Adult
+2024-01-22,22:00:00,Space Mountain,15,65,Adult
+2024-01-22,09:00:00,Stitch's Great Escape! (Seasonal),25,66,Senior
+2024-01-22,10:00:00,Stitch's Great Escape! (Seasonal),8,76,Senior
+2024-01-22,11:00:00,Stitch's Great Escape! (Seasonal),9,58,Senior
+2024-01-22,12:00:00,Stitch's Great Escape! (Seasonal),33,115,Senior
+2024-01-22,13:00:00,Stitch's Great Escape! (Seasonal),103,232,Teen
+2024-01-22,14:00:00,Stitch's Great Escape! (Seasonal),95,182,Adult
+2024-01-22,15:00:00,Stitch's Great Escape! (Seasonal),122,234,Senior
+2024-01-22,16:00:00,Stitch's Great Escape! (Seasonal),170,283,Senior
+2024-01-22,17:00:00,Stitch's Great Escape! (Seasonal),84,221,Senior
+2024-01-22,18:00:00,Stitch's Great Escape! (Seasonal),156,263,Child
+2024-01-22,19:00:00,Stitch's Great Escape! (Seasonal),57,153,Teen
+2024-01-22,20:00:00,Stitch's Great Escape! (Seasonal),28,78,Senior
+2024-01-22,21:00:00,Stitch's Great Escape! (Seasonal),25,63,Senior
+2024-01-22,22:00:00,Stitch's Great Escape! (Seasonal),23,74,Adult
+2024-01-22,09:00:00,Tomorrowland Speedway,33,82,Child
+2024-01-22,10:00:00,Tomorrowland Speedway,7,67,Adult
+2024-01-22,11:00:00,Tomorrowland Speedway,41,106,Adult
+2024-01-22,12:00:00,Tomorrowland Speedway,34,79,Child
+2024-01-22,13:00:00,Tomorrowland Speedway,101,219,Adult
+2024-01-22,14:00:00,Tomorrowland Speedway,92,209,Senior
+2024-01-22,15:00:00,Tomorrowland Speedway,91,210,Adult
+2024-01-22,16:00:00,Tomorrowland Speedway,91,227,Adult
+2024-01-22,17:00:00,Tomorrowland Speedway,60,197,Teen
+2024-01-22,18:00:00,Tomorrowland Speedway,79,213,Adult
+2024-01-22,19:00:00,Tomorrowland Speedway,85,265,Adult
+2024-01-22,20:00:00,Tomorrowland Speedway,21,55,Child
+2024-01-22,21:00:00,Tomorrowland Speedway,37,100,Teen
+2024-01-22,22:00:00,Tomorrowland Speedway,16,56,Child
+2024-01-22,09:00:00,Tomorrowland Transit Authority,7,96,Teen
+2024-01-22,10:00:00,Tomorrowland Transit Authority,16,92,Adult
+2024-01-22,11:00:00,Tomorrowland Transit Authority,20,82,Adult
+2024-01-22,12:00:00,Tomorrowland Transit Authority,32,74,Teen
+2024-01-22,13:00:00,Tomorrowland Transit Authority,152,292,Adult
+2024-01-22,14:00:00,Tomorrowland Transit Authority,56,102,Adult
+2024-01-22,15:00:00,Tomorrowland Transit Authority,97,172,Adult
+2024-01-22,16:00:00,Tomorrowland Transit Authority,126,300,Senior
+2024-01-22,17:00:00,Tomorrowland Transit Authority,134,248,Child
+2024-01-22,18:00:00,Tomorrowland Transit Authority,110,220,Teen
+2024-01-22,19:00:00,Tomorrowland Transit Authority,75,201,Teen
+2024-01-22,20:00:00,Tomorrowland Transit Authority,32,96,Senior
+2024-01-22,21:00:00,Tomorrowland Transit Authority,34,64,Senior
+2024-01-22,22:00:00,Tomorrowland Transit Authority,48,96,Adult
+2024-01-22,09:00:00,TRON Lightcycle Power Run Rollercoaster,15,60,Teen
+2024-01-22,10:00:00,TRON Lightcycle Power Run Rollercoaster,33,104,Teen
+2024-01-22,11:00:00,TRON Lightcycle Power Run Rollercoaster,35,106,Child
+2024-01-22,12:00:00,TRON Lightcycle Power Run Rollercoaster,13,97,Teen
+2024-01-22,13:00:00,TRON Lightcycle Power Run Rollercoaster,107,178,Child
+2024-01-22,14:00:00,TRON Lightcycle Power Run Rollercoaster,125,227,Adult
+2024-01-22,15:00:00,TRON Lightcycle Power Run Rollercoaster,69,186,Senior
+2024-01-22,16:00:00,TRON Lightcycle Power Run Rollercoaster,107,208,Senior
+2024-01-22,17:00:00,TRON Lightcycle Power Run Rollercoaster,160,295,Adult
+2024-01-22,18:00:00,TRON Lightcycle Power Run Rollercoaster,88,183,Child
+2024-01-22,19:00:00,TRON Lightcycle Power Run Rollercoaster,135,245,Child
+2024-01-22,20:00:00,TRON Lightcycle Power Run Rollercoaster,17,58,Adult
+2024-01-22,21:00:00,TRON Lightcycle Power Run Rollercoaster,39,86,Senior
+2024-01-22,22:00:00,TRON Lightcycle Power Run Rollercoaster,29,63,Child
